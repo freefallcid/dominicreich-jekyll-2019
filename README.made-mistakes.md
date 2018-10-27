@@ -1,13 +1,12 @@
-# [DOMINIC REICH](https://dominicreich.com) Source Code
+# [Made Mistakes](https://mademistakes.com) Source Code
 
-This is the source code of DOMINICREICH.COM, a personal website and weblog built
-with [Jekyll](http://jekyllrb.com), [Gulp](http://gulpjs.com/), and
+This is the source code of Made Mistakes, a personal blog and portfolio built 
+with [Jekyll](http://jekyllrb.com), [Gulp](http://gulpjs.com/), and 
 [Travis CI](https://travis-ci.org/).
 
-This is a **modified** readme file that shall reflect my own project/website. If you are
-looking for the [original readme file](https://github.com/freefallcid/dominicreich-jekyll/blob/master/README.made-mistakes.md)
-I suggest you head over to the [original repository of Made Mistakes](https://github.com/mmistakes/made-mistakes-jekyll).
-I try to keep this file up to date but I cannot guarantee anything.
+*Please note: Made Mistakes hasn't been "themed" like some of my other 
+[Jekyll repos](https://mademistakes.com/work/jekyll-themes/) and isn't compatible 
+with the "default" GitHub Pages workflow without substantial alterations.*
 
 ### Plugins Used
 
@@ -17,6 +16,9 @@ I try to keep this file up to date but I cannot guarantee anything.
 - [Jekyll Paginate v2](https://github.com/sverrirs/jekyll-paginate-v2)
 
 ### Images
+
+[Made Mistakes](https://mademistakes.com) has a lot of image assets. 
+`src/assets/images/` has been split into its [own repo](https://github.com/mmistakes/made-mistakes-images) and included as a Git submodule.
 
 `page.image.feature` should be placed in `src/assets/images/feature`. These 
 `feature` images will be converted into various sizes to be responsively served 
@@ -171,7 +173,8 @@ post or page's main content you'd use:
 
 ```liquid
 {% vimeo 97649261 %}
-``` 
+```
+
 ### Local Development
 
 Let Jekyll do what it does best and transform your content into HTML. Asset 
@@ -418,8 +421,6 @@ Comments are disabled by default. To enable add `comments: true` to the YAML
 Front Matter. Preferred method is to enable via YAML Front Matter defaults in `_config.yml`.
 
 ## License
-
-*Following the original License text of Made Mistakes.*
 
 The MIT License (MIT)
 
