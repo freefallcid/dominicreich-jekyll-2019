@@ -1,33 +1,35 @@
 ---
 layout: home
 permalink: /
-title: "A Designer's Faux Pas"
-excerpt: "Making stuff one mistake at a time."
+title: "Dominic Reich"
+excerpt: "Just beeing stupid most of the time."
 section:
-  - title: "A Faux Pas"
+  - title: "Insanity on Stage"
     class: "section--inverse section--about"
-#    image: /assets/images/michael-rose-glitched.jpg
+    # class: "section--inverse"
+    image: /assets/images/michael-rose-glitched.jpg
     introduction: |
-      Hi there --- it's me.
-#    actions:
-#      - label: "Learn More"
-#        url: "/about/"
+      Do not fear changes. Changes form our character. But no changes do that too, right?
+    actions:
+      - label: "Learn more about me"
+        url: "/about/"
   - title: "Blog Articles"
     class: "section--inverse section--articles"
-#    image: /assets/images/blog-articles.jpg
+    image: /assets/images/blog-articles.jpg
     introduction: |
-      Lots of bullshit. Out of my life. Or so.
+      You are welcome to dive into my psychotic world of life.
     actions:
-      - label: "the Archives"
+      - label: "dive in"
         url: "/articles/"
   - title: "Work Portfolio"
     class: "section--inverse section--work"
-#    image: /assets/images/procreate-paintings-feature.jpg
+    # class: "section--inverse"
+    image: /assets/images/procreate-paintings-feature.jpg
     introduction: |
       A hand-picked selection of things I've created.
-#    actions:
-#      - label: "See More"
-#        url: "/work/"
+    actions:
+      - label: "See more"
+        url: "/work/"
 ads: false
 last_modified_at: 2017-05-09T15:26:31-04:00
 ---

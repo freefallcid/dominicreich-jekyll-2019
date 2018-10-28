@@ -47,7 +47,7 @@ author:
   name                   : "Dominic Reich"
   uri                    : &uri "https://dominicreich.com/about/"
   url                    : *uri
-  bio                    : "Just another boring, tattooed, time traveling designer."
+  bio                    : "An electrician that moved to the construction work side of life."
   picture                : "/assets/images/dominic-reich-selfie.jpg"
   twitter                : "https://twitter.com/freefall0"
   #facebook               : "https://www.facebook.com/michaelrose"
@@ -156,6 +156,21 @@ defaults:
       breadcrumbs:
         - label: "Blog Articles"
           url: /articles/
+  # Howtos
+  - scope:
+      path: _posts/howto
+      type: posts
+    values:
+      layout: post
+      read_time: true
+      comments: true
+      support: true
+      breadcrumbs:
+        - label: "Howto Collection"
+          url: /howto/
+      image:
+        cover: true
+
 #  # Mastering Paper
 #  - scope:
 #      path: _posts/mastering-paper
@@ -299,6 +314,7 @@ algolia:
     - _pages/articles.md
     - _pages/faqs.md
     - _pages/mastering-paper.md
+    - _pages/howto.md
     - _pages/portraits.md
     - _pages/sitemap.md
     - _pages/tag.md

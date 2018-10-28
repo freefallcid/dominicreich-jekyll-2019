@@ -11,7 +11,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
 <ul>
   <li><a href="/about/">About</a></li>
   <li><a href="/contact/">Contact</a></li>
-  <li><a href="/faqs/">Frequently Asked Questions</a></li>
+  <!-- <li><a href="/faqs/">Frequently Asked Questions</a></li> -->
   <li><a href="/support/">Support</a></li>
   <li><a href="/tag/">Tag Archive</a></li>
   <li><a href="/terms/">Terms and Policies</a></li>
@@ -31,9 +31,9 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   {% endfor %}
 </ul>
 
-<h2><a href="/mastering-paper/">Mastering Paper by FiftyThree</a></h2>
+<h2><a href="/howto/">Howto Collection</a></h2>
 <ul>
-  {% for post in site.categories.mastering-paper %}
+  {% for post in site.categories.howto %}
     {% include post-list.html %}
   {% endfor %}
 </ul>
