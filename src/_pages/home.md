@@ -6,28 +6,28 @@ excerpt: "Making stuff one mistake at a time."
 section:
   - title: "A Faux Pas"
     class: "section--inverse section--about"
-    image: /assets/images/michael-rose-glitched.jpg
+#    image: /assets/images/michael-rose-glitched.jpg
     introduction: |
-      I'm just another boring, tattooed, *time traveling designer* from Buffalo New York. I enjoy eating chicken wings, sketching on an iPad Pro, and playing console games.
-    actions:
-      - label: "Learn More"
-        url: "/about/"
+      Hi there --- it's me.
+#    actions:
+#      - label: "Learn More"
+#        url: "/about/"
   - title: "Blog Articles"
     class: "section--inverse section--articles"
-    image: /assets/images/blog-articles.jpg
+#    image: /assets/images/blog-articles.jpg
     introduction: |
-      A collection of thoughts, inspiration, mistakes, and other minutia I've written. Topics covered include [*web development*](tag/web-development/), [*Jekyll tutorials*](/tag/jekyll/), [*design*](/tag/design/), [#TIL](/til/), and [more](/tag/).
+      Lots of bullshit. Out of my life. Or so.
     actions:
       - label: "the Archives"
         url: "/articles/"
   - title: "Work Portfolio"
     class: "section--inverse section--work"
-    image: /assets/images/procreate-paintings-feature.jpg
+#    image: /assets/images/procreate-paintings-feature.jpg
     introduction: |
-      A hand-picked selection of things I've designed, illustrated, and developed.
-    actions:
-      - label: "See More"
-        url: "/work/"
+      A hand-picked selection of things I've created.
+#    actions:
+#      - label: "See More"
+#        url: "/work/"
 ads: false
 last_modified_at: 2017-05-09T15:26:31-04:00
 ---
