@@ -3,7 +3,7 @@ source                   : .tmp/src
 destination              : .tmp/dist
 
 title                    : "DOMINIC REICH"
-description              : "Personal website of Dominic Reich"
+description              : "Personal website and blog of Dominic Reich. May contain photography and tech stuff."
 logo                     : "/assets/images/android-chrome-384x384.png"
 teaser                   : "/assets/images/default-teaser.png"
 locale                   : "en_US"
@@ -168,8 +168,6 @@ defaults:
       breadcrumbs:
         - label: "Howto Collection"
           url: /howto/
-      image:
-        cover: true
 
 #  # Mastering Paper
 #  - scope:
@@ -320,3 +318,4 @@ algolia:
     - _pages/tag.md
     - _pages/til.md
     - _pages/work.md
+    - cgi-bin/fm18.pl
