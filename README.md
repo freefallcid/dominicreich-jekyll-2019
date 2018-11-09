@@ -2,7 +2,7 @@
 
 This is the source code of DOMINICREICH.COM, a personal website and weblog built
 with [Jekyll](http://jekyllrb.com), [Gulp](http://gulpjs.com/), and
-[Travis CI](https://travis-ci.org/).
+[Netlify](https://www.netlify.com/).
 
 This is a **modified** readme file that shall reflect my own project/website. If you are
 looking for the [original readme file](https://github.com/freefallcid/dominicreich-jekyll/blob/master/README.made-mistakes.md)
