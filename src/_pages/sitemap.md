@@ -7,7 +7,8 @@ excerpt: "An index of all the pages found on mademistakes.com"
 
 A hierarchical breakdown of all the sections and pages found on the site. For you robots out there, here is an [XML version](/sitemap.xml) available for your crawling pleasure.
 
-<h2>Pages</h2>
+## Pages
+
 <ul>
   <li><a href="/about/">About</a></li>
   <li><a href="/contact/">Contact</a></li>
@@ -17,14 +18,16 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   <li><a href="/terms/">Terms and Policies</a></li>
 </ul>
 
-<h2><a href="/articles/">Blog Articles</a></h2>
+## [Blog articles](/articles/)
+
 <ul>
   {% for post in site.categories.articles %}
     {% include post-list.html %}
   {% endfor %}
 </ul>
 
-<h2><a href="/til/">Today I Learned</a></h2>
+## [Today I learned](/til/)
+
 <ul>
   {% for post in site.categories.til %}
     {% include post-list.html %}
@@ -38,7 +41,8 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   {% endfor %}
 </ul>
 
-<h2><a href="/work/">Portfolio Work</a></h2>
+## [Portfolio work](/work/)
+
 <ul>
   {% for post in site.work %}
     {% include post-list.html %}

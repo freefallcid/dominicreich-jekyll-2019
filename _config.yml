@@ -39,8 +39,8 @@ favicon_version         : "5A54z5oklP"
 
 pingback_url            : "https://webmention.io/dominicreich.com/xmlrpc"
 webmention_url          : "https://webmention.io/dominicreich.com/webmention"
-micropub_url            : "http://sitewriter.net/dominicreich.com/micropub"
-#microblog_url           : "https://micro.blog/mmistakes"
+micropub_url            : # "http://sitewriter.net/dominicreich.com/micropub"
+microblog_url           : # "https://micro.blog/mmistakes"
 
 # Site owner
 author:
@@ -70,7 +70,7 @@ reCaptcha:
 
 # Jekyll configuration
 permalink                : /:categories/:title/
-lsi                      : false
+lsi                      : true
 future                   : false
 show_drafts              : false
 markdown                 : kramdown
@@ -87,8 +87,8 @@ strict_front_matter      : true
 keep_files:
   - .git
 include:
-  - .htaccess
   - _pages
+  - _redirects
 exclude:
   - .asset-cache
   - .bundle
@@ -125,6 +125,7 @@ plugins:
   - jekyll/tagging
   - jekyll-tagging-related_posts
   - jekyll-include-cache
+  - jekyll-toc
 
 # Collections
 collections:
@@ -154,7 +155,7 @@ defaults:
       image:
         cover: true
       breadcrumbs:
-        - label: "Blog Articles"
+        - label: "Blog articles"
           url: /articles/
   # Howtos
   - scope:
@@ -217,7 +218,7 @@ defaults:
       comments: true
       support: false # changed
       breadcrumbs:
-        - label: "Today I Learned"
+        - label: "Today I learned"
           url: /til/
 #  # Tiny Paintings
 #  - scope:
@@ -261,7 +262,7 @@ defaults:
       layout: page
       read_time: true
       breadcrumbs:
-        - label: "Frequently Asked Questions"
+        - label: "Frequently asked questions"
           url: /faqs/
   # Pages
   - scope:
@@ -276,7 +277,7 @@ pagination:
   debug: false
   per_page: 15
   permalink: "/page/:num/"
-  title: ":title - Page :num of :max"
+  title: ":title"
   limit: 0
   sort_field: "date"
   sort_reverse: true
@@ -298,6 +299,14 @@ autopages:
     title: ":tag" # :tag is replaced by the tag name
     permalink: "/tag/:tag"
 
+# Plugin: Table of Contents (jekyll-toc)
+toc:
+  min_level: 2
+  max_level: 2
+  list_class: "toc__menu"
+  item_class: "toc__entry"
+  item_prefix: "toc__"
+
 # Plugin: Jekyll Algolia
 algolia:
   application_id: RM5UBNYOIM
@@ -307,7 +316,6 @@ algolia:
   files_to_exclude:
     - index.html
     - index.md
-    - excluded-file.html
     - _pages/404.md
     - _pages/articles.md
     - _pages/faqs.md

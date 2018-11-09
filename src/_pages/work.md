@@ -5,7 +5,6 @@ category: work
 title: "Work Portfolio"
 excerpt: &excerpt "A selection of things I've created."
 introduction: *excerpt
-ads: false
 ---
 
 {% notice info %}**Content coming soon.** There might be some more content when time comes.  

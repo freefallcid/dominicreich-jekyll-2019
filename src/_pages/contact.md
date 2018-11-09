@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
-last_modified_at: 2018-02-13T12:42:42-05:00
+last_modified_at: 2018-12-08 22:46:00
 excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
 ads: false
 share: false

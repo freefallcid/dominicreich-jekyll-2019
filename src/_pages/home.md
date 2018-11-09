@@ -13,8 +13,8 @@ section:
     actions:
       - label: "Learn more about me"
         url: "/about/"
-  - title: "Blog Articles"
-    class: "section--inverse section--articles"
+  - title: "Blog articles"
+    class: "section__inverse section__articles"
     image: /assets/images/blog-articles.jpg
     introduction: |
       You are welcome to dive into my psychotic world of life. Find shorter and (mostly) helpful notes on [#TIL](/til/).
@@ -31,5 +31,5 @@ section:
       - label: "See more"
         url: "/work/"
 ads: false
-last_modified_at: 2017-05-09T15:26:31-04:00
+last_modified_at: 2018-11-07T18:49:45-05:00
 ---
