@@ -152,8 +152,6 @@ defaults:
       layout: post
       read_time: true
       support: true
-      image:
-        cover: true
       breadcrumbs:
         - label: "Blog articles"
           url: /articles/
