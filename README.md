@@ -12,7 +12,6 @@ I try to keep this file up to date but I cannot guarantee anything.
 ### Plugins used
 
 - [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap) (GitHub Pages supported)
-- [Jekyll Archives](https://github.com/jekyll/jekyll-archives)
 - [Jemoji](https://github.com/jekyll/jemoji)
 - [Jekyll Paginate v2](https://github.com/sverrirs/jekyll-paginate-v2)
 - [Jekyll TOC](https://github.com/toshimaru/jekyll-toc)
