@@ -35,7 +35,7 @@ google_analytics         : "UA-90785047-4"
 feed:
   path                  : "https://dominicreich.com/atom.xml"
 
-favicon_version         : "5A54z5oklP"
+favicon_version         : "9BPnoQEY43"
 
 pingback_url            : "https://webmention.io/dominicreich.com/xmlrpc"
 webmention_url          : "https://webmention.io/dominicreich.com/webmention"
