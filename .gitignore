@@ -13,3 +13,4 @@ dist
 node_modules
 npm-debug.log*
 rsync-credentials.json
+_algolia_api_key

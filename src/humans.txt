@@ -1,14 +1,12 @@
 ---
 ---
-_  ________ ____   _  ______________  _________
-|\/||__||  \|___   |\/||[__  | |__||_/ |___[__
-|  ||  ||__/|___   |  ||___] | |  || \_|______]
 
-/* MADEMISTAKES.COM */
+
+/* DOMINICREICH.COM */
 
   Designer:     Michael Rose
-  Twitter:      @mmistakes
-  Location:     Buffalo, New York USA
+  Twitter:      @freefall0
+  Location:     Ötztal, Tirol, Austria
 
   Last updated: {{ site.time }}
   Language:     English

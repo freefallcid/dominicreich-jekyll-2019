@@ -4,12 +4,12 @@ permalink: /
 title: "Dominic Reich"
 excerpt: "Just beeing stupid most of the time."
 section:
-  - title: "Insanity on Stage"
+  - title: "Mostly insane"
     class: "section--inverse section--about"
     # class: "section--inverse"
     image: /assets/images/michael-rose-glitched.jpg
     introduction: |
-      Do not fear changes. Changes form our character. But no changes do that too, right?
+      Hello.
     actions:
       - label: "Learn more about me"
         url: "/about/"
@@ -17,7 +17,7 @@ section:
     class: "section--inverse section--articles"
     image: /assets/images/blog-articles.jpg
     introduction: |
-      You are welcome to dive into my psychotic world of life.
+      You are welcome to dive into my psychotic world of life. Find shorter and (mostly) helpful notes on [#TIL](/til/).
     actions:
       - label: "dive in"
         url: "/articles/"

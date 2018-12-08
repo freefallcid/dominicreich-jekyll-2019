@@ -5,7 +5,7 @@ category: til
 title: &title "Today I Learned"
 alt_title: *title
 modified:
-excerpt: &excerpt "Learnings (sometimes daily) captured for posterity and educational purposes."
+excerpt: &excerpt "Learnings (sometimes daily) captured for posterity and educational purposes. There is a shitload of things that I learn daily..."
 introduction: *excerpt
 pagination: 
   enabled: true

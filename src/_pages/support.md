@@ -9,28 +9,28 @@ The tutorials, Jekyll themes, and other articles I publish have been a true labo
 
 ## Send a Donation
 
-If you'd like to send a donation my way so I can continue to provide free content and themes --- hit one of the buttons below. I accept PayPal, Square Cash, and Bitcoin: [`1KvHBVXcbeWhwcSRJQdcwVsUZBYnyH5enw`](/assets/images/bitcoin-qr.png "Bitcoin QR code").
+If you'd like to send a donation my way so I can continue to provide free content and themes --- hit one of the buttons below. I accept PayPal, Square Cash, and Bitcoin: [`bitcoin wallet...`](/assets/images/bitcoin-qr.png "Bitcoin QR code").
 
 <div markdown="0" class="btn--group">
-  <a href="https://www.paypal.me/mmistakes" onclick="ga('send', 'event', 'link', 'click', 'Send PayPal');" class="btn">
+  <a href="https://www.paypal.me/dominicreich" onclick="ga('send', 'event', 'link', 'click', 'Send PayPal');" class="btn">
     <svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Send PayPal Money
   </a>
-  <a href="https://cash.me/$mmistakes" onclick="ga('send', 'event', 'link', 'click', 'Send Square Cash');" class="btn">Send Square Cash</a>
-  <a href="/assets/images/bitcoin-qr.png" onclick="ga('send', 'event', 'link', 'click', 'Send Bitcoin');" class="btn" title="1KvHBVXcbeWhwcSRJQdcwVsUZBYnyH5enw">Send Bitcoin</a>
+  <!-- <a href="https://cash.me/$mmistakes" onclick="ga('send', 'event', 'link', 'click', 'Send Square Cash');" class="btn">Send Square Cash</a> -->
+  <!-- <a href="/assets/images/bitcoin-qr.png" onclick="ga('send', 'event', 'link', 'click', 'Send Bitcoin');" class="btn" title="bitcoin wallet...">Send Bitcoin</a> -->
 </div>
 
 ## Buy Something
 
-If you shop on [Amazon.com](https://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=mademist-20&linkId=P557QDXPWEYIZTDS), using my referral link below will earn me a small commission if you end up buying something. I also maintain an Amazon Wish List if you are feeling extra generous. :wink:
+If you shop on [Amazon.com](#), using my referral link below will earn me a small commission if you end up buying something. I also maintain an Amazon Wish List if you are feeling extra generous. :wink:
 
-<div markdown="0" class="btn--group">
-  <a href="https://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=mademist-20&linkId=P557QDXPWEYIZTDS" onclick="ga('send', 'event', 'link', 'click', 'Shop Amazon');" class="btn">
+<!-- <div markdown="0" class="btn--group">
+  <a href="#" onclick="ga('send', 'event', 'link', 'click', 'Shop Amazon');" class="btn">
     <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Shop Amazon
   </a>
-  <a href="http://amzn.com/w/1K58RT2NS0SDP" onclick="ga('send', 'event', 'link', 'click', 'Amazon Wish List');" class="btn">
+  <a href="#" onclick="ga('send', 'event', 'link', 'click', 'Amazon Wish List');" class="btn">
     <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> My Amazon Wish List
   </a>
-</div>
+</div> -->
 
 ## Spread the Word
 
@@ -42,12 +42,12 @@ I post infrequently on social media --- I'm not the type to barf out a stream of
 
 If these sorts of things interest you, follow along on:
 
-- [Twitter](https://twitter.com/mmistakes)
-- [Instagram](https://instagram.com/mmistakes/)
-- [GitHub](https://github.com/mmistakes)
-- [YouTube](https://www.youtube.com/user/anotherjpeg)
-- [Facebook](https://www.facebook.com/michaelrose)
-- [Google+](https://plus.google.com/+MichaelRoseDesign/posts)
+- [Twitter](https://twitter.com/freefall0)
+- [Instagram](https://instagram.com/drtom0/)
+- [500px](https://500px.com/drtom)
+- [GitHub](https://github.com/freefallcid)
+- [YouTube](https://www.youtube.com/channel/UC8OnWO2vi6BWW0L5lBDfT7Q)
+- [Google+](https://plus.google.com/u/0/101846141042824192145)
 
 ## Subscribe to the Feeds
 

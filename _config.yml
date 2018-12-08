@@ -166,7 +166,7 @@ defaults:
       comments: true
       support: true
       breadcrumbs:
-        - label: "Howto Collection"
+        - label: "Howtos"
           url: /howto/
 
 #  # Mastering Paper
@@ -213,9 +213,9 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: true
+      read_time: false
       comments: true
-      support: true
+      support: false # changed
       breadcrumbs:
         - label: "Today I Learned"
           url: /til/
