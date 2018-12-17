@@ -64,7 +64,7 @@ var pageDimensions = [{
 // 'gulp styles:critical:archive' -- extract layout.archive critical CSS
 //   into /_includes/critical-archive.css
 gulp.task('styles:critical:archive', () => {
-  return gulp.src(paths.tempDir  + paths.siteDir + 'mastering-paper/index.html')
+  return gulp.src(paths.tempDir  + paths.siteDir + 'howto/index.html')
     .pipe(critical({
       base: paths.tempDir,
       inline: false,
@@ -80,7 +80,7 @@ gulp.task('styles:critical:archive', () => {
 // 'gulp styles:critical:post' -- extract layout.post critical CSS
 //   into /_includes/critical-post.css
 gulp.task('styles:critical:post', () => {
-  return gulp.src(paths.tempDir  + paths.siteDir + 'articles/ipad-pro/index.html')
+  return gulp.src(paths.tempDir  + paths.siteDir + 'articles/insanity-on-stage/index.html')
     .pipe(critical({
       base: paths.tempDir,
       inline: false,
