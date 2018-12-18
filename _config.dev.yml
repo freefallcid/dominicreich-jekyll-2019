@@ -1,6 +1,6 @@
 # Site wide configuration
 
-url                      : "drcom.dev"
+url                      : ""
 
 profile                  : true
 future                   : true
