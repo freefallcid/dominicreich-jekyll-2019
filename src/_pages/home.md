@@ -5,31 +5,31 @@ title: "Dominic Reich"
 excerpt: "Just beeing stupid most of the time."
 section:
   - title: "Mostly insane"
-    class: "section--inverse section--about"
-    # class: "section--inverse"
-    image: /assets/images/michael-rose-glitched.jpg
+    class: "section__inverse section__about"
+    # image: /assets/images/dominic-reich-woods-glitched.jpg
+    image: /assets/images/dominic-reich-woods-home-glitched.jpg
+    # image: /assets/images/dominic-reich-woods.jpg
     introduction: |
-      Hello.
+      Hello---my name is Dominic Reich and I live in Austria. I wrote a few tools for Windows and publish
+      photos and timelapse videos every now and then.
     actions:
-      - label: "Learn more about me"
+      - label: "Read more about me →"
         url: "/about/"
   - title: "Blog articles"
     class: "section__inverse section__articles"
-    image: /assets/images/blog-articles.jpg
+    image: /assets/images/hdr-oetzerberg-view-feature.jpg
     introduction: |
-      You are welcome to dive into my psychotic world of life. Find shorter and (mostly) helpful notes on [#TIL](/til/).
+      You are welcome to dive into my psychotic world of life. Shorter notes are directly posted to the [#TIL](/til/ "Today I learned") section.
     actions:
-      - label: "dive in"
+      - label: "dive in →"
         url: "/articles/"
   - title: "Work Portfolio"
-    class: "section--inverse section--work"
-    # class: "section--inverse"
-    image: /assets/images/procreate-paintings-feature.jpg
+    class: "section__inverse section__work"
+    image: /assets/images/snowy-grass-feature.jpg
     introduction: |
-      A hand-picked selection of things I've created.
+      Stuff that I worked on. Find photographs, timelapse videos and software applications (some with source code) in here.
     actions:
-      - label: "See more"
+      - label: "See more →"
         url: "/work/"
-ads: false
-last_modified_at: 2018-11-07T18:49:45-05:00
+last_modified_at: 2018-12-10T21:43:44+01:00
 ---

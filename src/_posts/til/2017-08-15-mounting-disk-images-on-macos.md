@@ -8,8 +8,8 @@ categories: [til]
 
 You can mount `iso` and `img` files with `hdiutil` on macOS. I'll write down both versions here.
 
-{% notice info %}
-:warning: **Information**  
+{% notice warning %}
+#### :warning: Information
 `img`-files are consideres as so called [raw images](https://en.wikipedia.org/wiki/IMG_(file_format))
 while `iso`-files are plain [ISO images](https://en.wikipedia.org/wiki/ISO_image). When I talk about
 `img`-files, I mainly talk about image files that I create with [dd](https://en.wikipedia.org/wiki/Dd_(Unix)).

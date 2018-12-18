@@ -4,6 +4,7 @@ title: "Terms and policies"
 last_modified_at: 2018-11-21T09:28:56-05:00
 excerpt: "Made Mistakes privacy policy, license, and other legal stuff you won't read."
 toc: true
+published: false
 ---
 
 This is my personal website written and edited by me. Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.

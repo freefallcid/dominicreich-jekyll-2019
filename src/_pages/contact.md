@@ -7,9 +7,52 @@ ads: false
 share: false
 ---
 
-Have questions about me, this website, or something else?
+Have questions about me, this website, or the things that I publish here?
 
-For anything else, use the contact form below.
+Use the contact form below to get in contact with me---this is the easiest way for a first contact.
+I will close down the social memberships that I currently maintain---I do not have the time needed for those to manage.
+
+<form name="contact" method="POST" data-netlify="true">
+  <div>
+    <label id="lblName" for="name">Name
+      <input id="name" name="name" type="text" spellcheck="false" maxlength="255" required placeholder="Your name">
+    </label>
+  </div>
+  <div>
+    <label id="lblEmail" for="email">Email address <small>(will remain private)</small>
+      <input id="email" name="email" type="email" spellcheck="false" maxlength="255" required placeholder="email@address.com">
+    </label>
+  </div>
+  <div>
+    <label id="lblSubject" for="subject">Subject
+      <input id="subject" name="subject" type="text" spellcheck="true" maxlength="255" placeholder="A short description (is not required though)">
+    </label>
+  </div>
+  <div>
+    <label>Message: <textarea name="message" spellcheck="true" rows="10" cols="50" required placeholder="Hi there, I'd like to..."></textarea></label>
+  </div>
+  <div>
+    <label id="lblFile" for="file">Files <small>(if there is a need for attaching files)</small>
+      <input id="file" name="file" type="file" accept="image/*,.pdf" multiple>
+    </label>
+  </div>
+  <div>
+    <button id="submit" name="submit" type="submit" class="btn">Send message</button>
+    <button id="reset" name="reset" type="reset" class="btn">Reset all data</button>
+  </div>
+  {% comment %}
+  <div class="hidden">
+    <label id="lblComment" for="comment">Do not fill this out
+      <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
+      <input type="hidden" id="idstamp" name="idstamp" value="WW91J3JlIHdlbGNvbWUhCg==">
+    </label>
+  </div>
+  {% endcomment %}
+</form>
+
+{% comment %}
+
+<!-- this is an old form for reference only ! -->
 
 <form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://dominicreich.com/cgi-bin/fm18.pl">
   <div class="form-group">
@@ -34,7 +77,6 @@ For anything else, use the contact form below.
   </div>
   <div class="form-group">
     <button id="saveForm" name="saveForm" class="btn" type="submit">Send Message</button>
-    <!-- <button id="resetForm" name="resetForm" class="btn" type="reset">Reset form</button> -->
   </div>
   <div class="form-group hidden">
     <label for="comment">Do Not Fill This Out</label>
@@ -43,8 +85,8 @@ For anything else, use the contact form below.
     <input type="hidden" name="recipient" value="webmail@dominicreich.com">
     <input type="hidden" name="email" value="webformmailer@dominicreich.com">
     <input type="hidden" name="required" value="realname,message">
-    <!-- <input type="hidden" name="redirect" value="/"> -->
     <input type="hidden" name="print_config" value="your_email,subject">
     <input type="hidden" name="print_blank_fields" value="1">
   </div>
 </form>
+{% endcomment %}

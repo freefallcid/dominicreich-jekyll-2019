@@ -4,6 +4,7 @@ title: "Show your support"
 last_modified_at: 2018-12-08 23:22:33
 excerpt: "If you like the free content I provide on Made Mistakes, here's how to show your thanks and motivate me to create more of it."
 toc: true
+published: false
 ---
 
 The tutorials, Jekyll themes, and other articles I publish have been a true labor of love for me. If you've found any of this content useful here's how to show your thanks and motivate me to create more.

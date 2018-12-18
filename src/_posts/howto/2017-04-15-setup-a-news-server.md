@@ -4,9 +4,13 @@ excerpt: "Installation and quick configuration of a netnews server."
 image:
   path: &image /assets/images/howto-news-server.jpg
   feature: *image
+  width: 1600
+  height: 640
   teaser: /assets/images/howto-news-server-teaser.jpg
 categories: [howto]
 tags: [netnews,freebsd]
+toc: true
+published: false
 ---
 
 This tutorial shows the initial setup and basic configuration of INN 2.6.0 on FreeBSD 11.0.

@@ -2,19 +2,20 @@
 layout: page
 permalink: /sitemap/
 title: "Sitemap"
-excerpt: "An index of all the pages found on mademistakes.com"
-last_modified_at: 2018-12-08 23:33:27
+excerpt: "An index of all the pages found on dominicreich.com"
+last_modified_at: 2018-12-10T21:44:55+01:00
 ---
 
 A hierarchical breakdown of all the sections and pages found on the site. For you robots out there, here is an [XML version](/sitemap.xml) available for your crawling pleasure.
 
 ## Pages
 
-- [About](/about/)
-- [Contact](/contact/)
-{% comment %}- [Frequently asked questions](/faqs/){% endcomment %}
-- [Show your support](/support/)
-- [Terms and policies](/terms/)
+- [About](/about/) (coming soon)
+- [Contact](/contact/) (non-functional)
+- [Frequently asked questions](/faqs/) (removed)
+- [Show your support](/support/) (removed)
+- [Terms and policies](/terms/) (coming soon)
+- [Wake Island Warriors](/wiw/) (beta)
 - [Style guide](/style-guide/)
 - [Tag index](/tag/)
 
