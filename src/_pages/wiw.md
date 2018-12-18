@@ -1,28 +1,30 @@
 ---
 permalink: /wiw/
-title: "Wake Island Warriors Memorial"
+title: "=WiW= Memorial"
 excerpt: "Years ago we all played a game called Battlefield 2. The game bound us together as a team, or, as a family..."
-tags: []
-comments: 
-comments_locked: 
-support: 
-ads: 
+image:
+  path: &image /assets/images/wiw.jpg
+  width: 160
+  height: 64
+  feature: *image
+  teaser: /assets/images/wiw-320.jpg
+tags: [videogames]
+# toc: true
 last_modified_at: 2017-11-01T21:36:30+01:00
 ---
 
-Years ago we all played a game called Battlefield 2. The game bound us together as a team, or more, as a family...
-
-{% notice info %}
-#### German Information
-
-Dieser Beitrag wurde absichtlich auf Englisch geschrieben. Es wird **keine deutsche Übersetzung** meinerseits geben!
+{% notice warning %}
+#### Migration status
+This page looks good but I might have forgotten something. Please [report](/contact/) errors or bugs to me. Thank you!
 {% endnotice %}
+
+Years ago we all played a game called Battlefield 2. The game bound us together as a team, or more, as a family...
 
 {% figure caption:"We had a lot of fun. Thank you all for beeing there!" %}
 ![wiw site logo sepia](/assets/images/wiw-logo-sepia.jpg)
 {% endfigure %}
 
-I myself started to be a member of [**=WiW=**][wiwforum] back in 2010, specifically on May 20<sup>th</sup> 2010, when I was [granted](https://web.archive.org/web/20100524010630/http://www.wakeislandwarriors.com/community/viewforum.php?f=5) the membership of the best community that I can still remember. My old computer served me well for a while --- it was one of the first 64bit beasts that came out at that time.
+I myself started to be a member of [**=WiW=**][wiwforum] back in 2010, specifically on May 20<sup>th</sup> 2010, when I was [granted the membership](https://web.archive.org/web/20100524010630/http://www.wakeislandwarriors.com/community/viewforum.php?f=5) (uhm, sorry the post itself is not available on the wayback archive :disappointed_relieved:)  of the best community that I can still remember. My old computer served me well for a while --- it was one of the first 64bit beasts that came out at that time.
 
 When time went by, I started paying the admin fee for the clan and became one of the admins. It made things a bit easier as I was able to remove rule-breakers by myself but it also made things a bit more complicated than before --- I had to know the regular players better to know if someone is reporting a rule-breaker because he broke a rule or just for his own advantage. This went on for a few weeks or months and settled down with the time. I got more and more relaxed at playing and administration of the game felt more easier and made fun again. Also watching other players for a while wasn't that bad --- it felt good to do a good thing beside playing the game. I think everyone benefits from good admins.
 
