@@ -3,8 +3,6 @@ permalink: /contact/
 title: "Contact"
 last_modified_at: 2018-12-08 22:46:00
 excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
-ads: false
-share: false
 ---
 
 Have questions about me, this website, or the things that I publish here?

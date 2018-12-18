@@ -17,7 +17,7 @@ comments:
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["mademistakes.com"]
+  allowedOrigins: ["dominicreich.com"]
 
   # (*) REQUIRED
   #
@@ -61,14 +61,14 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  name: "mademistakes.com"
+  name: "dominicreich.com"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
   notifications:
     # Enable notifications
-    enabled: true
+    enabled: false
 
     # (!) ENCRYPTED
     #
@@ -97,5 +97,5 @@ comments:
   # reCaptcha
   reCaptcha:
     enabled: true
-    siteKey: "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
-    secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+    siteKey: "6Le-fz4UAAAAAO0Cp2XT0eTlwIqlNUBn1mPg9DXU"
+    secret: "XesI12jsaXJk4pIh5f3OYyhmUEUTQfH3BvAbBmAa24WAtZzEquFX4yqyH253xtociy6DirStIcWiZs/2iwSLdoVfqjLWvWZOPwSWFWKfZltfNJbPThmojl1NaBdWUdQR4EeUylyR81DDn8OlnwLy7r7G9CYcbmpxsNaBMNiuP4M="
