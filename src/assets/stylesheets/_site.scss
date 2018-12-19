@@ -123,9 +123,10 @@
       margin-bottom: 0;
     }
 
-    a + a {
-      margin-left: 1em;
-    }
+    // disabled unless it breaks something in future
+    // a + a {
+    //   margin-left: 1em;
+    // }
   }
 }
 
