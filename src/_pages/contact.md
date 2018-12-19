@@ -22,21 +22,21 @@ I will close down the social memberships that I currently maintain---I do not ha
     </label>
   </div>
   <div>
-    <label id="lblSubject" for="subject">Subject
-      <input id="subject" name="subject" type="text" spellcheck="true" maxlength="255" placeholder="A short description (is not required though)">
+    <label id="lblHeardOf" for="heard-of">How you'd hear about my site?
+      <input id="heard-of" name="heard-of" type="text" spellcheck="true" maxlength="255" placeholder="e.g. web search or another forum (please name it or address it)">
     </label>
   </div>
   <div>
     <label>Message: <textarea name="message" spellcheck="true" rows="10" cols="50" required placeholder="Hi there, I'd like to..."></textarea></label>
   </div>
   <div>
-    <label id="lblFile" for="file">Files <small>(if there is a need for attaching files)</small>
+    <label id="lblFile" for="file">Files or photos <small>(if you need to attach)</small>
       <input id="file" name="file" type="file" accept="image/*,.pdf" multiple>
     </label>
   </div>
   <div>
     <button id="submit" name="submit" type="submit" class="btn">Send message</button>
-    <button id="reset" name="reset" type="reset" class="btn">Reset all data</button>
+    <button id="reset" name="reset" type="reset" class="btn">Reset all input</button>
   </div>
   <div class="hidden">
     <label id="lblComment" for="comment">Do not fill this out

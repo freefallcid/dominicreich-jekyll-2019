@@ -1,6 +1,6 @@
 ---
 permalink: /wiw/
-title: "=WiW= Memorial"
+title: "Wake Island Warriors"
 excerpt: "Years ago we all played a game called Battlefield 2. The game bound us together as a team, or, as a family..."
 image:
   path: &image /assets/images/wiw.jpg
