@@ -29,13 +29,11 @@ I will close down the social memberships that I currently maintain---I do not ha
   <div>
     <label>Message: <textarea name="message" spellcheck="true" rows="10" cols="50" required placeholder="Hi there, I'd like to..."></textarea></label>
   </div>
-  {% comment %}
   <div>
     <label id="lblFile" for="file">Files <small>(if there is a need for attaching files)</small>
       <input id="file" name="file" type="file" accept="image/*,.pdf" multiple>
     </label>
   </div>
-  {% endcomment %}
   <div>
     <button id="submit" name="submit" type="submit" class="btn">Send message</button>
     <button id="reset" name="reset" type="reset" class="btn">Reset all data</button>
