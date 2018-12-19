@@ -38,14 +38,12 @@ I will close down the social memberships that I currently maintain---I do not ha
     <button id="submit" name="submit" type="submit" class="btn">Send message</button>
     <button id="reset" name="reset" type="reset" class="btn">Reset all data</button>
   </div>
-  {% comment %}
   <div class="hidden">
     <label id="lblComment" for="comment">Do not fill this out
       <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
       <input type="hidden" id="idstamp" name="idstamp" value="WW91J3JlIHdlbGNvbWUhCg==">
     </label>
   </div>
-  {% endcomment %}
 </form>
 
 {% comment %}
