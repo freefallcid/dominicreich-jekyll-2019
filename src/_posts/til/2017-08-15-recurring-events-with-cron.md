@@ -1,5 +1,5 @@
 ---
-title: "Recurring execution of a script"
+title: "Recurring execution of a script with cron"
 excerpt: "Sending out a report of a scripts execution on pre-defined events."
 tags: [linux, macos, cron]
 # last_modified_at: 2018-02-01T23:12:06+01:00
