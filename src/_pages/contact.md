@@ -34,6 +34,7 @@ I will close down the social memberships that I currently maintain---I do not ha
       <input id="file" name="file" type="file" accept="image/*,.pdf" multiple>
     </label>
   </div>
+  <div data-netlify-recaptcha="true"></div>
   <div>
     <button id="submit" name="submit" type="submit" class="btn">Send message</button>
     <button id="reset" name="reset" type="reset" class="btn">Reset all input</button>
