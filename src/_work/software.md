@@ -25,6 +25,6 @@ A simple md5-Hash generator that creates hashes while you type. Easy to copy the
 {:.gallery-2-col}
 
 <p markdown="0">
-  <a href="https://tools.dore.pw/MD5-Convert/setup.exe" onclick="ga('send', 'event', 'Setup', 'MD5 Converter', '{{ page.url }}');" class="btn">Setup</a>
+  <a href="https://tools.dore.pw/MD5-Convert/setup.exe" onclick="ga('send', 'event', 'Setup', 'md5Convert', '{{ page.url }}');" class="btn">Setup</a>
   <a href="https://github.com/freefallcid/md5Convert" onclick="ga('send', 'event', 'Source code', 'md5Convert', '{{ page.url }}');" class="btn">Source code</a>
 </p>

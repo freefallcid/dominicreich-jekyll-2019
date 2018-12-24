@@ -5,7 +5,7 @@
     <li><a href="{{ '/terms/' | relative_url }}">Terms &amp; policies</a></li>
     <li><a href="{{ '/sitemap/' | relative_url }}">Sitemap</a></li>
     {% if site.author.twitter %}
-      <li><a href="{{ site.author.twitter }}" rel="me">
+      <li><a href="{{ site.author.twitter }}" rel="me" onclick="ga('send', 'event', 'Follow me', 'Twitter', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-twitter' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -13,7 +13,7 @@
       </a></li>
     {% endif %}
     {% if site.author.github %}
-      <li><a href="{{ site.author.github }}" rel="me">
+      <li><a href="{{ site.author.github }}" rel="me" onclick="ga('send', 'event', 'Follow me', 'Github', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -21,7 +21,7 @@
       </a></li>
     {% endif %}
     {% if site.author.instagram %}
-      <li><a href="{{ site.author.instagram }}" rel="me">
+      <li><a href="{{ site.author.instagram }}" rel="me" onclick="ga('send', 'event', 'Follow me', 'Instagram', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-instagram' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -29,7 +29,7 @@
       </a></li>
     {% endif %}
     {% if site.feed.path %}
-      <li><a href="{{ site.feed.path }}" title="Atom Feed">
+      <li><a href="{{ site.feed.path }}" title="Atom Feed" onclick="ga('send', 'event', 'RSS', 'Footer', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-rss' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -41,7 +41,7 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; 2017&ndash;{{ site.time | date: '%Y' }} Dominic Reich. Built with <a href="https://jekyllrb.com">Jekyll</a> upon the work of <a href="https://github.com/mmistakes/made-mistakes-jekyll">Michael Rose</a>.</p>
+      <p>&copy; 2017&ndash;{{ site.time | date: '%Y' }} Dominic Reich. Built with <a href="https://jekyllrb.com">Jekyll</a> upon the work of <a href="https://github.com/mmistakes/made-mistakes-jekyll" onclick="ga('send', 'event', 'Made Mistakes', 'Footer', '{{ page.url }}');">Michael Rose</a>.</p>
     {% endif %}
   </div>
 </footer>
