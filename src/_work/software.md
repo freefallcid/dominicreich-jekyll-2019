@@ -77,7 +77,8 @@ The tool was built for my parents---because of that it is made to fit their need
 </p>
 
 
-A simple chat viewer as at times of [rconnet.de](http://rconnet.de) the chatlogs were produced from bottom to top. That means you had to read those logs from bottom to the top which is not a normal or usual way of how you read things. It was not naturally.
+A simple chat viewer to use with [rconnet.de](http://rconnet.de). The chatlogs were produced from bottom to top---that means you had to read those logs from bottom to the top which is not a normal or usual way of how you read things. It was not naturally.
+
 ## WiW RCON Chat
 
 This tool's purpose was re-sorting of the reading direction as well as the possibility to filter for specific words. And quickly remove those server messages at the cost of an additional click.
