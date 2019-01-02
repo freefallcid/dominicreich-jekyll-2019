@@ -1,9 +1,9 @@
 <footer id="footer" class="site__footer">
   <ul class="menu">
-    <li><a href="{{ '/support/' | relative_url }}">Support me</a></li>
-    <li><a href="{{ '/faqs/' | relative_url }}">FAQs</a></li>
-    <li><a href="{{ '/terms/' | relative_url }}">Terms &amp; policies</a></li>
-    <li><a href="{{ '/sitemap/' | relative_url }}">Sitemap</a></li>
+    <li><a href="{{ '/support/' | relative_url }}" onclick="ga('send', 'event', 'Footer', 'Support me', '{{ page.url }}');">Support me</a></li>
+    <li><a href="{{ '/faqs/' | relative_url }}" onclick="ga('send', 'event', 'Footer', 'FAQs', '{{ page.url }}');">FAQs</a></li>
+    <li><a href="{{ '/terms/' | relative_url }}" onclick="ga('send', 'event', 'Footer', 'Terms & policies', '{{ page.url }}');">Terms &amp; policies</a></li>
+    <li><a href="{{ '/sitemap/' | relative_url }}" onclick="ga('send', 'event', 'Footer', 'Sitemap', '{{ page.url }}');">Sitemap</a></li>
     {% if site.author.twitter %}
       <li><a href="{{ site.author.twitter }}" rel="me" onclick="ga('send', 'event', 'Footer', 'Twitter', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
