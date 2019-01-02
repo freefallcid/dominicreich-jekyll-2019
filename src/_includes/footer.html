@@ -28,6 +28,22 @@
         <span class="visually-hidden">Instagram</span>
       </a></li>
     {% endif %}
+    {% if site.author.500px %}
+      <li><a href="{{ site.author.500px }}" rel="me" onclick="ga('send', 'event', 'Follow me', '500px', '{{ page.url }}');">
+        <svg class="icon" width="16px" height="16px">
+          <use xlink:href="{{ 'icons.svg#icon-500px' | prepend: 'assets/icons/' | relative_url }}"></use>
+        </svg>
+        <span class="visually-hidden">500px</span>
+      </a></li>
+    {% endif %}
+    {% if site.author.photogallery %}
+      <li><a href="{{ site.author.photogallery }}" rel="me" onclick="ga('send', 'event', 'Follow me', 'Photo Gallery', '{{ page.url }}');">
+        <svg class="icon" width="16px" height="16px">
+          <use xlink:href="{{ 'icons.svg#icon-camera' | prepend: 'assets/icons/' | relative_url }}"></use>
+        </svg>
+        <span class="visually-hidden">Photo Gallery</span>
+      </a></li>
+    {% endif %}
     {% if site.feed.path %}
       <li><a href="{{ site.feed.path }}" title="Atom Feed" onclick="ga('send', 'event', 'RSS', 'Footer', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
