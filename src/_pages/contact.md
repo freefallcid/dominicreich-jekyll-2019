@@ -10,7 +10,7 @@ Have questions about me, this website, or the things that I publish here?
 Use the contact form below to get in contact with me---this is the easiest way for a first contact.
 I will close down the social memberships that I currently maintain---I do not have the time needed for those to manage.
 
-<form id="contact" name="contact" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="POST" novalidate data-netlify="true">
+<form id="contact" name="contact" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="POST" novalidate data-netlify="true" netlify-honeypot="comment">
   <div>
     <label id="lblName" for="name">Name
       <input id="name" name="name" type="text" spellcheck="false" maxlength="255" required placeholder="Your name">
