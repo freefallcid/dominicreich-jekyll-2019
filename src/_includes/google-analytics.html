@@ -6,6 +6,9 @@
 
     ga('create', '{{ site.google_analytics }}', 'auto');
     ga('send', 'pageview');
+    if (typeof GA_PAGE !== 'undefined' && GA_PAGE !== null) {
+      ga('send', 'event', '404', 'PageLoad', '{{ page.url }}' + '?from=' + document.referrer);
+    }
   </script>
 {% comment %}
 <!-- This is another version but this never worked for me... -->
