@@ -17,6 +17,6 @@
 
   ga('create', '{{ site.google_analytics }}', 'auto');
   //ga('send', 'pageview', "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);
-  ga('send', 'event', '404', 'PageLoad', '{{ page.url }}');
+  ga('send', 'event', '404', 'PageLoad', '{{ page.url }}' + '?from=' + document.referrer);
 </script>
 {% endif %}
