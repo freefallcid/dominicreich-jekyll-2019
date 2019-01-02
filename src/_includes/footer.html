@@ -5,7 +5,7 @@
     <li><a href="{{ '/terms/' | relative_url }}">Terms &amp; policies</a></li>
     <li><a href="{{ '/sitemap/' | relative_url }}">Sitemap</a></li>
     {% if site.author.twitter %}
-      <li><a href="{{ site.author.twitter }}" rel="me" onclick="ga('send', 'event', 'Follow me', 'Twitter', '{{ page.url }}');">
+      <li><a href="{{ site.author.twitter }}" rel="me" onclick="ga('send', 'event', 'Footer', 'Twitter', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-twitter' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -13,7 +13,7 @@
       </a></li>
     {% endif %}
     {% if site.author.github %}
-      <li><a href="{{ site.author.github }}" rel="me" onclick="ga('send', 'event', 'Follow me', 'Github', '{{ page.url }}');">
+      <li><a href="{{ site.author.github }}" rel="me" onclick="ga('send', 'event', 'Footer', 'Github', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -21,7 +21,7 @@
       </a></li>
     {% endif %}
     {% if site.author.instagram %}
-      <li><a href="{{ site.author.instagram }}" rel="me" onclick="ga('send', 'event', 'Follow me', 'Instagram', '{{ page.url }}');">
+      <li><a href="{{ site.author.instagram }}" rel="me" onclick="ga('send', 'event', 'Footer', 'Instagram', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-instagram' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -29,7 +29,7 @@
       </a></li>
     {% endif %}
     {% if site.author.500px %}
-      <li><a href="{{ site.author.500px }}" rel="me" onclick="ga('send', 'event', 'Follow me', '500px', '{{ page.url }}');">
+      <li><a href="{{ site.author.500px }}" rel="me" onclick="ga('send', 'event', 'Footer', '500px', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-500px' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -37,7 +37,7 @@
       </a></li>
     {% endif %}
     {% if site.author.photogallery %}
-      <li><a href="{{ site.author.photogallery }}" rel="me" onclick="ga('send', 'event', 'Follow me', 'Photo Gallery', '{{ page.url }}');">
+      <li><a href="{{ site.author.photogallery }}" rel="me" onclick="ga('send', 'event', 'Footer', 'Photo Gallery', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-camera' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -45,7 +45,7 @@
       </a></li>
     {% endif %}
     {% if site.feed.path %}
-      <li><a href="{{ site.feed.path }}" title="Atom Feed" onclick="ga('send', 'event', 'RSS', 'Footer', '{{ page.url }}');">
+      <li><a href="{{ site.feed.path }}" title="Atom Feed" onclick="ga('send', 'event', 'Footer', 'RSS', '{{ page.url }}');">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-rss' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -57,7 +57,10 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; 2017&ndash;{{ site.time | date: '%Y' }} Dominic Reich. Built with <a href="https://jekyllrb.com">Jekyll</a> upon the work of <a href="https://github.com/mmistakes/made-mistakes-jekyll" onclick="ga('send', 'event', 'Made Mistakes', 'Footer', '{{ page.url }}');">Michael Rose</a>.</p>
+      <p>&copy; 2017&ndash;{{ site.time | date: '%Y' }} Dominic Reich. Built with
+        <a href="https://jekyllrb.com" onclick="ga('send', 'event', 'Footer', 'Jekyll', '{{ page.url }}');">Jekyll</a>
+        upon the work of <a href="https://github.com/mmistakes/made-mistakes-jekyll" onclick="ga('send', 'event', 'Footer', 'Made Mistakes', '{{ page.url }}');">Michael Rose</a>.
+      </p>
     {% endif %}
   </div>
 </footer>
