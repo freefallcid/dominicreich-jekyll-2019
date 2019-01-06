@@ -30,7 +30,9 @@ yandex_site_verification : "d661d507bace53f0"
 
 google_ad-client         : ""
 google_ad-slot           : ""
-google_analytics         : "UA-90785047-4"
+#google_analytics         : "UA-90785047-4"
+google_analytics         : ""
+google_tagmanager        : "GTM-THWKCZV"
 
 feed:
   path                  : "https://dominicreich.com/atom.xml"
