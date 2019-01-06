@@ -1,15 +1,15 @@
 ---
 title: "Insanity On Stage"
-excerpt: "... then everything was different. And maybe better. Nonetheless I start my weblog again. Content may appear when time is ready for it :wink:"
+excerpt: "Back in time a lot of things were different. And better in some way---nonetheless I'll start my website again. I will add more content when time allows it :sleepy:"
 image:
   path: &image /assets/images/insanity-on-stage-feature.jpg
   feature: *image
   width: 1600
   height: 640
-categories: articles
+categories: [articles]
 tags: []
-last_modified_at: 2018-02-25T14:01:54+01:00
-support: false
+last_modified_at: 2019-01-01 10:56:10
+support: true
 published: false
 ---
 
@@ -21,7 +21,7 @@ Meine Fotos findest du in meiner [Fotogalerie][fotos]. Es sind bereits über 600
 
 Interessantere Fotos findest du bei [Flickr] ~~oder [500px]~~. Einige andere Bilder werden auf meinem [Instagram] account erscheinen. Zeitraffer-Videos werde ich auf meiner [Fotogalerie][timelapse] und auf [YouTube] veröffentlichen.
 
-PS: <var>Insanity On Stage</var> war der Name meines alten (ersten) Blogs -- das war wohl so um 2016.
+PS: <var>Insanity On Stage</var> war der Name meines alten (ersten) Blogs -- das war wohl so um 2006.
 
 [fotos]: https://dominicreich.com/fotos/
 [Piwigo]: http://piwigo.org
