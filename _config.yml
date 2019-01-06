@@ -139,6 +139,10 @@ collections:
     output    : true
     permalink : /:collection/:path/
     title     : Work
+  recipes:
+    output    : true
+    permalink : /:collection/:path/
+    title     : Recipes
   components:
     output    : false
   colors:
@@ -153,61 +157,69 @@ defaults:
     values:
       layout: post
       read_time: true
+      comments: true
       support: true
       breadcrumbs:
         - label: "Blog articles"
           url: /articles/
-  # Howtos
+  # Recipes
   - scope:
-      path: _posts/howto
-      type: posts
+      path: _recipes
+      type: recipe
     values:
       layout: post
       read_time: true
       comments: true
       support: true
       breadcrumbs:
-        - label: "Howtos"
-          url: /howto/
-
-#  # Mastering Paper
-#  - scope:
-#      path: _posts/mastering-paper
-#      type: posts
-#    values:
-#      layout: post
-#      read_time: true
-#      comments: true
-#      support: true
-#      breadcrumbs:
-#        - label: "Mastering Paper by 53"
-#          url: /mastering-paper/
-#      image:
-#        cover: true
-#  # PaperFaces
-#  - scope:
-#      path: _posts/paperfaces
-#      type: posts
-#    values:
-#      layout: post
-#      breadcrumbs:
-#        - label: "PaperFaces Portraits"
-#          url: /paperfaces/
-#      work: "Illustration"
-#      seo:
-#        type: "CreativeWork"
-#  # Procreate Paintings
-#  - scope:
-#      path: _posts/procreate
-#      type: posts
-#    values:
-#      layout: post
-#      breadcrumbs:
-#        - label: "Procreate Paintings"
-#          url: /procreate-paintings/
-#      work: "Illustration"
-#      seo:
-#        type: "CreativeWork"
+        - label: "Recipes"
+          url: /recipes/
+  # Mastering Paper
+  - scope:
+      path: _posts/photography
+      type: posts
+    values:
+      layout: post
+      read_time: false
+      comments: true
+      support: true
+      breadcrumbs:
+        - label: "Photography"
+          url: /work/photography/
+      work: "Visual Artwork"
+      seo:
+        type: "CreativeWork"
+  # PaperFaces
+  - scope:
+      path: _posts/timelapse
+      type: posts
+    values:
+      layout: post
+      read_time: false
+      comments: true
+      support: true
+      breadcrumbs:
+        - label: "Timelapse videos"
+          url: /work/timelapse/
+      work: "Visual Artwork"
+      seo:
+        type: "CreativeWork"
+  # Procreate Paintings
+  - scope:
+      path: _posts/software
+      type: posts
+    values:
+      layout: post
+      read_time: false
+      comments: true
+      support: true
+      permalink: /work/:categories/:title/
+      breadcrumbs:
+        - label: "Software"
+          url: /work/software/
+      work: "Software development"
+      seo:
+        type: "CreativeWork"
   # TIL
   - scope:
       path: _posts/til
@@ -216,7 +228,7 @@ defaults:
       layout: post
       read_time: false
       comments: true
-      support: false # changed
+      support: true
       breadcrumbs:
         - label: "Today I learned"
           url: /til/
@@ -261,6 +273,8 @@ defaults:
     values:
       layout: page
       read_time: true
+      comments: true
+      support: false
       breadcrumbs:
         - label: "Frequently asked questions"
           url: /faqs/
