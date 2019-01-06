@@ -10,7 +10,6 @@ categories: [articles]
 tags: []
 last_modified_at: 2019-01-01 10:56:10
 support: true
-published: false
 ---
 
 Willkommen! Hier wird primär über Fotografie bzw. diverses Technik-Zeugs geschrieben.
