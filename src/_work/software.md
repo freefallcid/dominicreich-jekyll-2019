@@ -36,8 +36,8 @@ A simple md5-Hash generator that creates hashes while you type. Easy to copy the
 {:.gallery-2-col}
 
 <p markdown="0">
-  <a href="https://tools.dore.pw/MD5-Convert/setup.exe" onclick="ga('send', 'event', 'Setup', 'md5Convert', '{{ page.url }}');" class="btn">Setup</a>
-  <a href="https://github.com/freefallcid/md5Convert" onclick="ga('send', 'event', 'Source code', 'md5Convert', '{{ page.url }}');" class="btn">Source code</a>
+  <a href="https://tools.dore.pw/MD5-Convert/setup.exe" class="btn">Setup</a>
+  <a href="https://github.com/freefallcid/md5Convert" class="btn">Source code</a>
 </p>
 
 ## Leitungslängenberechnung
@@ -57,8 +57,8 @@ Have a look at the code yourself to verify my calculations.
 {:.gallery-2-col}
 
 <p markdown="0">
-  <a href="https://tools.dore.pw/Leitungslaengenberechnung/setup.exe" onclick="ga('send', 'event', 'Setup', 'Leitungslängenberechnung', '{{ page.url }}');" class="btn">Setup</a>
-  <a href="https://github.com/freefallcid/leitungslaengenberechnung" onclick="ga('send', 'event', 'Source code', 'Leitungslängenberechnung', '{{ page.url }}');" class="btn">Source code</a>
+  <a href="https://tools.dore.pw/Leitungslaengenberechnung/setup.exe" class="btn">Setup</a>
+  <a href="https://github.com/freefallcid/leitungslaengenberechnung" class="btn">Source code</a>
 </p>
 
 ## FEWO Preiskalkulation
@@ -73,8 +73,8 @@ At version 2. This app lets you quickly calculate a usual overnight stay. Or a h
 The tool was built for my parents---because of that it is made to fit their needs. You might fork the repository and change whatever is needed to fit your needs.
 
 <p markdown="0">
-  <a href="https://tools.dore.pw/Fewo-Preis/setup.exe" onclick="ga('send', 'event', 'Setup', 'FEWO Preiskalkulation', '{{ page.url }}');" class="btn">Setup</a>
-  <a href="https://github.com/freefallcid/Preiskalkulation-2" onclick="ga('send', 'event', 'Source code', 'FEWO Preiskalkulation', '{{ page.url }}');" class="btn">Source code</a>
+  <a href="https://tools.dore.pw/Fewo-Preis/setup.exe" class="btn">Setup</a>
+  <a href="https://github.com/freefallcid/Preiskalkulation-2" class="btn">Source code</a>
 </p>
 
 ## WiW RCON Chat
@@ -89,8 +89,8 @@ This tool's purpose was re-sorting of the reading direction as well as the possi
 {:.gallery-2-col}
 
 <p markdown="0">
-  <a href="https://tools.dore.pw/WiW-RCON-Chat/setup.exe" onclick="ga('send', 'event', 'Setup', 'WiW RCON Chat', '{{ page.url }}');" class="btn">Setup</a>
-  <a href="https://github.com/freefallcid/wiw-rcon-chat" onclick="ga('send', 'event', 'Source code', 'WiW RCON Chat', '{{ page.url }}');" class="btn">Source code</a>
+  <a href="https://tools.dore.pw/WiW-RCON-Chat/setup.exe" class="btn">Setup</a>
+  <a href="https://github.com/freefallcid/wiw-rcon-chat" class="btn">Source code</a>
 </p>
 
 ## WiW Trial Handout Generator
@@ -104,8 +104,8 @@ This app creates a standardised text that we used in our clan to respond to a gi
 {:.gallery-2-col}
 
 <p markdown="0">
-  <a href="https://tools.dore.pw/WiW-Trial-Handout-Generator/setup.exe" onclick="ga('send', 'event', 'Setup', 'WiW Handout Generator', '{{ page.url }}');" class="btn">Setup</a>
-  <a href="https://github.com/freefallcid/wiw-trial-handout" onclick="ga('send', 'event', 'Source code', 'WiW Handout Generator', '{{ page.url }}');" class="btn">Source code</a>
+  <a href="https://tools.dore.pw/WiW-Trial-Handout-Generator/setup.exe" class="btn">Setup</a>
+  <a href="https://github.com/freefallcid/wiw-trial-handout" class="btn">Source code</a>
 </p>
 
 ## License

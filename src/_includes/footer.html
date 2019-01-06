@@ -1,11 +1,11 @@
 <footer id="footer" class="site__footer">
   <ul class="menu">
-    <li><a href="{{ '/support/' | relative_url }}" onclick="ga('send', 'event', 'Footer', 'Support me', '{{ page.url }}');">Support me</a></li>
-    <li><a href="{{ '/faqs/' | relative_url }}" onclick="ga('send', 'event', 'Footer', 'FAQs', '{{ page.url }}');">FAQs</a></li>
-    <li><a href="{{ '/terms/' | relative_url }}" onclick="ga('send', 'event', 'Footer', 'Terms & policies', '{{ page.url }}');">Terms &amp; policies</a></li>
-    <li><a href="{{ '/sitemap/' | relative_url }}" onclick="ga('send', 'event', 'Footer', 'Sitemap', '{{ page.url }}');">Sitemap</a></li>
+    <li><a href="{{ '/support/' | relative_url }}">Support me</a></li>
+    <li><a href="{{ '/faqs/' | relative_url }}">FAQs</a></li>
+    <li><a href="{{ '/terms/' | relative_url }}">Terms &amp; policies</a></li>
+    <li><a href="{{ '/sitemap/' | relative_url }}">Sitemap</a></li>
     {% if site.author.twitter %}
-      <li><a href="{{ site.author.twitter }}" rel="me" onclick="ga('send', 'event', 'Footer', 'Twitter', '{{ page.url }}');">
+      <li><a href="{{ site.author.twitter }}" rel="me">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-twitter' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -13,7 +13,7 @@
       </a></li>
     {% endif %}
     {% if site.author.github %}
-      <li><a href="{{ site.author.github }}" rel="me" onclick="ga('send', 'event', 'Footer', 'Github', '{{ page.url }}');">
+      <li><a href="{{ site.author.github }}" rel="me">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -21,7 +21,7 @@
       </a></li>
     {% endif %}
     {% if site.author.instagram %}
-      <li><a href="{{ site.author.instagram }}" rel="me" onclick="ga('send', 'event', 'Footer', 'Instagram', '{{ page.url }}');">
+      <li><a href="{{ site.author.instagram }}" rel="me">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-instagram' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -29,7 +29,7 @@
       </a></li>
     {% endif %}
     {% if site.author.500px %}
-      <li><a href="{{ site.author.500px }}" rel="me" onclick="ga('send', 'event', 'Footer', '500px', '{{ page.url }}');">
+      <li><a href="{{ site.author.500px }}" rel="me">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-500px' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -37,7 +37,7 @@
       </a></li>
     {% endif %}
     {% if site.author.photogallery %}
-      <li><a href="{{ site.author.photogallery }}" rel="me" onclick="ga('send', 'event', 'Footer', 'Photo Gallery', '{{ page.url }}');">
+      <li><a href="{{ site.author.photogallery }}" rel="me">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-camera' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -45,7 +45,7 @@
       </a></li>
     {% endif %}
     {% if site.feed.path %}
-      <li><a href="{{ site.feed.path }}" title="Atom Feed" onclick="ga('send', 'event', 'Footer', 'RSS', '{{ page.url }}');">
+      <li><a href="{{ site.feed.path }}" title="Atom Feed">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-rss' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
@@ -58,8 +58,8 @@
       {{ site.copyright | markdownify }}
     {% else %}
       <p>&copy; 2017&ndash;{{ site.time | date: '%Y' }} Dominic Reich. Built with
-        <a href="https://jekyllrb.com" onclick="ga('send', 'event', 'Footer', 'Jekyll', '{{ page.url }}');">Jekyll</a>
-        upon the work of <a href="https://github.com/mmistakes/made-mistakes-jekyll" onclick="ga('send', 'event', 'Footer', 'Made Mistakes', '{{ page.url }}');">Michael Rose</a>.
+        <a href="https://jekyllrb.com">Jekyll</a>
+        upon the work of <a href="https://github.com/mmistakes/made-mistakes-jekyll">Michael Rose</a>.
       </p>
     {% endif %}
   </div>

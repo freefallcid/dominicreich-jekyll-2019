@@ -14,11 +14,11 @@ The tutorials, Jekyll themes, and other articles I publish have been a true labo
 If you'd like to support me so I can continue to provide free content and themes --- hit one of the buttons below. I accept PayPal, Square Cash, and Bitcoin: [`bitcoin wallet...`](/assets/images/bitcoin-qr.png "Bitcoin QR code").
 
 <p markdown="0">
-  <a href="https://www.paypal.me/mmistakes" onclick="ga('send', 'event', 'link', 'click', 'Send PayPal');" class="btn">
+  <a href="https://www.paypal.me/mmistakes" class="btn">
     <svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Send PayPal
   </a>
-  <a href="https://cash.me/$mmistakes" onclick="ga('send', 'event', 'link', 'click', 'Send Square Cash');" class="btn">Send Square Cash</a>
-  <a href="/assets/images/bitcoin-qr.png" onclick="ga('send', 'event', 'link', 'click', 'Send Bitcoin');" class="btn" title="1KvHBVXcbeWhwcSRJQdcwVsUZBYnyH5enw">Send Bitcoin</a>
+  <a href="https://cash.me/$mmistakes" class="btn">Send Square Cash</a>
+  <a href="/assets/images/bitcoin-qr.png" class="btn" title="1KvHBVXcbeWhwcSRJQdcwVsUZBYnyH5enw">Send Bitcoin</a>
 </p>
 
 ## Buy something
@@ -26,10 +26,10 @@ If you'd like to support me so I can continue to provide free content and themes
 If you shop on [Amazon.com](#), using my referral link below will earn me a small commission if you end up buying something. I also maintain an Amazon Wish List if you are feeling extra generous. :wink:
 
 <!-- <div markdown="0" class="btn--group">
-  <a href="#" onclick="ga('send', 'event', 'link', 'click', 'Shop Amazon');" class="btn">
+  <a href="#" class="btn">
     <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Shop Amazon
   </a>
-  <a href="#" onclick="ga('send', 'event', 'link', 'click', 'Amazon Wish List');" class="btn">
+  <a href="#" class="btn">
     <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> My Amazon Wish List
   </a>
 </div> -->
