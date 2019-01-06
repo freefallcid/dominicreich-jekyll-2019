@@ -2,7 +2,7 @@
 layout: archive
 title: "Software"
 excerpt: "Some applications that I developed in Visual Basic."
-last_modified_at: 2018-12-10T21:09:35+01:00
+introduction: "Tiny pieces of little helpers---hopefully"
 # image: 
 #   path: &image /assets/images/visual-basic.png
 #   width: 690
@@ -10,8 +10,8 @@ last_modified_at: 2018-12-10T21:09:35+01:00
 #   feature: *image
 tags: [software, visual basic, .net, wiw]
 work: "Software development"
+last_modified_at: 2018-12-10T21:09:35+01:00
 order: 1
-toc: true
 ---
 
 There are a few tools that I created in Visual Basic on my old windows machine.
@@ -26,7 +26,7 @@ There are a few tools that I created in Visual Basic on my old windows machine.
 - I am not an advanced programmer, so the code and the project files might miss something or are badly coded---please keep that in mind before using the tools. If you have something to add to the code please let me know, I'd like to upgrade my tools aswell when I find some time for it.
 {% endnotice %}
 
-## MD5 Converter
+## [MD5 Converter]({% post_url software/2019-01-05-md5converter %})
 
 A simple md5-Hash generator that creates hashes while you type. Easy to copy the hash.
 
@@ -42,12 +42,13 @@ A simple md5-Hash generator that creates hashes while you type. Easy to copy the
 
 ## Leitungslängenberechnung
 
-This is a tool to calculate the maximum of lenght of a electrical circuit in a building. It refers **austrian law**.
+This is a tool to calculate the maximum of lenght of a electrical circuit in a building. It refers to **austrian law**.
 
 {% notice danger %}
-#### Don't forget to use your brain!
+#### :exclamation: Don't forget to use your brain!
 
-It might sound harsh---but you shouldn't rely on this app as there could be still some bugs in the app.
+It might sound harsh---but you shouldn't rely on this app as there could be still some bugs in the app.  
+Have a look at the code yourself to verify my calculations.
 {% endnotice %}
 
 {% figure caption:"Fill out the textfields and hit **BERECHNEN** to calculate the lenght. On other tabs you find other functions as well." %}
@@ -76,10 +77,9 @@ The tool was built for my parents---because of that it is made to fit their need
   <a href="https://github.com/freefallcid/Preiskalkulation-2" onclick="ga('send', 'event', 'Source code', 'FEWO Preiskalkulation', '{{ page.url }}');" class="btn">Source code</a>
 </p>
 
+## WiW RCON Chat
 
 A simple chat viewer to use with [rconnet.de](http://rconnet.de). The chatlogs were produced from bottom to top---that means you had to read those logs from bottom to the top which is not a normal or usual way of how you read things. It was not naturally.
-
-## WiW RCON Chat
 
 This tool's purpose was re-sorting of the reading direction as well as the possibility to filter for specific words. And quickly remove those server messages at the cost of an additional click.
 
@@ -107,3 +107,11 @@ This app creates a standardised text that we used in our clan to respond to a gi
   <a href="https://tools.dore.pw/WiW-Trial-Handout-Generator/setup.exe" onclick="ga('send', 'event', 'Setup', 'WiW Handout Generator', '{{ page.url }}');" class="btn">Setup</a>
   <a href="https://github.com/freefallcid/wiw-trial-handout" onclick="ga('send', 'event', 'Source code', 'WiW Handout Generator', '{{ page.url }}');" class="btn">Source code</a>
 </p>
+
+## License
+
+My tools are mostly licensed under the MIT License. Have an eye on the respective github page for detailed information.
+
+If you got a question, [let me know]({% link _pages/contact.md %}).
+
+{% include_cached support.html %}
