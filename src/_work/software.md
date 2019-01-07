@@ -35,7 +35,7 @@ A simple md5-Hash generator that creates hashes while you type. Easy to copy the
 {% endfigure %}
 {:.gallery-2-col}
 
-## [Leitungslängenberechnung]({% post_url software/2019-01-05-leitungslaengenberechnung %})
+## [Leitungslängenberechnung]({% post_url software/2019-01-07-leitungslaengenberechnung %})
 
 This is a tool to calculate the minimal needed cross-section of an electrical wire in a building. It refers to **austrian law**.
 
