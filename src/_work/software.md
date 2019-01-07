@@ -35,14 +35,9 @@ A simple md5-Hash generator that creates hashes while you type. Easy to copy the
 {% endfigure %}
 {:.gallery-2-col}
 
-<p markdown="0">
-  <a href="https://tools.dore.pw/MD5-Convert/setup.exe" class="btn">Setup</a>
-  <a href="https://github.com/freefallcid/md5Convert" class="btn">Source code</a>
-</p>
+## [Leitungslängenberechnung]({% post_url software/2019-01-05-leitungslaengenberechnung %})
 
-## Leitungslängenberechnung
-
-This is a tool to calculate the maximum of lenght of a electrical circuit in a building. It refers to **austrian law**.
+This is a tool to calculate the minimal needed cross-section of an electrical wire in a building. It refers to **austrian law**.
 
 {% notice danger %}
 #### :exclamation: Don't forget to use your brain!
@@ -56,11 +51,6 @@ Have a look at the code yourself to verify my calculations.
 {% endfigure %}
 {:.gallery-2-col}
 
-<p markdown="0">
-  <a href="https://tools.dore.pw/Leitungslaengenberechnung/setup.exe" class="btn">Setup</a>
-  <a href="https://github.com/freefallcid/leitungslaengenberechnung" class="btn">Source code</a>
-</p>
-
 ## FEWO Preiskalkulation
 
 At version 2. This app lets you quickly calculate a usual overnight stay. Or a holiday. With or without pets. You can set your own values for different situations (summer/winter; how many people; with kids) and so on.
@@ -71,12 +61,13 @@ At version 2. This app lets you quickly calculate a usual overnight stay. Or a h
 {:.gallery-2-col}
 
 The tool was built for my parents---because of that it is made to fit their needs. You might fork the repository and change whatever is needed to fit your needs.
-
+{% comment %}
 <p markdown="0">
   <a href="https://tools.dore.pw/Fewo-Preis/setup.exe" class="btn">Setup</a>
   <a href="https://github.com/freefallcid/Preiskalkulation-2" class="btn">Source code</a>
+  <a href="https://github.com/freefallcid/Preiskalkulation-2/issues" class="btn">Issues</a>
 </p>
-
+{% endcomment %}
 ## WiW RCON Chat
 
 A simple chat viewer to use with [rconnet.de](http://rconnet.de). The chatlogs were produced from bottom to top---that means you had to read those logs from bottom to the top which is not a normal or usual way of how you read things. It was not naturally.
@@ -87,12 +78,13 @@ This tool's purpose was re-sorting of the reading direction as well as the possi
   ![Example screenshot](/assets/images/wiw-rcon-chat.jpg)
 {% endfigure %}
 {:.gallery-2-col}
-
+{% comment %}
 <p markdown="0">
   <a href="https://tools.dore.pw/WiW-RCON-Chat/setup.exe" class="btn">Setup</a>
   <a href="https://github.com/freefallcid/wiw-rcon-chat" class="btn">Source code</a>
+  <a href="https://github.com/freefallcid/wiw-rcon-chat/issues" class="btn">Issues</a>
 </p>
-
+{% endcomment %}
 ## WiW Trial Handout Generator
 
 This app creates a standardised text that we used in our clan to respond to a given trial period membership, called recruitment period.
@@ -102,12 +94,13 @@ This app creates a standardised text that we used in our clan to respond to a gi
   ![Example screenshot result](/assets/images/wiw-trial-handout-2.jpg)
 {% endfigure %}
 {:.gallery-2-col}
-
+{% comment %}
 <p markdown="0">
   <a href="https://tools.dore.pw/WiW-Trial-Handout-Generator/setup.exe" class="btn">Setup</a>
   <a href="https://github.com/freefallcid/wiw-trial-handout" class="btn">Source code</a>
+  <a href="https://github.com/freefallcid/wiw-trial-handout/issues" class="btn">Issues</a>
 </p>
-
+{% endcomment %}
 ## License
 
 My tools are mostly licensed under the MIT License. Have an eye on the respective github page for detailed information.

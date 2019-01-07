@@ -22,4 +22,5 @@ The tool is quite outdated now. But it comes quite handy sometimes to generate r
 <p markdown="0">
   <a href="https://tools.dore.pw/MD5-Convert/setup.exe" class="btn">Setup</a>
   <a href="https://github.com/freefallcid/md5Convert" class="btn">Source code</a>
+  <a href="https://github.com/freefallcid/md5Convert/issues" class="btn">Issues</a>
 </p>
