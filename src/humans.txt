@@ -1,12 +1,17 @@
 ---
 ---
-
-
-/* DOMINICREICH.COM */
-
-  Designer:     Michael Rose
+   ___  ____  __  ________  ___________  ___  _______________ __
+  / _ \/ __ \/  |/  /  _/ |/ /  _/ ___/ / _ \/ __/  _/ ___/ // /
+ / // / /_/ / /|_/ _/ //    _/ // /__  / , _/ _/_/ // /__/ _  /
+/____/\____/_/  /_/___/_/|_/___/\___/ /_/|_/___/___/\___/_//_/
+                                             relaunched 2019
+  Site Owner:   Dominic Reich
   Twitter:      @freefall0
   Location:     Ötztal, Tirol, Austria
+
+  Designer:     Michael Rose
+  Twitter:      @mmistakes
+  Location:     Buffalo, New York USA
 
   Last updated: {{ site.time }}
   Language:     English

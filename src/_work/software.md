@@ -1,16 +1,16 @@
 ---
 layout: archive
 title: "Software"
-excerpt: "Some applications that I developed in Visual Basic."
+excerpt: "Some applications that I developed. Mostly in Visual Basic."
 introduction: "Tiny pieces of little helpers---hopefully"
 # image: 
 #   path: &image /assets/images/visual-basic.png
 #   width: 690
 #   height: 359
 #   feature: *image
-tags: [software, visual basic, .net, wiw]
+#tags: [visual basic, .net, wiw]
 work: "Software development"
-last_modified_at: 2018-12-10T21:09:35+01:00
+last_modified_at: 2019-01-08T14:13:45+01:00
 order: 1
 ---
 
@@ -55,12 +55,13 @@ Have a look at the code yourself to verify my calculations.
 
 At version 2. This app lets you quickly calculate a usual overnight stay. Or a holiday. With or without pets. You can set your own values for different situations (summer/winter; how many people; with kids) and so on.
 
-{% figure caption:"The tool in action. Select the time on the calender and fill out the fields on the left side. It calculates different things on the fly." %}
+{% figure caption:"The tool in action. Select the time on the calendar and fill out the fields on the left side. It calculates different things on the fly." %}
   ![Example screenshot](/assets/images/fewo-preis.jpg)
 {% endfigure %}
 {:.gallery-2-col}
 
 The tool was built for my parents---because of that it is made to fit their needs. You might fork the repository and change whatever is needed to fit your needs.
+
 {% comment %}
 <p markdown="0">
   <a href="https://tools.dore.pw/Fewo-Preis/setup.exe" class="btn">Setup</a>
@@ -68,7 +69,8 @@ The tool was built for my parents---because of that it is made to fit their need
   <a href="https://github.com/freefallcid/Preiskalkulation-2/issues" class="btn">Issues</a>
 </p>
 {% endcomment %}
-## WiW RCON Chat
+
+## [WiW RCON Chat]({% post_url software/2019-01-08-wiw-rcon-chat %})
 
 A simple chat viewer to use with [rconnet.de](http://rconnet.de). The chatlogs were produced from bottom to top---that means you had to read those logs from bottom to the top which is not a normal or usual way of how you read things. It was not naturally.
 
@@ -78,6 +80,7 @@ This tool's purpose was re-sorting of the reading direction as well as the possi
   ![Example screenshot](/assets/images/wiw-rcon-chat.jpg)
 {% endfigure %}
 {:.gallery-2-col}
+
 {% comment %}
 <p markdown="0">
   <a href="https://tools.dore.pw/WiW-RCON-Chat/setup.exe" class="btn">Setup</a>
@@ -85,7 +88,8 @@ This tool's purpose was re-sorting of the reading direction as well as the possi
   <a href="https://github.com/freefallcid/wiw-rcon-chat/issues" class="btn">Issues</a>
 </p>
 {% endcomment %}
-## WiW Trial Handout Generator
+
+## [WiW Trial Handout Generator]({% post_url software/2019-01-08-wiw-trial-handout %})
 
 This app creates a standardised text that we used in our clan to respond to a given trial period membership, called recruitment period.
 
@@ -94,6 +98,7 @@ This app creates a standardised text that we used in our clan to respond to a gi
   ![Example screenshot result](/assets/images/wiw-trial-handout-2.jpg)
 {% endfigure %}
 {:.gallery-2-col}
+
 {% comment %}
 <p markdown="0">
   <a href="https://tools.dore.pw/WiW-Trial-Handout-Generator/setup.exe" class="btn">Setup</a>
@@ -101,6 +106,7 @@ This app creates a standardised text that we used in our clan to respond to a gi
   <a href="https://github.com/freefallcid/wiw-trial-handout/issues" class="btn">Issues</a>
 </p>
 {% endcomment %}
+
 ## License
 
 My tools are mostly licensed under the MIT License. Have an eye on the respective github page for detailed information.

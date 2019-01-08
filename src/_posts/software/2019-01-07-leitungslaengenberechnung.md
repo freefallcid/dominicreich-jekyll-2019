@@ -7,9 +7,9 @@ excerpt: ""
 #   width: 1600
 #   height: 640
 categories: [software]
-tags: []
-last_modified_at: 
+tags: [visual basic, electrical engineering]
 toc: true
+last_modified_at: 2019-01-08T14:14:07+01:00
 ---
 
 This is a tool to calculate the minimal needed cross-section of an electrical wire in a building. It refers to **austrian law**.

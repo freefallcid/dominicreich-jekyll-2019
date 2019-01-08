@@ -8,9 +8,8 @@ image:
   height: 64
   feature: *image
   teaser: /assets/images/wiw-320.jpg
-tags: [videogames]
 # toc: true
-last_modified_at: 2017-11-01T21:36:30+01:00
+last_modified_at: 2019-01-08T14:14:00+01:00
 ---
 
 {% notice warning %}
