@@ -232,7 +232,7 @@ defaults:
       layout: post
       read_time: false
       comments: true
-      support: true
+      support: false
       breadcrumbs:
         - label: "Today I learned"
           url: /til/
@@ -288,6 +288,11 @@ defaults:
       type: pages
     values:
       layout: page
+  # Drafts (because we have to define everything in there otherwise)
+  - scope:
+      path: _drafts
+    values:
+      layout: post
 
 # Plugin: Pagination (jekyll-paginate-v2)
 pagination:
