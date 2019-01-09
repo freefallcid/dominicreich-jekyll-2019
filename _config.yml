@@ -93,6 +93,7 @@ include:
   - _pages
   - _redirects
   - _recipes
+  - _klamm
 exclude:
   - .asset-cache
   - .bundle
@@ -145,6 +146,10 @@ collections:
     output    : true
     permalink : /:collection/:path/
     title     : Recipes
+  klamm:
+    output    : true
+    permalink : /:collection/:path/
+    title     : Klamm
   components:
     output    : false
   colors:
@@ -167,15 +172,27 @@ defaults:
   # Recipes
   - scope:
       path: _recipes
-      type: recipe
+      type: recipes
     values:
       layout: post
       read_time: true
       comments: true
-      support: true
+      support: false
       breadcrumbs:
         - label: "Recipes"
           url: /recipes/
+  - scope:
+      path: _klamm
+      type: klamm
+    values:
+      layout: post
+      read_time: false
+      comments: true
+      support: false
+      sitemap: false
+      breadcrumbs:
+        - label: "Hausbau Klamm"
+          url: /klamm/
   # Mastering Paper
   - scope:
       path: _posts/photography
@@ -293,6 +310,10 @@ defaults:
       path: _drafts
     values:
       layout: post
+  - scope:
+      path: admin
+    values:
+      sitemap: false
 
 # Plugin: Pagination (jekyll-paginate-v2)
 pagination:
@@ -349,3 +370,6 @@ algolia:
     - _pages/tag.md
     - _pages/til.md
     - _pages/work.md
+    - _pages/recipes.md
+    - _pages/klamm.md
+    - _klamm/*

@@ -12,7 +12,6 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
 
 - [About](/about/)
 - [Contact](/contact/)
-- [Recipes](/recipes/)
 - [Frequently asked questions](/faqs/)
 - [Show your support](/support/)
 - [Terms and policies](/terms/)
@@ -30,8 +29,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
 ## [Recipes](/recipes/)
 
 <ul>
-  {% assign recipes = site.recipes |  sort: "order" %}
-  {% for post in recipes %}
+  {% for post in site.recipes %}
     {% include post-list.html %}
   {% endfor %}
 </ul>
