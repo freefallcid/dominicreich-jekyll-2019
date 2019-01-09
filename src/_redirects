@@ -7,6 +7,7 @@ https://dominicreich.netlify.com/* https://dominicreich.com/:splat 301!
 http://dominicreich.netlify.com/* https://dominicreich.com/:splat 301!
 
 /photos/  https://drtom0.myds.me/photo/#!Albums 301
+/fotos/   https://drtom0.myds.me/photo/#!Albums 301
 
 # /about-made-mistakes /about/ 301
 # /articles/blend-first-look /mastering-paper/pencil-first-look/ 301
