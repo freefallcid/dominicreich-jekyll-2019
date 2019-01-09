@@ -16,7 +16,6 @@ social:
   name                   : "Dominic Reich"
   links:
     - "https://twitter.com/freefall0"
-    - "https://www.instagram.com/drtom0/"
     - "https://github.com/freefallcid"
     - "https://500px.com/drtom"
     - "https://www.youtube.com/channel/UC8OnWO2vi6BWW0L5lBDfT7Q"
@@ -93,6 +92,7 @@ keep_files:
 include:
   - _pages
   - _redirects
+  - _recipes
 exclude:
   - .asset-cache
   - .bundle
@@ -349,4 +349,3 @@ algolia:
     - _pages/tag.md
     - _pages/til.md
     - _pages/work.md
-    - cgi-bin/fm18.pl
