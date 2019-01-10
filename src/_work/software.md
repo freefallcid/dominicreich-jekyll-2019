@@ -3,11 +3,12 @@ layout: archive
 title: "Software"
 excerpt: "Some applications that I developed. Mostly in Visual Basic."
 introduction: "Tiny pieces of little helpers---hopefully"
-# image: 
-#   path: &image /assets/images/visual-basic.png
-#   width: 690
-#   height: 359
-#   feature: *image
+image: 
+  path: &image /assets/images/coding-924920_1920.jpg
+  width: 1920
+  height: 793
+  feature: *image
+  caption: "[Photo by **StockSnap** on Pixabay](https://pixabay.com/photo-924920/)"
 #tags: [visual basic, .net, wiw]
 work: "Software development"
 last_modified_at: 2019-01-08T14:13:45+01:00

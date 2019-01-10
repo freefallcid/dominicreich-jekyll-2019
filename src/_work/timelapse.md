@@ -3,7 +3,7 @@ layout: archive
 title: "Timelapse videos"
 excerpt: "Some sweet timelapse videos made out of a shitload of images."
 image: 
-  path: &image /assets/images/wolkenwirrwarr.jpg
+  path: &image /assets/images/oetz-abend.jpg
   width: 1920
   height: 793
   feature: *image
