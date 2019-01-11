@@ -44,6 +44,14 @@
         <span class="visually-hidden">Photo Gallery</span>
       </a></li>
     {% endif %}
+    {% if site.author.xda %}
+      <li><a href="{{ site.author.xda }}" rel="me">
+        <svg class="icon" width="16px" height="16px">
+          <use xlink:href="{{ 'icons.svg#icon-android' | prepend: 'assets/icons/' | relative_url }}"></use>
+        </svg>
+        <span class="visually-hidden">xda-developers</span>
+      </a></li>
+    {% endif %}
     {% if site.feed.path %}
       <li><a href="{{ site.feed.path }}" title="Atom Feed">
         <svg class="icon" width="16px" height="16px">
