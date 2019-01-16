@@ -2,7 +2,7 @@
 layout: archive
 title: "Software"
 excerpt: "Some applications that I developed. Mostly in Visual Basic."
-introduction: "Tiny pieces of little helpers---hopefully"
+#introduction: ""
 image: 
   path: &image /assets/images/coding-924920_1920.jpg
   width: 1920
@@ -15,7 +15,7 @@ last_modified_at: 2019-01-08T14:13:45+01:00
 order: 1
 ---
 
-There are a few tools that I created in Visual Basic on my old windows machine.
+Have a look on my little helpers. I hope you find them helpful too :wink:
 
 {% notice %}
 #### Some things just right away
@@ -114,4 +114,6 @@ My tools are mostly licensed under the MIT License. Have an eye on the respectiv
 
 If you got a question, [let me know]({% link _pages/contact.md %}).
 
+{% comment %}
 {% include_cached support.html %}
+{% endcomment %}
