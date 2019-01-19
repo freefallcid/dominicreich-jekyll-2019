@@ -4,9 +4,29 @@ title: "Show your support"
 last_modified_at: 2018-12-08 23:22:33
 excerpt: "If you like the free content I provide on Made Mistakes, here's how to show your thanks and motivate me to create more of it."
 toc: true
-published: false
 ---
 
+{% notice info %}
+#### Hi there, to avoid internal 404 page views...
+
+It came to my mind to create and publish this page---but with no content meanwhile.
+
+I do not have any payment method unless paypal yet and I still think about this particular site design. And you won't think, but every page is a lot of work for me because I have to translate a lot of things because of my bad english.
+{% endnotice %}
+
+## Send a donation
+
+## Buy something
+
+## Spread the word
+
+## Follow me on social media
+
+## Subscribe to the feeds
+
+### Feeds by topic
+
+{% comment %}
 The tutorials, Jekyll themes, and other articles I publish have been a true labor of love for me. If you've found any of this content useful here's how to show your thanks and motivate me to create more.
 
 ## Send a donation
@@ -67,3 +87,4 @@ The main feed[^feed] for everything on Made Mistakes.
 - Today I learned posts: [{{ 'til.xml' | relative_url }}]({{ 'til.xml' | relative_url }})
 
 [^feed]: Right click any of the feed links found on this page and add to your feed reader of choice. My favorite is [feedly](https://feedly.com), which syncs your subscriptions across all browsers and mobile devices.
+{% endcomment %}
