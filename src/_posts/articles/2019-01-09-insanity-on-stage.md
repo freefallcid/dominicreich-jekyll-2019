@@ -9,7 +9,7 @@ image:
 categories: [articles]
 tags: []
 support: false
-last_modified_at: 
+last_modified_at: 2019-01-19T18:54:35+01:00
 ---
 
 Hi! It took quite a while to finish the start of the relaunch of the website :wink:
@@ -24,6 +24,6 @@ Some daily learning get published in the [Today I Learned](/til/) section (which
 
 My old server hosted over 6000 photos and videos (~19GB of data). The latter got converted on the server directly with the [video-js plugin](https://de.piwigo.org/ext/extension_view.php?eid=610) for [Piwigo](https://piwigo.org/). That's why I had my own server---to have enough ressources available for video encoding. Additionaly I was able to install whatever library I wanted (like mediainfo and ffmpeg).
 
-The [more interesting photos]({{ site.author.500px }}) are on 500px. [Timelapse videos](https://www.youtube.com/watch?v=9cV0uG1YdZI&list=PLAVuOpof7vDonReliwNKPa84z4ZEWHRbk) get uploaded to YouTube. They get a nice background sound on there :)
+The more interesting photos are on [500px]({{ site.author.500px }}) or on my [NAS at home](https://drtom0.myds.me/photo/#!Albums/album_466f746f677261666965). [Timelapse videos](https://www.youtube.com/watch?v=9cV0uG1YdZI&list=PLAVuOpof7vDonReliwNKPa84z4ZEWHRbk) get uploaded to YouTube. They get a nice background sound on there :)
 
 Besides all that, the first post's title *Insanity On Stage* was named after the first blog that I maintaned back in 2006.

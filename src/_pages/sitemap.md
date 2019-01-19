@@ -44,6 +44,32 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
 
 ## [Portfolio work](/work/)
 
+{% comment %}
+### [Photography]({% link _work/photography.md %})
+
+<ul>
+  {% for post in site.categories.photography %}
+    {% include post-list.html %}
+  {% endfor %}
+</ul>
+
+### [Timelapse videos]({% link _work/timelapse.md %})
+
+<ul>
+  {% for post in site.categories.timelapse %}
+    {% include post-list.html %}
+  {% endfor %}
+</ul>
+
+### [Software]({% link _work/software.md %})
+
+<ul>
+  {% for post in site.categories.software %}
+    {% include post-list.html %}
+  {% endfor %}
+</ul>
+{% endcomment %}
+
 <ul>
   {% assign posts = site.work | sort: "order" | reverse %}
   {% for post in posts %}
