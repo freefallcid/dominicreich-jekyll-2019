@@ -1,0 +1,7 @@
+---
+layout: atom_feed
+category_limit: software
+limit: 25
+title: "Software development Feed"
+sitemap: false
+---
