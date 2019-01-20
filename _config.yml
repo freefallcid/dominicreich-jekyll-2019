@@ -127,7 +127,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate-v2
   - jekyll-typogrify
-  - jekyll/figure
+  - jekyll-figure
   - jekyll-algolia
   - jekyll/tagging
   - jekyll-tagging-related_posts
