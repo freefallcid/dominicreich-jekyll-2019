@@ -4,12 +4,13 @@ excerpt: "Back in time a lot of things were different. And better in some way---
 image:
   path: &image /assets/images/insanity-on-stage-feature.jpg
   feature: *image
-  width: 1600
-  height: 640
+  width: 2200
+  height: 473
+  caption: "Photo taken on New Year's Eve 2016 in Hochoetz"
 categories: [articles]
 tags: []
 support: false
-last_modified_at: 2019-01-19T18:54:35+01:00
+last_modified_at: 2019-01-21T08:56:29+01:00
 ---
 
 Hi! It took quite a while to finish the start of the relaunch of the website :wink:

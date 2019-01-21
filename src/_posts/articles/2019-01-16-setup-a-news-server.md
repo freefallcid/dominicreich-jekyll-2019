@@ -4,11 +4,12 @@ excerpt: "Installation and quick configuration of a netnews server."
 image:
   path: &image /assets/images/howto-news-server.jpg
   feature: *image
-  width: 1600
-  height: 640
+  width: 2288
+  height: 744
   teaser: /assets/images/howto-news-server-teaser.jpg
 categories: [articles]
 tags: [netnews,freebsd]
+last_modified_at: 2019-01-21T08:56:52+01:00
 toc: true
 ---
 

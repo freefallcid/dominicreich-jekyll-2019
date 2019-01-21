@@ -3,11 +3,11 @@ permalink: /terms/
 title: "Terms and policies"
 image: 
   path: &image /assets/images/meeting-1015591_1280.jpg
-  width: 1920
-  height: 793
+  width: 1280
+  height: 693
   feature: *image
   caption: "[Photo by **3dman_eu** on Pixabay](https://pixabay.com/photo-1015591/)"
-last_modified_at: 2019-01-11T10:28:29+01:00
+last_modified_at: 2019-01-21T08:56:09+01:00
 excerpt: "DOMINICREICH.COM privacy policy, license, and other legal stuff you won't read."
 toc: true
 ---
