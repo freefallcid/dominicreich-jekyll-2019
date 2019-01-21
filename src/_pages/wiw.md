@@ -23,7 +23,7 @@ Years ago we all played a game called Battlefield 2. The game bound us together 
 ![wiw site logo sepia](/assets/images/wiw-logo-sepia.jpg)
 {% endfigure %}
 
-## Become a member
+## I became member
 
 I myself started to be a member of [**=WiW=**](http://www.wakeislandwarriors.eu/forum/) back in 2010, specifically on May 20<sup>th</sup> 2010, when I was [granted the membership](https://web.archive.org/web/20100524010630/http://www.wakeislandwarriors.com/community/viewforum.php?f=5) (uhm, sorry the post itself is not available on the wayback archive :disappointed_relieved:)  of the best community that I can still remember. My old computer served me well for a while --- it was one of the first 64bit beasts that came out at that time.
 
@@ -31,7 +31,7 @@ When time went by, I started paying the admin fee for the clan and became one of
 
 {% youtube 2fd2vgkM8nY %}
 
-## Become head-admin
+## I became head-admin
 
 =WiW= did some re-structuring in its hierarchy and I got the role of the head-admin. This happened around the last epoche of BF2, if not the beginning of BF3. I can remember a shitload of talk about good and bad admining on the BF3 Karkand map. Hell, was it a pain every and every time again :disappointed:. Anyway, also on BF3 we got some good servers up and running for quite a while --- you've seen when people were present and when our lifes at home needed us more than the game :wink:.
 
@@ -45,7 +45,7 @@ The next video shows a few guys with no luck. But neither had I luck --- my team
 
 *If you like, watch my [Battlefield 2](https://www.youtube.com/playlist?list=PLAVuOpof7vDrLj6gNgPIAde6CLZC5CoCy) or [Battlefield 3](https://www.youtube.com/playlist?list=PLAVuOpof7vDoNS_1ECqkx5XusLjI7CjMM) playlists on YouTube --- I'm going forward in history and tell you the rest of the story so you can read on.*
 
-## Become recruiter
+## I became recruiter
 
 With beeing head-admin for a while, I got asked to join the recruitment team --- which consisted of Niels and Bange at that moment (I think Spocki already left, but I'm not really sure about that right now). Time went by with playing and recruiting new members mostly on BF3 but also sometimes on BF2, still. 
 
@@ -53,7 +53,7 @@ Anyway, Bange was pushed towards the Mods group and Sanna joined the recruitment
 
 To follow time I felt the need to leave the clan. I had not enough free time to bring into the community. I stepped back from recruiting and Morphoes took place. From then I was normal clan member without the need of any hassle to bring or not to bring into --- not that anyone would have told me to bring, but this was my own decision to take away some stress that I would probably just make myself :tired_face:.
 
-## Leaving the clan
+## I left the clan
 
 I never left the clan officially[^clan] --- but in fact I wasn't that present in the clan around the 23<sup>rd</sup> of November 2014.
 
