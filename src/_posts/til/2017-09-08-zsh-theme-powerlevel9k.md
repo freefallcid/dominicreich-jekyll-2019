@@ -27,7 +27,7 @@ $ ln -s ../modules/prompt/external/powerlevel9k/powerlevel9k.zsh-theme prompt_po
 Now you need to install the [powerline patched fonts][font-awesome] to display the symbols correctly.
 I personally use the [pre-patched Source-Code-Pro font][fonts]---you may use whatever fits your needs.
 
-Copy the `.ttf`-files to `~/.fonts` and update the font-cache.Schriftarten-Cache.
+Copy the `.ttf`-files to `~/.fonts` and update the font-cache.
 
 ``` terminal
 $ fc-cache -vf
