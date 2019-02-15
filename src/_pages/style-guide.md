@@ -2,10 +2,9 @@
 layout: page
 permalink: /style-guide/
 title: "Style guide"
-last_modified_at: 2015-02-05T10:32:14-05:00
+date: 2016-08-26
+last_modified_at: 2019-02-16 18:12:31
 excerpt: "A handy collection of all the colors, typography, UI patterns, and components used on Made Mistakes."
-ads: false
-share: false
 sitemap: false
 ---
 

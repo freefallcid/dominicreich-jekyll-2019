@@ -11,4 +11,5 @@ category: work
 title: "Work Portfolio"
 excerpt: &excerpt "A selection of things I've created."
 introduction: *excerpt
+date: 2016-08-26
 ---

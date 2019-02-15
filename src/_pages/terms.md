@@ -7,7 +7,8 @@ image:
   height: 693
   feature: *image
   caption: "[Photo by **3dman_eu** on Pixabay](https://pixabay.com/photo-1015591/)"
-last_modified_at: 2019-01-21T08:56:09+01:00
+date: 2016-08-26
+last_modified_at: 2019-02-16 18:13:18
 excerpt: "DOMINICREICH.COM privacy policy, license, and other legal stuff you won't read."
 toc: true
 ---

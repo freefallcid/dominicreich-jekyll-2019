@@ -8,6 +8,7 @@ introduction: *excerpt
 pagination: 
   enabled: true
   category: til
+date: 2016-08-26
 ---
 
 {% include popular-topics.html %}

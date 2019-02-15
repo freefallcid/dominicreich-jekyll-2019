@@ -7,7 +7,8 @@ image:
   height: 593
   feature: *image
   caption: "[Photo by **Sam Truong Dan** on Unsplash](https://unsplash.com/photos/-rF4kuvgHhU)"
-last_modified_at: 2019-01-20T08:09:37+01:00
+date: 2016-08-26
+last_modified_at: 2019-02-16 18:12:59
 #excerpt: "If you like the free content I provide on Made Mistakes, here's how to show your thanks and motivate me to create more of it."
 excerpt: ""
 toc: true
