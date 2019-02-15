@@ -51,6 +51,8 @@ http://dominicreich.netlify.com/* https://dominicreich.com/:splat 301!
 # /tag/fiftythree /tag/paper-by-53/ 301
 # /tags /tag/ 301
 # /works /work/ 301
+/til/ /tag/til/ 301
+/til/* /notes/:splat 301
 
 # ----------------------------------------------------------------------
 # Sitemap redirects
@@ -67,3 +69,4 @@ http://dominicreich.netlify.com/* https://dominicreich.com/:splat 301!
 /atom /atom.xml 301
 /rss /atom.xml 301
 /feed.xml /atom.xml 301
+/til.xml /notes.xml 301

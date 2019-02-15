@@ -16,7 +16,7 @@ section:
     class: "section__inverse section__articles"
     image: /assets/images/hdr-oetzerberg-view-feature.jpg
     introduction: |
-      You are welcome to dive into my psychotic world of life. Shorter notes are directly posted to the [#TIL](/til/ "Today I learned") section.
+      You are welcome to dive into my psychotic world of life. Shorter informational notes can be found right within my [notes sheet](/notes/).
     actions:
       - label: "dive in →"
         url: "/articles/"

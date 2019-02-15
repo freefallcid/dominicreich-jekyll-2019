@@ -8,7 +8,7 @@ image:
   feature: *image
   caption: "[Photo by **Sam Truong Dan** on Unsplash](https://unsplash.com/photos/-rF4kuvgHhU)"
 date: 2016-08-26
-last_modified_at: 2019-02-16 18:12:59
+last_modified_at: 2019-02-16 18:23:00
 #excerpt: "If you like the free content I provide on Made Mistakes, here's how to show your thanks and motivate me to create more of it."
 excerpt: ""
 toc: true
@@ -75,6 +75,6 @@ The main feed[^feed] for everything on DOMINICREICH.COM.
 - Software: [{{ 'software.xml' | relative_url }}]({{ 'software.xml' | relative_url }})
 - Photographs: [{{ 'photography.xml' | relative_url }}]({{ 'photography.xml' | relative_url }})
 - Timelapse videos: [{{ 'timelapse.xml' | relative_url }}]({{ 'timelapse.xml' | relative_url }})
-- Today I learned posts: [{{ 'til.xml' | relative_url }}]({{ 'til.xml' | relative_url }})
+- Notes: [{{ 'notes.xml' | relative_url }}]({{ 'notes.xml' | relative_url }})
 
 [^feed]: Right click any of the feed links found on this page and add to your feed reader of choice.
