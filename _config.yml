@@ -160,6 +160,7 @@ defaults:
       type: posts
     values:
       layout: post
+      byline: true
       read_time: true
       comments: true
       support: true
@@ -184,7 +185,8 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: false
+      byline: true
+      read_time: true
       comments: true
       support: true
       breadcrumbs:
@@ -199,9 +201,7 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: false
-      comments: true
-      support: true
+      byline: true
       breadcrumbs:
         - label: "Timelapse videos"
           url: /work/timelapse/
@@ -214,10 +214,8 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: false
-      comments: true
-      support: true
       permalink: /work/:categories/:title/
+      byline: true
       breadcrumbs:
         - label: "Work"
           url: /work/
@@ -232,7 +230,8 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: false
+      byline: true
+      read_time: true
       comments: true
       support: false
       breadcrumbs:
@@ -244,6 +243,7 @@ defaults:
 #      type: posts
 #    values:
 #      layout: post
+#      byline: true
 #      breadcrumbs:
 #        - label: "Tiny Paintings"
 #          url: /tiny-paintings/
