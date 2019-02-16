@@ -71,10 +71,10 @@ The main feed[^feed] for everything on DOMINICREICH.COM.
 ### Feeds by topic
 
 - Blog articles: [{{ 'articles.xml' | relative_url }}]({{ 'articles.xml' | relative_url }})
+- Notes: [{{ 'notes.xml' | relative_url }}]({{ 'notes.xml' | relative_url }})
 - Recipes: [{{ 'recipes.xml' | relative_url }}]({{ 'recipes.xml' | relative_url }})
 - Software: [{{ 'software.xml' | relative_url }}]({{ 'software.xml' | relative_url }})
 - Photographs: [{{ 'photography.xml' | relative_url }}]({{ 'photography.xml' | relative_url }})
 - Timelapse videos: [{{ 'timelapse.xml' | relative_url }}]({{ 'timelapse.xml' | relative_url }})
-- Notes: [{{ 'notes.xml' | relative_url }}]({{ 'notes.xml' | relative_url }})
 
 [^feed]: Right click any of the feed links found on this page and add to your feed reader of choice.
