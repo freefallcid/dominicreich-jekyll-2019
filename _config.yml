@@ -142,7 +142,7 @@ collections:
   work:
     output    : true
     permalink : /:collection/:path/
-    title     : Work
+    title     : Works
   recipes:
     output    : true
     permalink : /:collection/:path/
@@ -230,7 +230,7 @@ defaults:
       permalink: /work/:categories/:title/
       byline: true
       breadcrumbs:
-        - label: "Work"
+        - label: "Works"
           url: /work/
         - label: "Software"
           url: /work/software/
@@ -257,7 +257,7 @@ defaults:
     values:
       layout: post
       breadcrumbs:
-        - label: "Work"
+        - label: "Works"
           url: /work/
       seo:
         type: "CreativeWork"
@@ -268,7 +268,7 @@ defaults:
       layout: work
       category: work
       breadcrumbs:
-        - label: "Work"
+        - label: "Works"
           url: /work/
       seo:
         type: "CreativeWork"
