@@ -20,7 +20,7 @@ section:
     actions:
       - label: "dive in →"
         url: "/articles/"
-  - title: "Work Portfolio"
+  - title: "Works"
     class: "section__inverse section__work"
     image: /assets/images/snowy-grass-feature.jpg
     introduction: |

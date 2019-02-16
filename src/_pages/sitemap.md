@@ -4,7 +4,8 @@ permalink: /sitemap/
 title: "Sitemap"
 excerpt: "An index of all the pages found on dominicreich.com"
 date: 2016-08-26
-last_modified_at: 2019-02-16 18:27:27
+last_modified_at: 2019-02-16 18:48:29
+toc: true
 ---
 
 A hierarchical breakdown of all the sections and pages found on the site. For you robots out there, here is an [XML version](/sitemap.xml) available for your crawling pleasure.

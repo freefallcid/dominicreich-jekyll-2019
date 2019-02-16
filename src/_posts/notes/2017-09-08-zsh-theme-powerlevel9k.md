@@ -1,9 +1,9 @@
 ---
 title: "Powerlevel9k: a theme for ZSH (and prezto)"
 excerpt: "A very nice theme if you use prezto in your ZSH terminals."
-tags: [macos, zsh, terminal]
+tags: [macos, zsh, terminal, til]
 # last_modified_at: 2018-02-25T13:29:54+01:00
-categories: [til]
+categories: [notes]
 ---
 
 There's very nice theme for ZSH that I actually use myself.

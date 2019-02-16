@@ -1,9 +1,9 @@
 ---
 title: "Mounting disk-images on macOS"
 excerpt: "Help me remember how to mount iso or raw disk-images on macOS with hdiutil."
-tags: [macos, terminal]
+tags: [macos, terminal, til]
 # last_modified_at: 2018-01-30T21:41:35+01:00
-categories: [til]
+categories: [notes]
 ---
 
 You can mount `iso` and `img` files with `hdiutil` on macOS. I'll write down both versions here.

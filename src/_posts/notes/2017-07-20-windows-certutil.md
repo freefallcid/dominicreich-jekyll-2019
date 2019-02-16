@@ -1,9 +1,9 @@
 ---
 title: "Windows certutil"
 excerpt: "Adds a certificate to the windows certification manager."
-tags: [windows, terminal]
+tags: [windows, terminal, til]
 # last_modified_at: 2018-01-29T23:59:49+01:00
-categories: [til]
+categories: [notes]
 ---
 
 A quick way for adding a certificate to the systems root certification path.
