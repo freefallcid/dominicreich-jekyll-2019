@@ -127,7 +127,7 @@ myToggle.addEventListener("click", function() {
           .removeClass("danger")
           .addClass("success");
         showAlert(
-          '<strong>Thanks for your comment!</strong> It is <a href="https://github.com/mmistakes/made-mistakes-jekyll/pulls">currently pending</a> and will show on the site once approved.'
+          '<strong>Thanks for your comment!</strong> It is <a href="https://github.com/freefallcid/dominicreich-jekyll/pulls">currently pending</a> and will show on the site once approved.'
         );
       },
       error: function(err) {
