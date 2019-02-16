@@ -75,7 +75,7 @@ GEM
     jekyll-figure (0.1.0)
     jekyll-include-cache (0.1.0)
       jekyll (~> 3.3)
-    jekyll-paginate-v2 (2.1.0)
+    jekyll-paginate-v2 (2.0.0)
       jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -95,7 +95,7 @@ GEM
       typogruby
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    jemoji (0.10.1)
+    jemoji (0.10.2)
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (~> 3.0)
@@ -147,6 +147,7 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     verbal_expressions (0.1.5)
+    wdm (0.1.1)
     yell (2.0.7)
 
 PLATFORMS
@@ -156,20 +157,21 @@ PLATFORMS
 
 DEPENDENCIES
   breakpoint
-  html-proofer (>= 3.9.2)
+  html-proofer
   jekyll
   jekyll-algolia (>= 1.4.7)
   jekyll-figure
   jekyll-include-cache
-  jekyll-paginate-v2
+  jekyll-paginate-v2 (~> 2.0.0)
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tagging-related_posts
   jekyll-toc (>= 0.9.0)
   jekyll-typogrify
-  jemoji (>= 0.10.1)
+  jemoji (>= 0.10.2)
   liquid-c
   rake
+  wdm (~> 0.1.1)
 
 BUNDLED WITH
    1.17.1
