@@ -1,9 +1,9 @@
 ---
 title: "Quickly create thumbnails"
 excerpt: "Create a 100% crop of an image on the fly. Uses ImageMagick."
-tags: [linux, macos, terminal, photography]
+tags: [linux, macos, terminal, photography, til]
 # last_modified_at: 2018-01-30T00:16:55+01:00
-categories: [til]
+categories: [notes]
 ---
 
 That script creates a 300px thumbnail of a picture.

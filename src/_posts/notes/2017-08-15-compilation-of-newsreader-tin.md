@@ -1,9 +1,9 @@
 ---
 title: "The way I compile the newsreader tin"
 excerpt: "This is the build configuration that I used the last time."
-tags: [macos, terminal]
+tags: [macos, terminal, til]
 # last_modified_at: 2018-02-01T20:07:25+01:00
-categories: [til]
+categories: [notes]
 ---
 
 Maybe I need this some day.

@@ -1,9 +1,9 @@
 ---
 title: "Recurring execution of a script with cron"
 excerpt: "Sending out a report of a scripts execution on pre-defined events."
-tags: [linux, macos, cron]
+tags: [linux, macos, cron, til]
 # last_modified_at: 2018-02-01T23:12:06+01:00
-categories: [til]
+categories: [notes]
 ---
 
 I found a reliable way to remind myself of a recurring event that happens every second month

@@ -1,9 +1,9 @@
 ---
 title: "Partition table backup"
 # excerpt: "Create a duplicate of a hard disk without copying over all the data."
-tags: [terminal, linux]
+tags: [terminal, linux, til]
 # last_modified_at: 2018-01-30T20:49:34+01:00
-categories: [til]
+categories: [notes]
 ---
 
 Create a partition tables backup with the tool [sfdisk](https://github.com/karelzak/util-linux).
