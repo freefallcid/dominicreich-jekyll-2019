@@ -203,8 +203,6 @@ defaults:
       layout: post
       byline: true
       read_time: true
-      comments: true
-      support: true
       breadcrumbs:
         - label: "Notes"
           url: /notes/
