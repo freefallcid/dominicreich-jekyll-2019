@@ -7,7 +7,8 @@ image:
   width: 1600
   height: 640
   caption: "[Photo by **geralt** on Pixabay](https://pixabay.com/photo-2794672/)"
-last_modified_at: 2018-12-08 22:46:00
+date: 2016-08-26
+last_modified_at: 2019-02-16 18:11:56
 excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
 ---
 

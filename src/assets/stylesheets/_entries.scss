@@ -62,11 +62,11 @@
   @include breakpoint($md-up) {
     display: grid;
     grid-column-gap: 2em;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr 1fr;
   }
 
   @include breakpoint($lg-up) {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 1fr 1fr 1fr;
   }
 
   a {
@@ -76,6 +76,10 @@
     justify-content: space-between;
     padding: 0.25em 0;
     text-decoration: none;
+  }
+
+  strong {
+    font-family: $alternate-font;
   }
 
   .count {

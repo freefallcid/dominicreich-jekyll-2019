@@ -8,7 +8,8 @@ image:
   feature: *image
   caption: "[Photo by **6689062** on Pixabay](https://pixabay.com/photo-2846221/)"
 category: work
-title: "Work Portfolio"
+title: "Works"
 excerpt: &excerpt "A selection of things I've created."
 introduction: *excerpt
+date: 2016-08-26
 ---

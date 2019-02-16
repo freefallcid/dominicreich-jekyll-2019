@@ -3,7 +3,8 @@ layout: page
 permalink: /sitemap/
 title: "Sitemap"
 excerpt: "An index of all the pages found on dominicreich.com"
-last_modified_at: 2019-01-05T23:00:11+01:00
+date: 2016-08-26
+last_modified_at: 2019-02-16 18:48:29
 toc: true
 ---
 
@@ -19,7 +20,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
 - [Wake Island Warriors](/wiw/)
 - [Tag index](/tag/)
 
-## [Blog articles](/articles/)
+## [Articles](/articles/)
 
 <ul>
   {% for post in site.categories.articles %}
@@ -35,10 +36,10 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   {% endfor %}
 </ul>
 
-## [Today I learned](/til/)
+## [Notes](/notes/)
 
 <ul>
-  {% for post in site.categories.til %}
+  {% for post in site.categories.notes %}
     {% include post-list.html %}
   {% endfor %}
 </ul>

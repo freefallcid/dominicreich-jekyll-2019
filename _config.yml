@@ -142,7 +142,7 @@ collections:
   work:
     output    : true
     permalink : /:collection/:path/
-    title     : Work
+    title     : Works
   recipes:
     output    : true
     permalink : /:collection/:path/
@@ -160,6 +160,7 @@ defaults:
       type: posts
     values:
       layout: post
+      byline: true
       read_time: true
       comments: true
       support: true
@@ -184,7 +185,8 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: false
+      byline: true
+      read_time: true
       comments: true
       support: true
       breadcrumbs:
@@ -193,15 +195,24 @@ defaults:
       work: "Visual Artwork"
       seo:
         type: "CreativeWork"
+  # Notes
+  - scope:
+      path: _posts/notes
+      type: posts
+    values:
+      layout: post
+      byline: true
+      read_time: true
+      breadcrumbs:
+        - label: "Notes"
+          url: /notes/
   # PaperFaces
   - scope:
       path: _posts/timelapse
       type: posts
     values:
       layout: post
-      read_time: false
-      comments: true
-      support: true
+      byline: true
       breadcrumbs:
         - label: "Timelapse videos"
           url: /work/timelapse/
@@ -214,36 +225,23 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: false
-      comments: true
-      support: true
       permalink: /work/:categories/:title/
+      byline: true
       breadcrumbs:
-        - label: "Work"
+        - label: "Works"
           url: /work/
         - label: "Software"
           url: /work/software/
       work: "Software development"
       seo:
         type: "CreativeWork"
-  # TIL
-  - scope:
-      path: _posts/til
-      type: posts
-    values:
-      layout: post
-      read_time: false
-      comments: true
-      support: false
-      breadcrumbs:
-        - label: "Today I learned"
-          url: /til/
 #  # Tiny Paintings
 #  - scope:
 #      path: _posts/tiny-paintings
 #      type: posts
 #    values:
 #      layout: post
+#      byline: true
 #      breadcrumbs:
 #        - label: "Tiny Paintings"
 #          url: /tiny-paintings/
@@ -257,7 +255,7 @@ defaults:
     values:
       layout: post
       breadcrumbs:
-        - label: "Work"
+        - label: "Works"
           url: /work/
       seo:
         type: "CreativeWork"
@@ -268,7 +266,7 @@ defaults:
       layout: work
       category: work
       breadcrumbs:
-        - label: "Work"
+        - label: "Works"
           url: /work/
       seo:
         type: "CreativeWork"

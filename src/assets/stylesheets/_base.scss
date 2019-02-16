@@ -10,32 +10,10 @@ html {
   }
 }
 
-* {
-  @include line-height(1);
-  @include margin-top(0);
-}
-
-abbr[title] {
-  position: relative;
-
-  &:hover::after,
-  &:focus::after {
-    content: attr(title);
-
-    /* position tooltip like the native one */
-    position: absolute;
-    left: 0;
-    bottom: -2.5em;
-    width: auto;
-    white-space: nowrap;
-
-    /* style tooltip */
-    padding: 0.25em 0.5em;
-    background: $text-color;
-    color: #fff;
-    font-size: 0.75em;
-  }
-}
+// * {
+//   @include line-height(1);
+//   @include margin-top(0);
+// }
 
 body {
   margin: 0;
@@ -51,8 +29,8 @@ body {
 $headings: (
   h1: (2, 3, 1),
   h2: (1.5, 2, 1),
-  h3: (1.5, 1, 0),
-  h4: (1, 1, 0),
+  h3: (1.25, 1, 1),
+  h4: (1.125, 1, 0),
   h5: (1, 1, 0),
   h6: (1, 1, 0)
 );
@@ -75,6 +53,67 @@ h6 {
   font-family: $sans-serif-font;
   text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
 }
+
+h2 {
+  font-size: ms(2, $thread: h);
+
+  @include breakpoint ($md-up) {
+    font-size: ms(3, $thread: h);
+  }
+
+  @include breakpoint ($lg-up) {
+    font-size: ms(4, $thread: h);
+  }
+}
+
+h3 {
+  font-size: ms(1, $thread: h);
+
+  @include breakpoint ($md-up) {
+    font-size: ms(2, $thread: h);
+  }
+
+  @include breakpoint ($lg-up) {
+    font-size: ms(3, $thread: h);
+  }
+}
+
+h4 {
+  font-size: ms(0, $thread: h);
+
+  @include breakpoint ($md-up) {
+    font-size: ms(1, $thread: h);
+  }
+
+  @include breakpoint ($lg-up) {
+    font-size: ms(2, $thread: h);
+  }
+}
+
+h5 {
+  font-size: ms(-1, $thread: h);
+
+  @include breakpoint ($md-up) {
+    font-size: ms(0, $thread: h);
+  }
+
+  @include breakpoint ($lg-up) {
+    font-size: ms(1, $thread: h);
+  }
+}
+
+h6 {
+  font-size: ms(-2, $thread: h);
+
+  @include breakpoint ($md-up) {
+    font-size: ms(-1, $thread: h);
+  }
+
+  @include breakpoint ($lg-up) {
+    font-size: ms(0, $thread: h);
+  }
+}
+
 
 blockquote {
   margin-right: 0;

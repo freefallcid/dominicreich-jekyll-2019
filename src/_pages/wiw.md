@@ -94,7 +94,7 @@ I advise you to not use that code any more, it does not filter out enough URLs a
 {% notice %}
 #### Update
 
-A new version is in the make. But it's not on top of my priority list.
+A new version is planned. But it's not on top of my priority list.
 {% endnotice %}
 
 *[SQDM]: Squad Death Match

@@ -1,7 +1,5 @@
 ---
 layout: home
-permalink: /
-title: "Dominic Reich"
 excerpt: "Just beeing stupid most of the time."
 section:
   - title: "Mostly insane"
@@ -18,7 +16,7 @@ section:
     class: "section__inverse section__articles"
     image: /assets/images/hdr-oetzerberg-view-feature.jpg
     introduction: |
-      You are welcome to dive into my psychotic world of life. Shorter notes are directly posted to the [#TIL](/til/ "Today I learned") section.
+      You are welcome to dive into my psychotic world of life. Shorter informational notes can be found right within my [notes sheet](/notes/).
     actions:
       - label: "dive in →"
         url: "/articles/"
@@ -30,5 +28,7 @@ section:
     actions:
       - label: "See more →"
         url: "/work/"
-last_modified_at: 2018-12-10T21:43:44+01:00
+ads: false
+date: 2016-08-26
+last_modified_at: 2018-11-07T18:49:45-05:00
 ---

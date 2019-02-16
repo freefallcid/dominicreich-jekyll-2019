@@ -3,6 +3,9 @@
 articles:
   name: "Blog Articles"
 
+notes:
+  name: "Notes"
+
 mastering-paper:
   name: "Mastering Paper by 53"
 
