@@ -67,6 +67,7 @@ twitter:
 # Staticman comments (full configuration in staticman.yml)
 staticman:
   branch                 : "master"
+  encrypted              : "XesI12jsaXJk4pIh5f3OYyhmUEUTQfH3BvAbBmAa24WAtZzEquFX4yqyH253xtociy6DirStIcWiZs/2iwSLdoVfqjLWvWZOPwSWFWKfZltfNJbPThmojl1NaBdWUdQR4EeUylyR81DDn8OlnwLy7r7G9CYcbmpxsNaBMNiuP4M="
 
 # reCAPTCHA keys
 reCaptcha:
