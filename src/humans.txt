@@ -14,7 +14,7 @@
   Location:     Buffalo, New York USA
 
   Last updated: {{ site.time }}
-  Language:     English
+  Language:     German
   Built with:   Jekyll {{ jekyll.version }} <https://jekyllrb.com>
                 Visual Studio Code <https://code.visualstudio.com>
                 Adobe Creative Suite

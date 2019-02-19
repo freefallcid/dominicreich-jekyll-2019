@@ -3,10 +3,10 @@ source                   : .tmp/src
 destination              : .tmp/dist
 
 title                    : "DOMINIC REICH"
-description              : "Personal website and blog of Dominic Reich. May contain photography and tech stuff."
+description              : "Persönliche Webseite von Dominic Reich."
 logo                     : "/assets/images/android-chrome-384x384.png"
 teaser                   : "/assets/images/default-teaser.png"
-locale                   : "en_US"
+locale                   : "de_AT"
 words_per_minute         : 200
 
 repository               : "freefallcid/dominicreich-jekyll"
@@ -17,9 +17,7 @@ social:
   links:
     - "https://twitter.com/freefall0"
     - "https://github.com/freefallcid"
-    - "https://500px.com/drtom"
     - "https://www.youtube.com/channel/UC8OnWO2vi6BWW0L5lBDfT7Q"
-    - "https://plus.google.com/101846141042824192145"
     - "https://drtom0.myds.me/photo/"
     - "https://forum.xda-developers.com/member.php?u=3536148"
 
@@ -47,18 +45,16 @@ microblog_url           : # "https://micro.blog/mmistakes"
 # Site owner
 author:
   name                   : "Dominic Reich"
-  uri                    : &uri "https://dominicreich.com/about/"
+  uri                    : &uri "https://dominicreich.com/ueber-mich/"
   url                    : *uri
-  bio                    : "An electrician that moved to the construction work side of life."
+  bio                    : "Elektriker, Schaler, Hobby-Admin, Möchtegernfotograf und -Bergsteiger."
   picture                : "/assets/images/dominic-reich-selfie.jpg"
   twitter                : "https://twitter.com/freefall0"
-  500px                  : "https://500px.com/drtom"
   photogallery           : "https://drtom0.myds.me/photo/#!Albums"
   #facebook               : "https://www.facebook.com/michaelrose"
   #instagram              : "https://www.instagram.com/drtom0/"
   #tumblr                 : "http://mademistakes.tumblr.com/"
   github                 : "https://github.com/freefallcid"
-  google_plus            : "https://plus.google.com/101846141042824192145"
   xda                    : "https://forum.xda-developers.com/member.php?u=3536148"
 
 twitter:
@@ -140,14 +136,14 @@ collections:
     output    : true
     permalink : /:collection/:path/
     title     : FAQs
-  work:
+  portfolio:
     output    : true
     permalink : /:collection/:path/
-    title     : Works
+    title     : Portfolio
   recipes:
     output    : true
     permalink : /:collection/:path/
-    title     : Recipes
+    title     : Rezepte
   components:
     output    : false
   colors:
@@ -166,7 +162,7 @@ defaults:
       comments: true
       support: true
       breadcrumbs:
-        - label: "Blog articles"
+        - label: "Blog Artikel"
           url: /articles/
   # Recipes
   - scope:
@@ -178,7 +174,7 @@ defaults:
       comments: true
       support: false
       breadcrumbs:
-        - label: "Recipes"
+        - label: "Rezepte"
           url: /recipes/
   # Mastering Paper
   - scope:
@@ -191,7 +187,7 @@ defaults:
       comments: true
       support: true
       breadcrumbs:
-        - label: "Photography"
+        - label: "Fotografie"
           url: /work/photography/
       work: "Visual Artwork"
       seo:
@@ -205,7 +201,7 @@ defaults:
       byline: true
       read_time: true
       breadcrumbs:
-        - label: "Notes"
+        - label: "Notizen"
           url: /notes/
   # PaperFaces
   - scope:
@@ -215,7 +211,7 @@ defaults:
       layout: post
       byline: true
       breadcrumbs:
-        - label: "Timelapse videos"
+        - label: "Zeitraffer-Videos"
           url: /work/timelapse/
       work: "Visual Artwork"
       seo:
@@ -265,10 +261,10 @@ defaults:
       type: work
     values:
       layout: work
-      category: work
+      category: portfolio
       breadcrumbs:
-        - label: "Works"
-          url: /work/
+        - label: "Portfolio"
+          url: /portfolio/
       seo:
         type: "CreativeWork"
   # FAQs
@@ -281,7 +277,7 @@ defaults:
       comments: true
       support: false
       breadcrumbs:
-        - label: "Frequently asked questions"
+        - label: "Häufig gestellte Fragen"
           url: /faqs/
   # Pages
   - scope:

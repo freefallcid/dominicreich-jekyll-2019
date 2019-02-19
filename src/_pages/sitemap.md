@@ -47,7 +47,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
 ## [Portfolio work](/work/)
 
 {% comment %}
-### [Photography]({% link _work/photography.md %})
+### [Photography]({% link _portfolio/photography.md %})
 
 <ul>
   {% for post in site.categories.photography %}
@@ -55,7 +55,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   {% endfor %}
 </ul>
 
-### [Timelapse videos]({% link _work/timelapse.md %})
+### [Timelapse videos]({% link _portfolio/timelapse.md %})
 
 <ul>
   {% for post in site.categories.timelapse %}
@@ -63,7 +63,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   {% endfor %}
 </ul>
 
-### [Software]({% link _work/software.md %})
+### [Software]({% link _portfolio/software.md %})
 
 <ul>
   {% for post in site.categories.software %}
@@ -73,7 +73,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
 {% endcomment %}
 
 <ul>
-  {% assign posts = site.work | sort: "order" | reverse %}
+  {% assign posts = site.portfolio | sort: "order" | reverse %}
   {% for post in posts %}
     {% include post-list.html %}
   {% endfor %}

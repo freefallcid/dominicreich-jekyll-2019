@@ -5,16 +5,16 @@ section:
   - title: "Mostly insane"
     class: "section__inverse section__about"
     # image: /assets/images/dominic-reich-woods-glitched.jpg
-    image: /assets/images/dominic-reich-woods-home-glitched.jpg
+    # image: /assets/images/dominic-reich-woods-home-glitched.jpg
     # image: /assets/images/dominic-reich-woods.jpg
     introduction: |
       Hello---my name is Dominic Reich and I live in the Ötztal valley. I wrote a few tools for Windows and publish photos and timelapse videos every now and then.<br><br><span style="color:red;">This website will be updated soon---this is a live beta-preview currently!</span>
     actions:
-      - label: "Read more about me →"
+      - label: "Erfahre mehr über mich →"
         url: "/about/"
-  - title: "Blog articles"
+  - title: "Blog-Artikel"
     class: "section__inverse section__articles"
-    image: /assets/images/hdr-oetzerberg-view-feature.jpg
+    # image: /assets/images/hdr-oetzerberg-view-feature.jpg
     introduction: |
       You are welcome to dive into my psychotic world of life. Shorter informational notes can be found right within my [notes sheet](/notes/).
     actions:
@@ -22,7 +22,7 @@ section:
         url: "/articles/"
   - title: "Works"
     class: "section__inverse section__work"
-    image: /assets/images/snowy-grass-feature.jpg
+    # image: /assets/images/snowy-grass-feature.jpg
     introduction: |
       Stuff that I worked on. Find photographs, timelapse videos and software applications (some with source code) in here.
     actions:
