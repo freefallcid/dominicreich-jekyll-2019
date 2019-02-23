@@ -2,7 +2,7 @@ require 'html-proofer'
 
 task :test do
   options = {
-    :internal_domains => ['mademistakes.com'],
+    :internal_domains => ['dominicreich.com'],
     :cache => {
       :timeframe => '30d'
     },
