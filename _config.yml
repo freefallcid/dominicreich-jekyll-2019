@@ -161,7 +161,7 @@ defaults:
       type: posts
     values:
       layout: post
-      byline: true
+      byline: false
       read_time: true
       comments: true
       support: true
@@ -196,7 +196,7 @@ defaults:
       type: posts
     values:
       layout: post
-      byline: true
+      byline: false
       read_time: true
       comments: true
       support: true
@@ -217,7 +217,7 @@ defaults:
       type: posts
     values:
       layout: post
-      byline: true
+      byline: false
       read_time: true
       breadcrumbs:
         - label: "Notizen"
@@ -233,7 +233,7 @@ defaults:
       type: posts
     values:
       layout: post
-      byline: true
+      byline: false
       breadcrumbs:
         - label: "Zeitraffer-Videos"
           url: /work/timelapse/
@@ -252,7 +252,7 @@ defaults:
     values:
       layout: post
       permalink: /work/:categories/:title/
-      byline: true
+      byline: false
       breadcrumbs:
         - label: "Works"
           url: /work/
