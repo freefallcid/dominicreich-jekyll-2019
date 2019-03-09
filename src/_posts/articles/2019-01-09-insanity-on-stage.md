@@ -7,6 +7,8 @@ image:
   width: 2200
   height: 473
   caption: "Photo taken on New Year's Eve 2016 in Hochoetz"
+twitter:
+  card: summary_large_image
 categories: [articles]
 tags: []
 support: false

@@ -7,6 +7,8 @@ image:
   width: 2288
   height: 744
   teaser: /assets/images/howto-news-server-teaser.jpg
+twitter:
+  card: summary_large_image
 categories: [articles]
 tags: [netnews,freebsd]
 last_modified_at: 2019-01-21T08:56:52+01:00
