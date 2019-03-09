@@ -1,19 +1,18 @@
 # Site wide configuration
-source                   : .tmp/src
-destination              : .tmp/dist
+source: .tmp/src
+destination: .tmp/dist
 
-title                    : "DOMINIC REICH"
-description              : "Persönliche Webseite von Dominic Reich."
-logo                     : "/assets/images/android-chrome-384x384.png"
-teaser                   : "/assets/images/default-teaser.png"
-locale                   : "de_AT"
-words_per_minute         : 200
+title: "DOMINIC REICH"
+description: "Persönliche Webseite von Dominic Reich."
+logo: &logo "/assets/images/android-chrome-384x384.png"
+locale: "de_AT"
+words_per_minute: 200
 
-repository               : "freefallcid/dominicreich-jekyll"
-url                      : "https://dominicreich.com"
+repository: "freefallcid/dominicreich-jekyll"
+url: "https://dominicreich.com"
 
 social:
-  name                   : "Dominic Reich"
+  name: "Dominic Reich"
   links:
     - "https://twitter.com/freefall0"
     - "https://github.com/freefallcid"
@@ -22,51 +21,51 @@ social:
     - "https://forum.xda-developers.com/member.php?u=3536148"
     - "https://www.reddit.com/user/cid85"
 
-google_site_verification : "30eecSm8sH2itoI-l-N20wVDSk0Uw4Kg_NNuUC_mVBU"
-bing_site_verification   : "4BEB54F647AEE7CE18D0A77137236FCB"
-alexa_site_verification  : ""
-yandex_site_verification : "d661d507bace53f0"
+google_site_verification: "30eecSm8sH2itoI-l-N20wVDSk0Uw4Kg_NNuUC_mVBU"
+bing_site_verification: "4BEB54F647AEE7CE18D0A77137236FCB"
+alexa_site_verification: ""
+yandex_site_verification: "d661d507bace53f0"
 
-google_ad-client         : ""
-google_ad-slot           : ""
-#google_analytics         : "UA-90785047-4"
-google_analytics         : ""
-google_tagmanager        : "GTM-THWKCZV"
+google_ad-client: ""
+google_ad-slot: ""
+#google_analytics: "UA-90785047-4"
+google_analytics: ""
+google_tagmanager: "GTM-THWKCZV"
 
 feed:
-  path                  : "https://dominicreich.com/atom.xml"
+  path: "https://dominicreich.com/atom.xml"
 
-favicon_version         : "9BPnoQEY43"
+favicon_version: "9BPnoQEY43"
 
-pingback_url            : "https://webmention.io/dominicreich.com/xmlrpc"
-webmention_url          : "https://webmention.io/dominicreich.com/webmention"
-#micropub_url            : "https://mm-micropub-to-github.herokuapp.com/micropub/main"
-#token_endpoint_url      : "https://tokens.indieauth.com/token"
-#authorization_endpoint_url : "https://indieauth.com/auth"
-#microblog_url           : "https://micro.blog/mmistakes"
+pingback_url: "https://webmention.io/dominicreich.com/xmlrpc"
+webmention_url: "https://webmention.io/dominicreich.com/webmention"
+#micropub_url: "https://mm-micropub-to-github.herokuapp.com/micropub/main"
+#token_endpoint_url: "https://tokens.indieauth.com/token"
+#authorization_endpoint_url: "https://indieauth.com/auth"
+#microblog_url: "https://micro.blog/mmistakes"
 
 # Site owner
 author:
-  name                   : "Dominic Reich"
-  uri                    : &uri "https://dominicreich.com/ueber-mich/"
-  url                    : *uri
-  bio                    : "Elektriker, Schaler, Hobby-Admin, Möchtegernfotograf und -Bergsteiger."
-  picture                : "/assets/images/dominic-reich-selfie.jpg"
-  twitter                : "https://twitter.com/freefall0"
-  photogallery           : "https://drtom0.myds.me/photo/#!Albums"
-  #facebook               : "https://www.facebook.com/michaelrose"
-  #instagram              : "https://www.instagram.com/drtom0/"
-  #tumblr                 : "http://mademistakes.tumblr.com/"
-  github                 : "https://github.com/freefallcid"
-  xda                    : "https://forum.xda-developers.com/member.php?u=3536148"
+  name: "Dominic Reich"
+  uri: &uri "https://dominicreich.com/ueber-mich/"
+  url: *uri
+  bio: "Elektriker, Schaler, Hobby-Admin, Möchtegernfotograf und -Bergsteiger."
+  picture: "/assets/images/dominic-reich-selfie.jpg"
+  twitter: "https://twitter.com/freefall0"
+  photogallery: "https://drtom0.myds.me/photo/#!Albums"
+  #facebook: "https://www.facebook.com/michaelrose"
+  #instagram: "https://www.instagram.com/drtom0/"
+  #tumblr: "http://mademistakes.tumblr.com/"
+  github: "https://github.com/freefallcid"
+  xda: "https://forum.xda-developers.com/member.php?u=3536148"
 
 twitter:
-  username               : "freefall0"
+  username: "freefall0"
 
 # Staticman comments (full configuration in staticman.yml)
 staticman:
-  branch                 : "master"
-  encrypted              : "XesI12jsaXJk4pIh5f3OYyhmUEUTQfH3BvAbBmAa24WAtZzEquFX4yqyH253xtociy6DirStIcWiZs/2iwSLdoVfqjLWvWZOPwSWFWKfZltfNJbPThmojl1NaBdWUdQR4EeUylyR81DDn8OlnwLy7r7G9CYcbmpxsNaBMNiuP4M="
+  branch: "master"
+  encrypted: "XesI12jsaXJk4pIh5f3OYyhmUEUTQfH3BvAbBmAa24WAtZzEquFX4yqyH253xtociy6DirStIcWiZs/2iwSLdoVfqjLWvWZOPwSWFWKfZltfNJbPThmojl1NaBdWUdQR4EeUylyR81DDn8OlnwLy7r7G9CYcbmpxsNaBMNiuP4M="
 
 # reCAPTCHA keys
 reCaptcha:
@@ -74,21 +73,21 @@ reCaptcha:
   secret: "6Le-fz4UAAAAAK7FOeDfnbA2HEc5BYXU2JfIzAGJ"
 
 # Jekyll configuration
-permalink                : /:categories/:title/
-lsi                      : true
-future                   : false
-show_drafts              : false
-markdown                 : kramdown
+permalink: /:categories/:title/
+lsi: true
+future: false
+show_drafts: false
+markdown: kramdown
 kramdown:
-  toc_levels             : 1..3
-  input                  : GFM
-  hard_wrap              : false
-  auto_ids               : true
-  entity_output          : as_char
-  smart_quotes           : lsquo,rsquo,ldquo,rdquo
-  enable_coderay         : false
-highlighter              : rouge
-strict_front_matter      : true
+  toc_levels: 1..3
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  entity_output: as_char
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+highlighter: rouge
+strict_front_matter: true
 keep_files:
   - .git
 include:
@@ -138,21 +137,21 @@ plugins:
 # Collections
 collections:
   faqs:
-    output    : true
-    permalink : /:collection/:path/
-    title     : FAQs
+    output: true
+    permalink: /:collection/:path/
+    title: FAQs
   portfolio:
-    output    : true
-    permalink : /:collection/:path/
-    title     : Portfolio
+    output: true
+    permalink: /:collection/:path/
+    title: Portfolio
   recipes:
-    output    : true
-    permalink : /:collection/:path/
-    title     : Rezepte
+    output: true
+    permalink: /:collection/:path/
+    title: Rezepte
   components:
-    output    : false
+    output: false
   colors:
-    output    : false
+    output: false
 
 # Front Matter Defaults
 defaults:
@@ -169,6 +168,11 @@ defaults:
       breadcrumbs:
         - label: "Blog Artikel"
           url: /articles/
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
   # Recipes
   - scope:
       path: _recipes
@@ -181,6 +185,11 @@ defaults:
       breadcrumbs:
         - label: "Rezepte"
           url: /recipes/
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
   # Mastering Paper
   - scope:
       path: _posts/photography
@@ -197,6 +206,11 @@ defaults:
       work: "Visual Artwork"
       seo:
         type: "CreativeWork"
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
   # Notes
   - scope:
       path: _posts/notes
@@ -208,6 +222,11 @@ defaults:
       breadcrumbs:
         - label: "Notizen"
           url: /notes/
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
   # PaperFaces
   - scope:
       path: _posts/timelapse
@@ -221,6 +240,11 @@ defaults:
       work: "Visual Artwork"
       seo:
         type: "CreativeWork"
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
   # Procreate Paintings
   - scope:
       path: _posts/software
@@ -237,6 +261,11 @@ defaults:
       work: "Software development"
       seo:
         type: "CreativeWork"
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
 #  # Tiny Paintings
 #  - scope:
 #      path: _posts/tiny-paintings
@@ -272,7 +301,6 @@ defaults:
           url: /portfolio/
       seo:
         type: "CreativeWork"
-  # FAQs
   - scope:
       path: _faqs
       type: faqs
@@ -284,12 +312,22 @@ defaults:
       breadcrumbs:
         - label: "Häufig gestellte Fragen"
           url: /faqs/
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
   # Pages
   - scope:
       path: _pages
       type: pages
     values:
       layout: page
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
   # Drafts (because we have to define everything in there otherwise)
   - scope:
       path: _drafts
