@@ -97,6 +97,7 @@ exclude:
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
+  - .jekyll-cache
   - .sass-cache
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -104,6 +105,7 @@ exclude:
   - config
   - Gemfile
   - Gemfile.lock
+  - gemfiles/
   - Gruntfile.js
   - gulpfile.js
   - log

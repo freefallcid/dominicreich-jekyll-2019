@@ -8,6 +8,7 @@ section:
     # image: /assets/images/dominic-reich-woods-home-glitched.jpg
     # image: /assets/images/dominic-reich-woods.jpg
     introduction: |
+      Hallo! Mein Name ist Dominic Reich und ich leben im Ötztal.
       Hello---my name is Dominic Reich and I live in the Ötztal valley. I wrote a few tools for Windows and publish photos and timelapse videos every now and then.<br><br><span style="color:red;">This website will be updated soon---this is a live beta-preview currently!</span>
     actions:
       - label: "Erfahre mehr über mich →"
