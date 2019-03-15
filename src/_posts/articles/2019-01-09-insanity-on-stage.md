@@ -1,6 +1,6 @@
 ---
 title: "Insanity On Stage"
-excerpt: "Back in time a lot of things were different. And better in some way---nonetheless I'll start my website again. I will add more content when time allows it :sleepy:"
+excerpt: "Und alles war irgendwie anders. Vielleicht auch besser."
 image:
   path: &image /assets/images/insanity-on-stage-feature.jpg
   feature: *image
@@ -13,6 +13,33 @@ categories: [articles]
 tags: []
 support: false
 last_modified_at: 2019-01-21T08:56:29+01:00
+---
+
+Willkommen! Hier wird primär über Fotografie bzw. diverses Technik-Zeugs
+geschrieben.
+
+Es gibt derzeit noch nicht viel Inhalt, aber ich möchte hier mehr und vor allem
+öfter veröffentlichen. Mehr wird wohl hauptsächlich in der Rubrik
+[Notizen]({% link notes.md %}) geschrieben werden -- es handelt sich hier um
+relativ kurze Beiträge.
+<!--more-->
+
+Meine Fotos findest du in meiner [Fotogalerie](https://drtom0.myds.me/photo/#!Albums/).
+Es sind bereits über 6000 Fotos online -- das sind etwas mehr als 19GB an
+Bildmaterial. Ich habe im Zuge der Installation viele verschiedene Gallerien
+angesehen und getestet. Darunter waren [Piwigo](http://piwigo.org),
+[Zenphoto](http://www.zenphoto.org) und [Coppermine](http://coppermine-gallery.net).
+[Gallery 3](http://galleryproject.org) war leider nicht im Rennen, da Menalto
+(das Entwicklerteam) das Projekt 2014 [eingestellt hatte](http://galleryproject.org/time-to-hibernate).
+
+Interessantere Fotos findest du bei [Flickr] ~~oder [500px]~~. Einige andere
+Bilder werden auf meinem [Instagram] account erscheinen. Zeitraffer-Videos werde
+ich auf meiner [Fotogalerie]() und auf [YouTube](http://y2u.be/9cV0uG1YdZI)
+veröffentlichen.
+
+PS: <var>Insanity On Stage</var> war der Name meines alten (ersten) Blogs --
+das war wohl so um 2016.
+
 ---
 
 Hi! It took quite a while to finish the start of the relaunch of the website :wink:
