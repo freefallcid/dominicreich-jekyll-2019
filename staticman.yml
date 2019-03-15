@@ -17,7 +17,7 @@ comments:
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["dominicreich.com"]
+  allowedOrigins: ["dominicreich.com", "www.dominicreich.com"]
 
   # (*) REQUIRED
   #
@@ -25,7 +25,7 @@ comments:
   # request.
   branch: "master"
 
-  commitMessage: "New comment by {fields.name}"
+  commitMessage: "Neuer Kommentar von {fields.name}"
 
   # (*) REQUIRED
   #
@@ -97,5 +97,5 @@ comments:
   # reCaptcha
   reCaptcha:
     enabled: true
-    siteKey: "6Le-fz4UAAAAAO0Cp2XT0eTlwIqlNUBn1mPg9DXU"
-    secret: "XesI12jsaXJk4pIh5f3OYyhmUEUTQfH3BvAbBmAa24WAtZzEquFX4yqyH253xtociy6DirStIcWiZs/2iwSLdoVfqjLWvWZOPwSWFWKfZltfNJbPThmojl1NaBdWUdQR4EeUylyR81DDn8OlnwLy7r7G9CYcbmpxsNaBMNiuP4M="
+    siteKey: "6LfJvJcUAAAAAMDDZo-ZPz5wzzQizbZxYUb-jl77"
+    secret: "RdgZ+HOKHkh9HAq4DF5NOf9aYG4Y36OFnoPlPyuHIN7O3kxgIfi/ssr98EFShn+jBEOQDfZW1zK+htBfYlJ5eZconJO6p7ZtLNFBaKTvC2myA2heN7yFFUrLTmBLj/eF85fKeLGQkcs7K2i0y3IdcCwqniC2a6EHTz8yrvOubes="
