@@ -219,6 +219,8 @@ defaults:
       layout: post
       byline: false
       read_time: true
+      comments: true
+      support: true
       breadcrumbs:
         - label: "Notizen"
           url: /notizen/
