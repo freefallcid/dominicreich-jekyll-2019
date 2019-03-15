@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Photography"
+title: "Fotografie"
 excerpt: "The most mentionable photographs."
 image: 
   path: &image /assets/images/soelden-night-feature.jpg

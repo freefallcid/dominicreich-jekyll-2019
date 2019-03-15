@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /recipes/
-title: "Recipes"
+permalink: /rezepte/
+title: "Rezepte"
 excerpt: "A collection of recipes that I find awesome"
 last_modified_at: 
 ---

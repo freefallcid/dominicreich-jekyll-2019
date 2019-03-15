@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /tag/
-title: "Tag index"
+title: "Tag-Archiv"
 date: 2016-08-26
 last_modified_at: 2019-02-20T14:30:19-05:00
 excerpt: "An archive of posts organized by topic."

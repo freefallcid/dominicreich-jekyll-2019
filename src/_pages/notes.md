@@ -1,8 +1,8 @@
 ---
 layout: archive
-permalink: /notes/
+permalink: /notizen/
 category: notes
-title: &title "Notes"
+title: &title "Notizen"
 alt_title: *title
 modified:
 excerpt: &excerpt "Small, bite sized content I've written. For longer, more thorough writing --- peruse the [articles section](/articles)."

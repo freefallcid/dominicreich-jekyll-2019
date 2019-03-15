@@ -1,6 +1,6 @@
 ---
-permalink: /contact/
-title: "Contact"
+permalink: /kontakt/
+title: "Kontakt"
 image:
   path: &image "/assets/images/letters-2794672_1920.jpg"
   feature: *image

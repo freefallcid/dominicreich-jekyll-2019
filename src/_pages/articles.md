@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /articles/
-title: &title "Articles"
+permalink: /artikel/
+title: &title "Artikel"
 alt_title: *title
 excerpt: &excerpt "A collection of thoughts, inspiration, mistakes, and other long-form minutia I've written. For smaller, more regular tidbits --- peruse the [notes section](/notes/)."
 introduction: *excerpt

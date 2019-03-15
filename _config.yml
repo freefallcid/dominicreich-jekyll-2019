@@ -138,7 +138,7 @@ plugins:
 # Collections
 collections:
   faqs:
-    output: true
+    output: false
     permalink: /:collection/:path/
     title: FAQs
   portfolio:
@@ -168,7 +168,7 @@ defaults:
       support: true
       breadcrumbs:
         - label: "Blog Artikel"
-          url: /articles/
+          url: /artikel/
       image:
         facebook: *logo
         twitter: *logo
@@ -185,7 +185,7 @@ defaults:
       support: false
       breadcrumbs:
         - label: "Rezepte"
-          url: /recipes/
+          url: /rezepte/
       image:
         facebook: *logo
         twitter: *logo
@@ -193,7 +193,7 @@ defaults:
         card: summary
   # Mastering Paper
   - scope:
-      path: _posts/photography
+      path: _posts/fotografie
       type: posts
     values:
       layout: post
@@ -203,7 +203,7 @@ defaults:
       support: true
       breadcrumbs:
         - label: "Fotografie"
-          url: /work/photography/
+          url: /portfolio/fotografie/
       work: "Visual Artwork"
       seo:
         type: "CreativeWork"
@@ -222,7 +222,7 @@ defaults:
       read_time: true
       breadcrumbs:
         - label: "Notizen"
-          url: /notes/
+          url: /notizen/
       image:
         facebook: *logo
         twitter: *logo
@@ -230,14 +230,14 @@ defaults:
         card: summary
   # PaperFaces
   - scope:
-      path: _posts/timelapse
+      path: _posts/zeitraffer
       type: posts
     values:
       layout: post
       byline: false
       breadcrumbs:
         - label: "Zeitraffer-Videos"
-          url: /work/timelapse/
+          url: /portfolio/zeitraffer/
       work: "Visual Artwork"
       seo:
         type: "CreativeWork"
@@ -252,14 +252,14 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /work/:categories/:title/
+      permalink: /portfolio/:categories/:title/
       byline: false
       breadcrumbs:
-        - label: "Works"
-          url: /work/
+        - label: "Portfolio"
+          url: /portfolio/
         - label: "Software"
-          url: /work/software/
-      work: "Software development"
+          url: /portfolio/software/
+      work: "Software"
       seo:
         type: "CreativeWork"
       image:
@@ -281,16 +281,16 @@ defaults:
 #      seo:
 #        type: "CreativeWork"
   # Work (posts and collection)
-  - scope:
-      path: _posts/work
-      type: posts
-    values:
-      layout: post
-      breadcrumbs:
-        - label: "Works"
-          url: /work/
-      seo:
-        type: "CreativeWork"
+  # - scope:
+  #     path: _posts/work
+  #     type: posts
+  #   values:
+  #     layout: post
+  #     breadcrumbs:
+  #       - label: "Works"
+  #         url: /work/
+  #     seo:
+  #       type: "CreativeWork"
   - scope:
       path: _work
       type: work

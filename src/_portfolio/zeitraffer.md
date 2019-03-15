@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Timelapse videos"
+title: "Zeitraffer-Videos"
 excerpt: "Some sweet timelapse videos made out of a shitload of images."
 image: 
   path: &image /assets/images/oetz-abend.jpg
