@@ -35,7 +35,7 @@ google_tagmanager: "GTM-THWKCZV"
 feed:
   path: "https://dominicreich.com/atom.xml"
 
-favicon_version: "9BPnoQEY43"
+favicon_version: "9BPnoQEY44"
 
 pingback_url: "https://webmention.io/dominicreich.com/xmlrpc"
 webmention_url: "https://webmention.io/dominicreich.com/webmention"
@@ -58,6 +58,7 @@ author:
   #tumblr: "http://mademistakes.tumblr.com/"
   github: "https://github.com/freefallcid"
   xda: "https://forum.xda-developers.com/member.php?u=3536148"
+  reddit: "https://www.reddit.com/user/cid85"
 
 twitter:
   username: "freefall0"
@@ -69,8 +70,8 @@ staticman:
 
 # reCAPTCHA keys
 reCaptcha:
-  siteKey: "6Le-fz4UAAAAAO0Cp2XT0eTlwIqlNUBn1mPg9DXU"
-  secret: "6Le-fz4UAAAAAK7FOeDfnbA2HEc5BYXU2JfIzAGJ"
+  siteKey: "6LfJvJcUAAAAAMDDZo-ZPz5wzzQizbZxYUb-jl77"
+  secret: "RdgZ+HOKHkh9HAq4DF5NOf9aYG4Y36OFnoPlPyuHIN7O3kxgIfi/ssr98EFShn+jBEOQDfZW1zK+htBfYlJ5eZconJO6p7ZtLNFBaKTvC2myA2heN7yFFUrLTmBLj/eF85fKeLGQkcs7K2i0y3IdcCwqniC2a6EHTz8yrvOubes="
 
 # Jekyll configuration
 permalink: /:categories/:title/
