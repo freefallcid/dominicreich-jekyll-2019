@@ -1,6 +1,7 @@
 # Site wide configuration
 
 url: ""
+host: 0.0.0.0
 
 profile: true
 future: true
@@ -14,6 +15,7 @@ yandex_site_verification: ""
 google_ad-client: ""
 google_ad-slot: ""
 google_analytics: ""
+google_tagmanager: ""
 
 reCaptcha:
   siteKey: ""
