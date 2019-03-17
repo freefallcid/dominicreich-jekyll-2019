@@ -2,10 +2,13 @@
 layout: archive
 permalink: /notizen/
 category: notes
-title: &title "Notizen"
+title: &title Notizen
 alt_title: *title
 modified:
-excerpt: &excerpt "Small, bite sized content I've written. For longer, more thorough writing --- peruse the [articles section](/articles)."
+excerpt: &excerpt >
+  Kurze Beiträge die eigentlich dafür gedacht sind, mich an bestimmte
+  Vorgehensweisen zu erinnern. Längere Artikel findest du bei den
+  [Blog-Artikeln](/artikel/).
 introduction: *excerpt
 pagination: 
   enabled: true

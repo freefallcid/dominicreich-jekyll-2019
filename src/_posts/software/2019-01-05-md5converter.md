@@ -1,37 +1,46 @@
 ---
-title: "MD5 Converter"
-excerpt: ""
+title: MD5-Converter
+excerpt: 
 # image:
 #   path: &image "/assets/images/.jpg"
 #   feature *image
 #   width: 1600
 #   height: 640
+repo: md5Convert
 categories: [software]
 tags: [visual basic]
 toc: true
-last_modified_at: 2019-01-08T14:13:52+01:00
+last_modified_at: 2019-03-17T12:21:29+01:00
 ---
 
-MD5 Converter converts a user-given string in realtime into a md5 hash.
+Mit diesem Tool lässt sich ein im Textfeld eingegebener Text in Echtzeit in einen
+MD5-Hash umwandeln.
 
-{% figure caption:"The hash gets generated while you type the string in the textfield." %}
-  ![Example screenshot](/assets/images/md5convert.jpg)
+{% figure caption:"Der Hash wird generiert während du den Text eingibst." %}
+  ![Beispiel-Bildschirmfoto](/assets/images/md5convert.jpg)
 {% endfigure %}
 
-## Usage
+## Verwendung
 
-The tool is quite outdated now. But it comes quite handy sometimes to generate random strings with a specific lenght.
+Nach dem Start einfach den Text eingeben. Der Hash wird generiert während du
+tippst.
 
-## Files and Codes
+## Installation und Quellcode
 
-Feel free to fork and adopt the code to your personal needs. While 'Setup' will install the tool with an installer, the source code on github lets you compile your own version and use that instead. Report any issues on the github issues page if you like.
+Du kannst den Code gerne [forken](https://help.github.com/en/articles/fork-a-repo)
+und an deine eigenen Bedürfnisse anpassen.
 
 <p markdown="0">
-  <a href="https://tools.dore.pw/MD5-Convert/setup.exe" class="btn">Setup</a>
-  <a href="https://github.com/freefallcid/md5Convert" class="btn">Source code</a>
-  <a href="https://github.com/freefallcid/md5Convert/issues" class="btn">Issues</a>
+  <a href="https://tools.dore.pw/MD5-Convert/setup.exe" class="btn"
+  title="Führe das Setup-Programm aus und installiere das Tool in Windows">Installieren</a>
+  <a href="{{ site.author.github }}/{{ page.repo }}"
+  class="btn" title="Öffne das Repository auf Github">Quellcode</a>
+  <a href="{{ site.author.github }}/{{ page.repo }}/issues"
+  class="btn">Github Issues</a>
 </p>
 
-## License
+## Lizenz
 
-As most of the stuff hosted on Github this tool is free and open source software, distributed under the [MIT License](https://github.com/freefallcid/leitungslaengenberechnung/blob/master/LICENSE).
+Das Tool wird unter der
+[MIT License](https://github.com/{{ page.github_username }}/{{ page.repo }}/blob/master/LICENSE)
+vertrieben.

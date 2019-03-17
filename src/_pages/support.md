@@ -1,12 +1,12 @@
 ---
 permalink: /support/
-title: "Show your support"
+title: Show your support
 image: 
   path: &image /assets/images/sam-truong-dan-627874-unsplash.jpg
   width: 1720
   height: 593
   feature: *image
-  caption: "[Photo by **Sam Truong Dan** on Unsplash](https://unsplash.com/photos/-rF4kuvgHhU)"
+  caption: [Foto von **Sam Truong Dan** via Unsplash](https://unsplash.com/photos/-rF4kuvgHhU)
 date: 2016-08-26
 last_modified_at: 2019-02-16 18:23:00
 #excerpt: "If you like the free content I provide on Made Mistakes, here's how to show your thanks and motivate me to create more of it."

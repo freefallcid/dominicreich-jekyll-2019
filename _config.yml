@@ -161,7 +161,7 @@ defaults:
       type: posts
     values:
       layout: post
-      byline: false
+      byline: true
       read_time: true
       comments: true
       support: true
@@ -218,9 +218,9 @@ defaults:
     values:
       layout: post
       byline: false
-      read_time: true
+      read_time: false
       comments: true
-      support: true
+      support: false
       breadcrumbs:
         - label: "Notizen"
           url: /notizen/

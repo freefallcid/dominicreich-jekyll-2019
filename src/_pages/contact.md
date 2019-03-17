@@ -1,15 +1,15 @@
 ---
 permalink: /kontakt/
-title: "Kontakt"
+title: Kontakt
 image:
-  path: &image "/assets/images/letters-2794672_1920.jpg"
+  path: &image /assets/images/letters-2794672_1920.jpg
   feature: *image
   width: 1600
   height: 640
-  caption: "[Photo by **geralt** on Pixabay](https://pixabay.com/photo-2794672/)"
+  caption: [Foto von **geralt** via Pixabay](https://pixabay.com/photo-2794672/)
 date: 2016-08-26
 last_modified_at: 2019-02-16 18:11:56
-excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
+excerpt: Preferred methods of sending your questions, inquires, messages, and love letters to me.
 ---
 
 Have questions about me, this website, or the things that I publish here?

@@ -1,41 +1,62 @@
 ---
-title: "WiW trial handout text generator"
-excerpt: ""
+title: WiW trial handout text generator
+excerpt: 
 # image:
 #   path: &image "/assets/images/.jpg"
 #   feature *image
 #   width: 1600
 #   height: 640
+repo: wiw-trial-handout
 categories: [software]
 tags: [visual basic, wiw]
 toc: true
 last_modified_at: 
 ---
 
-Back when I was playing [Battlefield 2 in a clan]({% link _pages/wiw.md %}) we were recruiting new members. Within this recruitment progress we had to announce if someone was accepted as a "beginner member" or not. It was a so-called recruit and we watched him playing over a short time period, mostly two weeks. If we knew people from our servers before it could turn out into a cut-off.
+Als wir noch [im Clan Battlefield 2 spielten]({% link _pages/wiw.md %}) rekrutierten
+wir neue Mitglieder. Als wir die Aufnahme ins Trial-Programm[^trial] angekündigt
+haben schrieben wir ständig ähnlich klingende Beiträge. Eigentlich kopierten wir
+nur die alten Beiträge von bereits aufgenommenen Mitgliedern und änderten die
+Namen bzw. Zeiten.
 
-We usually copied the text of another accepted member and replaced names and times to have those posts look nearly the same every time. To get something linear if you want. Now this tool sets the text up for you.
+[^trial]: Im Trial-Programm musste der Rekrut im Forum und am Gameserver aktiv sein. Wir haben uns sein Verhalten im Forum und seine Spielweise am Server angesehen und nach angemessener Zeit ein Urteil über seine Aufnahme in den Clan gefällt.
 
-{% figure caption:"" %}
-  ![Example screenshot of window 1](/assets/images/wiw-trial-handout.jpg)
-  ![Example screenshot of window 2](/assets/images/wiw-trial-handout-2.jpg)
+Dieses Tool generiert nun ständig denselben Text und füllt Namen und Zeiten für
+den Benutzer aus.
+
+{% figure caption:"Ein Beispiel: Tippe den Namen ein und markiere die Zeitspanne." %}
+  ![Einstellungen Beispiel-Bildschirmfoto](/assets/images/wiw-trial-handout.jpg)
 {% endfigure %}
-{:.gallery-2-col}
 
-## Usage
+{% figure caption:"Die Ausgabe des Textes erfolgt umgehend. Kopiere ihn ins Forum." %}
+  ![Ausgabe Beispiel-Bildschirmfoto](/assets/images/wiw-trial-handout-2.jpg)
+{% endfigure %}
 
-All you have to do is filling out the recruits name, if he or she gets a cut-off and the final period on the calendar. Hit <kbd>Generate Text</kbd> and the final text pops up on a second window within a second. On the left side some helpful terms regarding the selected period are displayed.
+## Verwendung
 
-## Files and Codes
+Fülle den Namen des neuen Mitglieds aus, wähle, ob der Rekrut ein "Cut-Off"[^cutoff]
+bekommen soll und markiere die Zeitspanne am Kalender mit der Maus. Klicke auf
+<kbd>Generate Text</kbd> und im Handumdrehen kannst du den ausgegebenen Text
+kopieren.
 
-Feel free to fork and adopt the code to your personal needs. While 'Setup' will install the tool with an installer, the source code on github lets you compile your own version and use that instead. Report any issues on the github issues page if you like.
+[^cutoff]: Ein Cut-Off ist die Möglichkeit, die Trial-Zeitspanne zu verkürzen. In der Regel wird dies nur Rekruten gewährt, die vorher schon am Gameserver bekannt sind und regelmäßig spielen.
+
+## Installation und Quellcode
+
+Du kannst den Code gerne [forken](https://help.github.com/en/articles/fork-a-repo)
+und an deine eigenen Bedürfnisse anpassen.
 
 <p markdown="0">
-  <a href="https://tools.dore.pw/WiW-Trial-Handout-Generator/setup.exe" class="btn">Setup</a>
-  <a href="https://github.com/freefallcid/wiw-trial-handout" class="btn">Source code</a>
-  <a href="https://github.com/freefallcid/wiw-trial-handout/issues" class="btn">Issues</a>
+  <a href="https://tools.dore.pw/WiW-Trial-Handout-Generator/setup.exe" class="btn"
+  title="Führe das Setup-Programm aus und installiere das Tool in Windows">Installieren</a>
+  <a href="{{ site.author.github }}/{{ page.repo }}"
+  class="btn" title="Öffne das Repository auf Github">Quellcode</a>
+  <a href="{{ site.author.github }}/{{ page.repo }}/issues"
+  class="btn">Github Issues</a>
 </p>
 
-## License
+## Lizenz
 
-As most of the stuff hosted on Github this tool is free and open source software, distributed under the [MIT License](https://github.com/freefallcid/wiw-trial-handout/blob/master/LICENSE).
+Das Tool wird unter der
+[MIT License](https://github.com/{{ page.github_username }}/{{ page.repo }}/blob/master/LICENSE)
+vertrieben.

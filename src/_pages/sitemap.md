@@ -1,26 +1,27 @@
 ---
 layout: page
 permalink: /sitemap/
-title: "Sitemap"
-excerpt: "An index of all the pages found on dominicreich.com"
+title: Sitemap
+excerpt: Eine Auflistung aller verfügbaren Seiten auf dominicreich.com
 date: 2016-08-26
-last_modified_at: 2019-02-16 18:48:29
+last_modified_at: 2019-03-17T22:15:31+01:00
 toc: true
 ---
 
-A hierarchical breakdown of all the sections and pages found on the site. For you robots out there, here is an [XML version](/sitemap.xml) available for your crawling pleasure.
+Eine Auflistung aller Artikel und Seiten auf dieser Webseite. Für robots gibt es
+eine [XML-Version](/sitemap.xml).
 
-## Pages
+## Seiten
 
-- [About](/about/)
-- [Contact](/contact/)
+- [Über mich](/ueber-mich/)
+- [Kontakt](/kontakt/)
 - [Frequently asked questions](/faqs/)
 - [Show your support](/support/)
 - [Terms and policies](/terms/)
 - [Wake Island Warriors](/wiw/)
-- [Tag index](/tag/)
+- [Tag-Index](/tag/)
 
-## [Articles](/articles/)
+## [Blog-Artikel](/artikel/)
 
 <ul>
   {% for post in site.categories.articles %}
@@ -28,7 +29,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   {% endfor %}
 </ul>
 
-## [Recipes](/recipes/)
+## [Rezepte](/rezepte/)
 
 <ul>
   {% for post in site.recipes %}
@@ -36,7 +37,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   {% endfor %}
 </ul>
 
-## [Notes](/notes/)
+## [Notizen](/notizen/)
 
 <ul>
   {% for post in site.categories.notes %}
@@ -44,10 +45,10 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   {% endfor %}
 </ul>
 
-## [Portfolio work](/work/)
+## [Portfolio](/portfolio/)
 
 {% comment %}
-### [Photography]({% link _portfolio/photography.md %})
+### [Footografie]({% link _portfolio/photography.md %})
 
 <ul>
   {% for post in site.categories.photography %}
@@ -55,7 +56,7 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
   {% endfor %}
 </ul>
 
-### [Timelapse videos]({% link _portfolio/timelapse.md %})
+### [Zeitraffer-Videos]({% link _portfolio/timelapse.md %})
 
 <ul>
   {% for post in site.categories.timelapse %}

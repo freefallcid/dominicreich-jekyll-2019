@@ -1,9 +1,12 @@
 ---
 layout: archive
 permalink: /artikel/
-title: &title "Artikel"
+title: &title Blog-Artikel
 alt_title: *title
-excerpt: &excerpt "A collection of thoughts, inspiration, mistakes, and other long-form minutia I've written. For smaller, more regular tidbits --- peruse the [notes section](/notizen/)."
+excerpt: &excerpt >
+  Eine Sammlung an Meinungen. Meinen Meinungen zu bestimmten Themen. Du hast die
+  kürzeren Artikel gesucht? Dann solltest du zu den [Notizen](/notizen/)
+  wechseln.
 introduction: *excerpt
 pagination: 
   enabled: true

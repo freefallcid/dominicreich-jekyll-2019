@@ -1,15 +1,15 @@
 ---
 permalink: /terms/
-title: "Terms and policies"
+title: Terms and policies
 image: 
   path: &image /assets/images/meeting-1015591_1280.jpg
   width: 1280
   height: 693
   feature: *image
-  caption: "[Photo by **3dman_eu** on Pixabay](https://pixabay.com/photo-1015591/)"
+  caption: [Foto von **3dman_eu** via Pixabay](https://pixabay.com/photo-1015591/)
 date: 2016-08-26
 last_modified_at: 2019-02-16 18:13:18
-excerpt: "DOMINICREICH.COM privacy policy, license, and other legal stuff you won't read."
+excerpt: DOMINICREICH.COM privacy policy, license, and other legal stuff you won't read.
 toc: true
 ---
 

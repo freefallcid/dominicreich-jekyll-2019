@@ -1,9 +1,11 @@
 ---
 permalink: /ueber-mich/
-title: "Über Dominic Reich"
+title: Über Dominic Reich
 date: 2016-08-26
 last_modified_at: 2019-02-16 18:11:34
-excerpt: "Dominic Reich is a construction worker from L&auml;ngenfeld. He worked as an electrician before. He still loves tech stuff and photography."
+excerpt: >
+  Dominic Reich is a construction worker from Längenfeld.
+  He worked as an electrician before. He still loves tech stuff and photography.
 image:
   # path: &image /assets/images/about-feature.jpg
   path: &image /assets/images/dominic-reich-woods.jpg

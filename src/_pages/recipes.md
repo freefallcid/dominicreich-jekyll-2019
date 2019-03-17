@@ -1,9 +1,12 @@
 ---
 layout: page
 permalink: /rezepte/
-title: "Rezepte"
-excerpt: "A collection of recipes that I find awesome"
-last_modified_at: 
+title: &title Rezepte
+alt_title: *title
+excerpt: &excerpt A collection of recipes that I find awesome
+introduction: *excerpt
+date: 2016-08-26
+# last_modified_at: 
 ---
 
 {% assign recipes = site.recipes |  sort: "date" | reverse %}
