@@ -6,18 +6,22 @@
 /____/\____/_/  /_/___/_/|_/___/\___/ /_/|_/___/___/\___/_//_/
                                              relaunched 2019
   Site Owner:   Dominic Reich
-  Twitter:      @freefall0
+  Reddit:       @cid85
   Location:     Ötztal, Tirol, Austria
 
   Designer:     Michael Rose
   Twitter:      @mmistakes
   Location:     Buffalo, New York USA
 
+  Thanks to Michael Rose for creating such a nice theming
+  on his own website <https://mademistakes.com>.
+
   Last updated: {{ site.time }}
   Language:     German
   Built with:   Jekyll {{ jekyll.version }} <https://jekyllrb.com>
                 Visual Studio Code <https://code.visualstudio.com>
-                Adobe Creative Suite
+                Sublime Text 3 <https://www.sublimetext.com>
+                Adobe Creative Cloud <https://www.adobe.com/at/creativecloud.html>
                 Gulp <https://gulpjs.com>
                 Netlify CI <https://www.netlify.com/>
                 SimpleIcon <http://www.flaticon.com>

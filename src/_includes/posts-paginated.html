@@ -7,7 +7,7 @@
     <ul>
       {% if paginator.previous_page %}
         <li>
-          <a href="{{ paginator.previous_page_path | relative_url }}" class="newer-posts">← newer posts</a>
+          <a href="{{ paginator.previous_page_path | relative_url }}" class="newer-posts">← neuere Einträge</a>
         </li>
       {% endif %}
       {% if page.autogen %}
@@ -17,7 +17,7 @@
       {% endif %}
       {% if paginator.next_page %}
         <li>
-          <a href="{{ paginator.next_page_path | relative_url }}" class="older-posts">older posts →</a>
+          <a href="{{ paginator.next_page_path | relative_url }}" class="older-posts">ältere Einträge →</a>
         </li>
       {% endif %}
     </ul>

@@ -1,9 +1,17 @@
 <footer id="footer" class="site__footer">
   <ul class="menu">
-    <li><a href="{{ '/support/' | relative_url }}">Support me</a></li>
-    <li><a href="{{ '/faqs/' | relative_url }}">FAQs</a></li>
-    <li><a href="{{ '/terms/' | relative_url }}">Terms &amp; policies</a></li>
+    <!-- <li><a href="{{ '/support/' | relative_url }}">Support me</a></li> -->
+    <!-- <li><a href="{{ '/faqs/' | relative_url }}">FAQs</a></li> -->
+    <!-- <li><a href="{{ '/terms/' | relative_url }}">Terms &amp; policies</a></li> -->
     <li><a href="{{ '/sitemap/' | relative_url }}">Sitemap</a></li>
+    {% if site.author.photogallery %}
+      <li><a href="{{ site.author.photogallery }}" rel="me">
+        <svg class="icon" width="16px" height="16px">
+          <use xlink:href="{{ 'icons.svg#icon-camera' | prepend: 'assets/icons/' | relative_url }}"></use>
+        </svg>
+        <span class="visually-hidden">Photo Gallery</span>
+      </a></li>
+    {% endif %}
     {% if site.author.twitter %}
       <li><a href="{{ site.author.twitter }}" rel="me">
         <svg class="icon" width="16px" height="16px">
@@ -20,28 +28,12 @@
         <span class="icon__label">GitHub</span>
       </a></li>
     {% endif %}
-    {% if site.author.instagram %}
-      <li><a href="{{ site.author.instagram }}" rel="me">
+    {% if site.author.reddit %}
+      <li><a href="{{ site.author.reddit }}" rel="me">
         <svg class="icon" width="16px" height="16px">
-          <use xlink:href="{{ 'icons.svg#icon-instagram' | prepend: 'assets/icons/' | relative_url }}"></use>
+          <use xlink:href="{{ 'icons.svg#icon-reddit' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
-        <span class="icon__label">Instagram</span>
-      </a></li>
-    {% endif %}
-    {% if site.author.500px %}
-      <li><a href="{{ site.author.500px }}" rel="me">
-        <svg class="icon" width="16px" height="16px">
-          <use xlink:href="{{ 'icons.svg#icon-500px' | prepend: 'assets/icons/' | relative_url }}"></use>
-        </svg>
-        <span class="visually-hidden">500px</span>
-      </a></li>
-    {% endif %}
-    {% if site.author.photogallery %}
-      <li><a href="{{ site.author.photogallery }}" rel="me">
-        <svg class="icon" width="16px" height="16px">
-          <use xlink:href="{{ 'icons.svg#icon-camera' | prepend: 'assets/icons/' | relative_url }}"></use>
-        </svg>
-        <span class="visually-hidden">Photo Gallery</span>
+        <span class="icon__label">Reddit</span>
       </a></li>
     {% endif %}
     {% if site.author.xda %}

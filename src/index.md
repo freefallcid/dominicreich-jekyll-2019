@@ -8,17 +8,19 @@ section:
     # image: /assets/images/dominic-reich-woods-home-glitched.jpg
     image: /assets/images/dominic-reich-woods.jpg
     introduction: |
-      Hallo! Mein Name ist Dominic Reich und ich leben im Ötztal. Ich habe ein
-      paar kleine [Programme für Windows](/portfolio/software/) geschrieben und
-      veröffentliche gelegentlich das eine oder andere [Foto](/portfolio/fotografie/)
-      bzw. [Zeitraffer-Video](/portfolio/zeitraffer/).
       <div style="background-color:red; color:#eee; display:block;
       text-align:center; margin-top:0.5em; margin-bottom:1em; padding:0.5em;
       border: 1px solid #eee;">
       Dies ist eine <strong>Vorschau meiner Webseite</strong>.</div>
+      Hallo! Mein Name ist Dominic Reich und ich leben im Ötztal. Ich habe ein
+      paar kleine [Programme für Windows](/portfolio/software/) geschrieben und
+      veröffentliche gelegentlich das eine oder andere [Foto](/portfolio/fotografie/)
+      bzw. [Zeitraffer-Video](/portfolio/zeitraffer/).
     actions:
       - label: "mehr über mich →"
         url: "/ueber-mich/"
+      - label: "english? →"
+        url: "/english/"
   - title: "Blog-Artikel"
     class: "section__inverse section__articles"
     image: /assets/images/hdr-oetzerberg-view-feature.jpg

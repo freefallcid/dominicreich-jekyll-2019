@@ -135,7 +135,7 @@ myToggle.addEventListener(
           .removeClass("danger")
           .addClass("success");
         showAlert(
-          '<strong>Thanks for your comment!</strong> It is <a href="https://github.com/freefallcid/dominicreich-jekyll/pulls">currently pending</a> and will show on the site once approved.'
+          '<strong>Danke für deinen Kommentar!</strong> Es <a href="https://github.com/freefallcid/dominicreich-jekyll-2019/pulls">wurde dem Repository hinzugefüg</a> und wird veröffentlicht, wenn es freigegeben wurde.'
         );
       },
       error: function(err) {
@@ -145,7 +145,7 @@ myToggle.addEventListener(
           .removeClass("success")
           .addClass("danger");
         showAlert(
-          "<strong>Sorry, there was an error with your submission.</strong> Please make sure all required fields have been completed and try again."
+          "<strong>Es tut mir leid, es trat ein Fehler auf!</strong> Bitte stelle sicher, dass alle erforderlichen Felder ausgefüllt wurden und versuchs noch einmal."
         );
         $(form).removeClass("disabled");
       }

@@ -1,22 +1,22 @@
 {% unless page.comments_locked == true %}
   <!-- Start comment form -->
   <div id="respond" class="comment__form">
-    <h2 class="title">Leave a comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | relative_url }}#respond" style="display:none;">Cancel reply</a></small></h2>
+    <h2 class="title">Hinterlasse einen Kommentar <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | relative_url }}#respond" style="display:none;">Antworten abbrechen</a></small></h2>
     <form id="comment-form" class="js-form" method="post" action="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
       <div class="form__group">
         <label for="comment-form-name">Name
-          <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Your name">
+          <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Dein Name">
         </label>
-        <label for="comment-form-email">E-mail
+        <label for="comment-form-email">E-Mail-Adresse
           <input type="email" id="comment-form-email" name="fields[email]" required spellcheck="false" placeholder="email@domain.com">
         </label>
-        <label for="comment-form-url">Website (optional)
+        <label for="comment-form-url">Webseite (optional)
           <input type="url" id="comment-form-url" name="fields[url]" placeholder="https://domain.com">
         </label>
       </div>
       <div class="form__group">
-        <label for="comment-form-message">Comment
-          <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Your message"></textarea>
+        <label for="comment-form-message">Kommentar
+          <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Deine Nachricht"></textarea>
         </label>
       </div>
       <input type="hidden" name="options[origin]" value="{{ page.url | relative_url }}">
@@ -31,14 +31,15 @@
       </div>
       <!-- End comment form alert messaging -->
       <div class="g-recaptcha form__group" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
-      <button type="submit" id="comment-form-submit">Send comment</button>
+      <button type="submit" id="comment-form-submit">Kommentar abschicken</button>
     </form>
   </div>
   <!-- End comment form -->
   <script async src="https://www.google.com/recaptcha/api.js"></script>
 {% else %}
   <div class="notice">
-    <h4>Comments are closed</h4>
-    <p>If you have a question concerning the content of this page, please feel free to <a href="/contact/">contact me</a>.</p>
+    <h4>Die Kommentare sind geschlossen</h4>
+    <p>Falls du noch Fragen zum Inhalt hast, <a href="/kontakt/">kontaktiere mich</a>
+    doch über das Kontaktformular.</p>
   </div>
 {% endunless %}

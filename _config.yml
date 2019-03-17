@@ -157,7 +157,7 @@ collections:
 defaults:
   # Blog Articles
   - scope:
-      path: _posts/articles
+      path: _posts/artikel
       type: posts
     values:
       layout: post
@@ -213,7 +213,7 @@ defaults:
         card: summary
   # Notes
   - scope:
-      path: _posts/notes
+      path: _posts/notizen
       type: posts
     values:
       layout: post

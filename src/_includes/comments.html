@@ -3,9 +3,9 @@
     <div id="comments" class="page__comments js-comments">
       <h2 class="title">
         {% if site.data.comments[page.slug].size <= 1 %}
-          {{ site.data.comments[page.slug] | size | append: ' comment' }}
+          {{ site.data.comments[page.slug] | size | append: ' Kommentar' }}
         {% elsif site.data.comments[page.slug].size > 1 %}
-          {{ site.data.comments[page.slug] | size | append: ' comments' }}
+          {{ site.data.comments[page.slug] | size | append: ' Kommentare' }}
         {% endif %}
       </h2>
       {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].replying_to == blank' %}

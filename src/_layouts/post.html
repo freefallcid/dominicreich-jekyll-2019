@@ -21,18 +21,18 @@ layout: default
 <div class="page__aside">
   {% if page.toc %}
     <div class="page__toc">
-      <h3 class="title">On this page:</h3>
+      <h3 class="title">Auf dieser Seite:</h3>
       {{ content | toc_only }}
     </div>
   {% endif %}
   {% if page.tags %}
     <div class="page__taxonomy">
-      <h3 class="title">Explore more:</h3>
+      <h3 class="title">Ähnliche Einträge:</h3>
       {% for tag in page.tags %}<span><a href="{{ tag | replace:' ','-' | downcase | prepend: '/tag/' | append: '/' | relative_url }}">{{ tag }}</a></span>{% endfor %}
     </div>
   {% endif %}
   {% if site.related_posts.size >= 1 %}
     {% include page__related.html %}
   {% endif %}
-  <p><a class="back-to-top" href="#nav-primary">↑ back to top</a></p>
+  <p><a class="back-to-top" href="#nav-primary">↑ zurück nach oben</a></p>
 </div>
