@@ -1,0 +1,7 @@
+---
+layout: atom_feed
+category_limit: recipes
+limit: 25
+title: "Rezepte-Feed"
+sitemap: false
+---

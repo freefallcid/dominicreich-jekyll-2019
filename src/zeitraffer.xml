@@ -1,0 +1,7 @@
+---
+layout: atom_feed
+category_limit: timelapse
+limit: 25
+title: "Zeitraffer-Videos-Feed"
+sitemap: false
+---
