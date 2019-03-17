@@ -6,7 +6,7 @@ image:
   feature: *image
   width: 1600
   height: 640
-  caption: [Foto von **geralt** via Pixabay](https://pixabay.com/photo-2794672/)
+  # caption: [Foto von **geralt** via Pixabay](https://pixabay.com/photo-2794672/)
 date: 2016-08-26
 last_modified_at: 2019-02-16 18:11:56
 excerpt: Preferred methods of sending your questions, inquires, messages, and love letters to me.

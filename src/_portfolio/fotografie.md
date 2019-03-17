@@ -11,7 +11,7 @@ image:
     Foto von **Dominic Reich** vom 29. Dezember 2016. Zu sehen ist Sölden bei
     Nacht.
 tags: []
-work: "Visual Artwork"
+work: Visual Artwork
 last_modified_at: 2019-01-21T08:57:07+01:00
 order: 3
 ---

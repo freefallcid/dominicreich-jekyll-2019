@@ -1,6 +1,6 @@
 ---
 title: WiW trial handout text generator
-excerpt: 
+# excerpt: 
 # image:
 #   path: &image "/assets/images/.jpg"
 #   feature *image
@@ -10,7 +10,7 @@ repo: wiw-trial-handout
 categories: [software]
 tags: [visual basic, wiw]
 toc: true
-last_modified_at: 
+# last_modified_at: 
 ---
 
 Als wir noch [im Clan Battlefield 2 spielten]({% link _pages/wiw.md %}) rekrutierten

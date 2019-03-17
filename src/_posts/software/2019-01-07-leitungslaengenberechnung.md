@@ -1,6 +1,6 @@
 ---
 title: Leitungslängenberechnung
-excerpt: 
+# excerpt: 
 # image:
 #   path: &image "/assets/images/.jpg"
 #   feature *image

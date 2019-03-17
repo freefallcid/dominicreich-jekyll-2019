@@ -1,6 +1,6 @@
 ---
-title: "Insanity On Stage"
-excerpt: "Und alles war irgendwie anders. Vielleicht auch besser."
+title: Insanity On Stage
+excerpt: Und alles war irgendwie anders. Vielleicht auch besser.
 image:
   path: &image /assets/images/insanity-on-stage-feature.jpg
   feature: *image

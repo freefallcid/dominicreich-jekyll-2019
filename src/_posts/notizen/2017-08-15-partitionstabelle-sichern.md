@@ -1,8 +1,8 @@
 ---
 title: Partitiontabelle sichern
 excerpt: >
- Erstelle eine exakte Kopie der Partitiontabelle und kopiere diese auf eine
- weitere (gleich große) Festplatte.
+  Erstelle eine exakte Kopie der Partitiontabelle und kopiere diese auf eine
+  weitere (gleich große) Festplatte.
 tags: [terminal, linux, til]
 # last_modified_at: 2018-01-30T20:49:34+01:00
 categories: [notes]

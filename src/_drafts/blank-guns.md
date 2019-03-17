@@ -1,12 +1,16 @@
 ---
-title: "Blank guns"
-excerpt: "A quick look at the Röhm RG 96 and RG 88 by [Umarex](https://www.umarex.com) and the Zoraki 917 by [Atak Arms](http://atakarms.com/default.html?l=lang1). They are blank guns and allowed for self-defense in Austria. You may carry them concealed if you're over 18 years old and reliable."
+title: Blank guns
+excerpt: >
+  A quick look at the Röhm RG 96 and RG 88 by [Umarex](https://www.umarex.com)
+  and the Zoraki 917 by [Atak Arms](http://atakarms.com/default.html?l=lang1).
+  They are blank guns and allowed for self-defense in Austria. You may carry
+  them concealed if you are over 18 years old and reliable.
 image:
   path: &image /assets/images/blank-guns.jpg
   feature: *image
   width: 1920
   height: 800
-  caption: "[Photo by **unknown** on Unsplash]()"
+  # caption: [Photo by **unbekannt** on Unsplash](#)
 categories: [articles]
 tags: [blank guns, röhm, zoraki]
 toc: true

@@ -1,6 +1,6 @@
 ---
 title: WiW RCON Chat
-excerpt: 
+# excerpt: 
 # image:
 #   path: &image "/assets/images/.jpg"
 #   feature *image
