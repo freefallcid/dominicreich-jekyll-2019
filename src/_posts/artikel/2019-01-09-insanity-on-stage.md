@@ -7,7 +7,7 @@ image:
   width: 2200
   height: 473
   caption: Foto von **Dominic Reich**, Hochoetz zu Neujahr 2016
-categories: [articles]
+categories: [artikel]
 tags: []
 support: false
 # last_modified_at: 

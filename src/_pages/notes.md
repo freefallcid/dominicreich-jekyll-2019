@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /notizen/
-category: notes
+# category: notizen
 title: &title Notizen
 alt_title: *title
 modified:
@@ -12,7 +12,7 @@ excerpt: &excerpt >
 introduction: *excerpt
 pagination: 
   enabled: true
-  category: notes
+  category: notizen
 date: 2016-08-26
 ---
 

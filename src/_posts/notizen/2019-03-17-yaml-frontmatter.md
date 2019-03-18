@@ -7,7 +7,7 @@ excerpt: Eine Seite mit aktuell gehaltenen Frontmatter-Informationen.
 #   width: 1920
 #   height: 800
 #   caption: "[Foto von **Unbekannt** via Unsplash](https://)"
-categories: [notes]
+categories: [notizen]
 tags: [yaml]
 toc: true
 # support: true

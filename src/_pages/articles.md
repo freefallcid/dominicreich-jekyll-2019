@@ -10,7 +10,7 @@ excerpt: &excerpt >
 introduction: *excerpt
 pagination: 
   enabled: true
-  category: articles
+  category: artikel
 date: 2016-08-26
 ---
 

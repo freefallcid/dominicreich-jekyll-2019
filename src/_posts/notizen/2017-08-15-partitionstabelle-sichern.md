@@ -5,7 +5,7 @@ excerpt: >
   weitere (gleich große) Festplatte.
 tags: [terminal, linux, til]
 # last_modified_at: 2018-01-30T20:49:34+01:00
-categories: [notes]
+categories: [notizen]
 ---
 
 Erstelle eine exakte Kopie der Partitiontabelle mit dem Tool

@@ -5,7 +5,7 @@ excerpt: >
   unter MacOS.
 tags: [macos, terminal, til]
 # last_modified_at: 2018-01-30T21:25:13+01:00
-categories: [notes]
+categories: [notizen]
 ---
 
 Weil ich mir diesen total einfachen Befehl nicht merken kann.

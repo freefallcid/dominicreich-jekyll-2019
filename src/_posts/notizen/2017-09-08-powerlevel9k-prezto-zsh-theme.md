@@ -4,7 +4,7 @@ excerpt: >
   Ein sehr gelungenes Theme falls du zsh und prezto in deinem Terminal verwendest.
 tags: [macos, zsh, terminal, til]
 # last_modified_at: 2018-02-25T13:29:54+01:00
-categories: [notes]
+categories: [notizen]
 toc: true
 repo: prezto
 support: true

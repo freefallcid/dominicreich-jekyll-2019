@@ -12,7 +12,7 @@ image:
   caption: Auszug aus der Konfiguration
 twitter:
   card: summary_large_image
-categories: [articles]
+categories: [artikel]
 tags: [howto,freebsd,netnews]
 last_modified_at: 2019-03-15T22:13:01+01:00
 toc: true

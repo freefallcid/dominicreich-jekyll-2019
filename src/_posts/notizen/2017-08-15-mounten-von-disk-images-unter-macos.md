@@ -5,7 +5,7 @@ excerpt: >
   wie das mit RAW-Images geht. Hier steht wie's geht.
 tags: [macos, terminal, til]
 # last_modified_at: 2018-01-30T21:41:35+01:00
-categories: [notes]
+categories: [notizen]
 ---
 
 Du kannst unter macOS `iso`- und `img`-Dateien mit `hdiutil` mounten.

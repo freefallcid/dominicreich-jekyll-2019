@@ -5,7 +5,7 @@ excerpt: >
   In der Eingabeaufforderung.
 tags: [windows, terminal, til]
 # last_modified_at: 2018-01-29T23:59:49+01:00
-categories: [notes]
+categories: [notizen]
 ---
 
 Ein schneller Weg um ein Zertifikat in der Eingabeaufforderung zu importieren.
