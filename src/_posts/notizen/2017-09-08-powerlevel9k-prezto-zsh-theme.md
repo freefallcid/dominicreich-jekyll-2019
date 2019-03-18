@@ -13,6 +13,9 @@ support: true
 Ein sehr schönes Theme für dein ZSH-Terminal. Ich verwende es mit
 [prezto]({{ site.author.github }}/{{ page.repo }}).
 
+![Beispiel-Bildschirmfoto](/assets/images/prezto-zsh-theme-demo.jpg)
+{: .browser-frame}
+
 Das Theme heißt [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) und es
 verwendet modifizierte Schriftarten mit zusätzlichen Symbolen.
 
