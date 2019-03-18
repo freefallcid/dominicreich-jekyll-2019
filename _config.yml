@@ -179,6 +179,7 @@ defaults:
       type: recipes
     values:
       layout: post
+      byline: true
       read_time: true
       comments: true
       support: false
@@ -196,7 +197,7 @@ defaults:
       type: posts
     values:
       layout: post
-      byline: false
+      byline: true
       read_time: true
       comments: true
       support: true
@@ -217,8 +218,8 @@ defaults:
       type: posts
     values:
       layout: post
-      byline: false
-      read_time: false
+      byline: true
+      read_time: true
       comments: true
       support: false
       breadcrumbs:
@@ -235,7 +236,10 @@ defaults:
       type: posts
     values:
       layout: post
-      byline: false
+      byline: true
+      read_time: true
+      comments: true
+      support: true
       breadcrumbs:
         - label: "Zeitraffer-Videos"
           url: /portfolio/zeitraffer/
@@ -254,7 +258,10 @@ defaults:
     values:
       layout: post
       permalink: /portfolio/:categories/:title/
-      byline: false
+      byline: true
+      read_time: true
+      comments: true
+      support: true
       breadcrumbs:
         - label: "Portfolio"
           url: /portfolio/
@@ -308,6 +315,7 @@ defaults:
       type: faqs
     values:
       layout: page
+      byline: false
       read_time: true
       comments: true
       support: false
