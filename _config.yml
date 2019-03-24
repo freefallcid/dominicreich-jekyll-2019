@@ -69,8 +69,10 @@ staticman:
 
 # reCAPTCHA keys
 reCaptcha:
-  siteKey: "6LfJvJcUAAAAAMDDZo-ZPz5wzzQizbZxYUb-jl77"
-  secret: "RdgZ+HOKHkh9HAq4DF5NOf9aYG4Y36OFnoPlPyuHIN7O3kxgIfi/ssr98EFShn+jBEOQDfZW1zK+htBfYlJ5eZconJO6p7ZtLNFBaKTvC2myA2heN7yFFUrLTmBLj/eF85fKeLGQkcs7K2i0y3IdcCwqniC2a6EHTz8yrvOubes="
+  # siteKey: "6LfJvJcUAAAAAMDDZo-ZPz5wzzQizbZxYUb-jl77"
+  # secret: "RdgZ+HOKHkh9HAq4DF5NOf9aYG4Y36OFnoPlPyuHIN7O3kxgIfi/ssr98EFShn+jBEOQDfZW1zK+htBfYlJ5eZconJO6p7ZtLNFBaKTvC2myA2heN7yFFUrLTmBLj/eF85fKeLGQkcs7K2i0y3IdcCwqniC2a6EHTz8yrvOubes="
+  siteKey: "6LfLrJkUAAAAAB0ew0bkJ9dglTAxq542R-lZc5r9"
+  secret: "BS1Boy1nHurrHEmnK5gZAUgudTQ6eoZK9Ff6PMy9lL8KRgvYkZ21XNb6e2IRCHtG5wDhJb1SZ5bVctFCh/W9JHr/m09eQtvhpZBuOmcqLd8+cj4CtY8srVuwZ3zeP3w63UAeGied3sfHlObzM0CmBGw65cJB2Tav9p0tze/m/Hs="
 
 # Jekyll configuration
 permalink: /:categories/:title/
