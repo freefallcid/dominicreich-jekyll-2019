@@ -4,3 +4,4 @@
   Referrer-Policy: no-referrer
   X-Content-Type-Options: nosniff
   Access-Control-Allow-Origin: https://dominicreich.com
+  Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self' "https://dev.staticman.net"; style-src 'self'; font-src 'self';
