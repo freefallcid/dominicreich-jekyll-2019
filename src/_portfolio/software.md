@@ -8,7 +8,7 @@ image:
   width: 1920
   height: 793
   feature: *image
-  # caption: [Foto von **StockSnap** via Pixabay](https://pixabay.com/photo-924920/)
+  caption: "[Foto von **StockSnap** via Pixabay](https://pixabay.com/photo-924920/)"
 #tags: [visual basic, .net, wiw]
 work: Software development
 date: 2016-08-26
