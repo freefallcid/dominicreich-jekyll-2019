@@ -3,5 +3,5 @@
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: no-referrer
   X-Content-Type-Options: nosniff
-  Access-Control-Allow-Origin: https://dominicreich.com
+  Access-Control-Allow-Origin: https://dominicreich.com https://dev.staticman.net
   Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src "https://dev.staticman.net" "https://www.google.com/recaptcha/api.js" 'self'; style-src 'self'; font-src 'self';
