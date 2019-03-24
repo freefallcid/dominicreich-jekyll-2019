@@ -1,6 +1,6 @@
 ---
 layout: atom_feed
-category_limit: recipes
+category_limit: rezepte
 limit: 25
 title: "Rezepte-Feed"
 sitemap: false

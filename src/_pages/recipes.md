@@ -2,9 +2,8 @@
 layout: page
 permalink: /rezepte/
 title: &title Rezepte
-alt_title: *title
-excerpt: &excerpt A collection of recipes that I find awesome
-introduction: *excerpt
+excerpt: >
+  Eine nette Ansammlung toller Rezepte (die ich besser nicht vergessen sollte).
 date: 2016-08-26
 # last_modified_at: 
 ---

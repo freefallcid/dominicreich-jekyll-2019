@@ -6,7 +6,7 @@ image:
   feature: *image
   width: 1600
   height: 640
-categories: articles
+categories: artikel
 tags: []
 last_modified_at: 
 support: false

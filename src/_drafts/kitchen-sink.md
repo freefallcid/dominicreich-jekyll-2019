@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kitchen Sink Post"
-categories: articles
+categories: [artikel]
 excerpt: "Below is just about everything you'll need to style in the theme."
 last_modified_at: 
 tags: [sample]

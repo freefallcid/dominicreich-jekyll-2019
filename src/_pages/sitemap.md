@@ -4,19 +4,19 @@ permalink: /sitemap/
 title: Sitemap
 excerpt: Eine Auflistung aller verfügbaren Seiten auf dominicreich.com
 date: 2016-08-26
-last_modified_at: 2019-03-17T22:15:31+01:00
+last_modified_at: 2019-03-24T10:35:48+01:00
 toc: true
 ---
 
-Eine Auflistung aller Artikel und Seiten auf dieser Webseite. Für robots gibt es
-eine [XML-Version](/sitemap.xml).
+Eine Auflistung aller Artikel und Seiten auf dieser Webseite. Für Such-Roboter
+gibt es eine [XML-Version](/sitemap.xml).
 
 ## Seiten
 
-- [Über mich](/ueber-mich/)
+- [Über mich](/about/)
 - [Kontakt](/kontakt/)
-- [Frequently asked questions](/faqs/)
-- [Show your support](/support/)
+- [Häufig gestellte Fragen](/faqs/)
+- [Unterstütze mich](/support/)
 - [Terms and policies](/terms/)
 - [Wake Island Warriors](/wiw/)
 - [Tag-Index](/tag/)
@@ -24,7 +24,7 @@ eine [XML-Version](/sitemap.xml).
 ## [Blog-Artikel](/artikel/)
 
 <ul>
-  {% for post in site.categories.articles %}
+  {% for post in site.categories.artikel %}
     {% include post-list.html %}
   {% endfor %}
 </ul>
@@ -40,7 +40,7 @@ eine [XML-Version](/sitemap.xml).
 ## [Notizen](/notizen/)
 
 <ul>
-  {% for post in site.categories.notes %}
+  {% for post in site.categories.notizen %}
     {% include post-list.html %}
   {% endfor %}
 </ul>
@@ -51,7 +51,7 @@ eine [XML-Version](/sitemap.xml).
 ### [Footografie]({% link _portfolio/photography.md %})
 
 <ul>
-  {% for post in site.categories.photography %}
+  {% for post in site.categories.fotografie %}
     {% include post-list.html %}
   {% endfor %}
 </ul>
@@ -59,7 +59,7 @@ eine [XML-Version](/sitemap.xml).
 ### [Zeitraffer-Videos]({% link _portfolio/timelapse.md %})
 
 <ul>
-  {% for post in site.categories.timelapse %}
+  {% for post in site.categories.zeitraffer %}
     {% include post-list.html %}
   {% endfor %}
 </ul>
@@ -74,7 +74,8 @@ eine [XML-Version](/sitemap.xml).
 {% endcomment %}
 
 <ul>
-  {% assign posts = site.portfolio | sort: "order" | reverse %}
+  {% comment %}{% assign posts = site.portfolio | sort: "order" | reverse %}{% endcomment %}
+  {% assign posts = site.portfolio | sort %}
   {% for post in posts %}
     {% include post-list.html %}
   {% endfor %}

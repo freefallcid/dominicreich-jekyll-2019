@@ -11,7 +11,7 @@ image:
   width: 1920
   height: 800
   # caption: [Photo by **unbekannt** on Unsplash](#)
-categories: [articles]
+categories: [artikel]
 tags: [blank guns, röhm, zoraki]
 toc: true
 #support: false

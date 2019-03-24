@@ -1,6 +1,6 @@
 ---
 layout: atom_feed
-category_limit: articles
+category_limit: artikel
 limit: 25
 title: "Artikel-Feed"
 sitemap: false

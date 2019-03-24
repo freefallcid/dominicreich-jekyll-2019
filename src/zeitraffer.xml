@@ -1,6 +1,6 @@
 ---
 layout: atom_feed
-category_limit: timelapse
+category_limit: zeitraffer
 limit: 25
 title: "Zeitraffer-Videos-Feed"
 sitemap: false

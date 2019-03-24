@@ -1,49 +1,79 @@
 ---
 permalink: /terms/
-title: Terms and policies
+title: Nutzungsbedingungen
 image: 
   path: &image /assets/images/meeting-1015591_1280.jpg
   width: 1280
   height: 693
   feature: *image
-  # caption: [Foto von **3dman_eu** via Pixabay](https://pixabay.com/photo-1015591/)
+  caption: "[Foto von **3dman_eu** via Pixabay](https://pixabay.com/photo-1015591/)"
 date: 2016-08-26
-last_modified_at: 2019-02-16 18:13:18
+last_modified_at: 2019-03-24T20:03:41+01:00
 excerpt: >
-  DOMINICREICH.COM privacy policy, license, and other legal stuff you won t read.
+  DOMINICREICH.COM Datenschutzerklärung, Lizenz und andere Rechts-Dinge, die du
+  nicht lesen willst.
 toc: true
 ---
 
-This is my personal website written and edited by me. Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.
+Dies ist meine persönliche Webseite und wird von mir selber betreut. Durch das
+Verwenden der Webseite in allen möglichen Formen stimmst du den hier gelisteten
+Richtlinien und Vereinbarungen zu. Diese Seite wird von Zeit zu Zeit angepasst
+und erweitert.
 
-All content provided is for informational purposes only. The articles and posts on this website are my own and don't necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
+Der Inhalt dieser Webseite dient zu informativen Zwecken. Die Artikel und Beiträge
+auf dieser Webseite sind meine eigenen und repräsentieren keinesfalls die Ansichten
+oder Meinungen meines Arbeitgebers.
 
-## Privacy policy
+Ich kann dir nicht garantieren, dass die hier
+veröffentlichen oder verlinkten Informationen richtig oder vollständig sind. Ich
+kann zudem weder für Fehler oder Auslassungen in diesen Informationen noch für
+die Verfügbarkeit dieser Informationen haften. Ich hafte nicht für Verluste,
+Verletzungen oder Schäden, die durch die Anzeige oder Verwendung dieser Informationen
+entstehen.
 
-At DOMINICREICH.COM, the privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+## Datenschutzerklärung
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+DOMINICREICH.COM nimmt Datenschutz ernst. Diese Datenschutzerklärung zeigt dir,
+wie und welche persönlichen Daten von den Benutzern (Besuchern) gesammelt und
+verwendet werden.
 
-### Log files
+Die von dieser Webseite gesammelten persönlichen Daten werden nicht ohne deiner
+direkten Zustimmung an Dritte weitergegeben.
 
-Like many other websites, DOMINICREICH.COM uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+### Log-Dateien
 
-- Internet Protocol addresses (IP, anonymized)
-- Types of browser
-- Internet Service Provider (ISP)
-- Date and time stamp
-- Referring and exit pages
-- Number of clicks
+Wie viele andere Webseiten macht sich auch DOMINICREICH.COM Log-Dateien zu nutze,
+um das Browse-Verhalten der Besucher zu analysieren und besser darauf abstimmen
+zu können. Die Informationen in diesen Log-Dateien beinhaltet:
 
-All of this information is not linked to anything that is personally identifiable.
+- IP-Adresse ([anonymisiert](https://support.google.com/analytics/answer/2763052?hl=de))
+- Browser (Firefox, Chrome, Internet Explorer, usw.)
+- Internetanbieter (ISP)
+- Datum und Zeit
+- Verweisende und Ausstiegsseiten
+- Anzahl der Klicks
 
-### Cookies and web beacons
+*[IP]: Internet Protocol
+*[ISP]: Internet Service Provider
 
-DOMINICREICH.COM uses a cookie named `fullcss` to trigger the loading of cached CSS on future page loads.
+Die gesammelten Informationen können keiner Person zugeordnet werden.
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. DOMINICREICH.COM has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+### Cookies und Tracking-Pixel
 
-If you wish to [disable cookies](https://cookies.insites.com/disable-cookies/), you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+DOMINICREICH.COM verwendet ein Cookie namens `fullcss`, das feststellt, ob die
+bereits zwischengespeicherten Stylesheets (CSS-Dateien) für folgende Seiten
+geladen werden sollen.
+
+*[CSS]: Cascading Style Sheets
+
+Dritte Werbetreibende können auch Cookies oder Tracking-Pixel in deinem Browser
+speichern oder lesen. DOMINICREICH.COM hat keinen Zugriff oder Einsicht über
+diese Cookies. Du solltest die jeweiligen Datenschutzrichtlinien der jeweiligen
+Betreiber durchlesen.
+
+Wenn du Cookies nicht erlauben möchtest, kannst du diese in deinem Browser
+deaktivieren. Informationen über das Deaktivieren in deinem Browser kannst du zum
+Beispiel via Google finden.
 
 {% comment %}
 #### Amazon
@@ -57,11 +87,19 @@ Cloudflare, Inc. is a U.S. company that provides content delivery network servic
 
 #### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. Read [Google's Privacy Policy](https://policies.google.com/privacy?hl=en).
+Google Analytics ist ein Web-Analyse-Tool das ich auf meiner Webseite einsetze,
+um das Browse-Verhalten meiner Besucher zu untersuchen. Es sammelt Informationen
+ohne die gesammelten Daten einer eindeutigen Person zuzuordnen. Lese
+[Googles Datenschutzrichtlinie](https://policies.google.com/privacy?hl=de).
 
 #### Netlify
 
-Netlify is a cloud computing company that offers hosting and serverless backend services for static websites. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and full integration with Let's Encrypt. Read [Netlify's Privacy Policy](https://www.netlify.com/privacy/).
+Netlify ist ein Cloud-Computing-Unternehmen, das Hosting- und serverlose
+Backend-Services für statische Webseiten anbietet. Es bietet Continuous-Deployment
+von Git-Repositories über ein globales Delivery-Netzwerk, serverlose Form-Verarbeitung,
+Unterstützung für AWS Lambda-Funktionen und eine vollständige Integration von
+Let's Encrypt. Lese
+[Netlifys Datenschutzerklärung](https://www.netlify.com/privacy/).
 
 {% comment %}
 ## Disclosure policy
@@ -78,18 +116,37 @@ What this means for you:
 Just like this website, my disclosure policy is a work in progress. As the revenue streams evolve, so will this page.
 {% endcomment %}
 
-## License
+## Lizenz
 
-All original content (e.g. articles, blog posts, software, illustrations, artwork, and photographs) available on DOMINICREICH.COM is released under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise noted.
+Der Inhalt auf DOMINICREICH.COM (wie etwa Blor-Artikel, Notizen, Software,
+Zeichnungen, Fotos, usw.) wird unter der
+[Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International][cc]
+-Lizenz veröffentlicht -- außer es wird auf eine andere Lizenz verwiesen.
 
-Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you give appropriate credit[^credit], set a link to the license and indicate where changes have been made[^changes].
+Software wird in der Regel unter der [MIT][mit]-Lizenz veröffentlicht -- außer
+es wird auf eine andere Lizenz verwiesen.
 
-[^credit]: Quoted from [creativecommons.org](https://creativecommons.org/licenses/by-sa/4.0/#deed-conditions): *If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. [More info](https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart).*<br>Also note the following paragraph "Attribution" about proper attribution.
+[cc]: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+[mit]: https://de.wikipedia.org/wiki/MIT-Lizenz
 
-[^changes]: Quoted from [creativecommons.org](https://creativecommons.org/licenses/by-sa/4.0/#deed-conditions): *You must indicate if you modified the material and retain an indication of previous modifications. [Marking guide](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_a_good_attribution_for_material_you_modified_slightly). [More info](https://wiki.creativecommons.org/wiki/License_Versions#Modifications_and_adaptations_must_be_marked_as_such).*
+Das bedeutet für dich, dass du meine Arbeit in jedwedem Format vervielfältigen
+und weiterverbreiten darfst, solange du eine angemessene Urheber- und Rechteangabe
+machst[^credit], einen Link zur Lizenz beifügst, kenntlich machst, welche Änderungen
+vorgenommen wurden[^changes] und nicht für kommerzielle Zwecke nutzt[^kommerziell].
 
-### Attribution
+[^credit]: Zitat von [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de#deed-conditions): *Soweit mitgeteilt, müssen Sie die Namen der Urhebers und Zuschreibungsempfänger, einen Rechtevermerk, einen Lizenzvermerk, einen Haftungsausschluss und einen Link zum Material angeben. Die Versionen der CC-Lizenzen vor Version 4.0 fordern außerdem, dass Sie den Titel des Materials angeben, sofern er Ihnen mitgeteilt wurde, und können auch andere geringfügige Abweichungen enthalten. [Weitere Informationen](https://wiki.creativecommons.org/License_Versions#Detailed_attribution_comparison_chart).*<br><br>Lese auch den folgenden Absatz "Namensnennung".
 
-If you're inclined to give credit --- a link back to the source article attributed to either [DOMINICREICH.COM]({% link _pages/terms.md %}) or [Dominic Reich]({% link _pages/terms.md %}) is good enough for me. If you don't want to attribute my content, hey that's cool too. Just don't go stealing stuff and republishing it as your own.
+[^changes]: Zitat von [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de#deed-conditions): *Gemäß Version 4.0 müssen sie angeben, ob Sie das Material verändert haben, und müssen Angaben zu davor bereits vorgenommenen Änderungen bestehen lassen. Gemäß Version 3.0 und früherer Lizenzversionen ist die Angabe von Veränderungen nur dann verpflichtend, wenn Sie eine Abwandlung erstellen. [Hinweise zur richtigen Kennzeichnung](https://wiki.creativecommons.org/Best_practices_for_attribution#This_is_a_good_attribution_for_material_you_modified_slightly). [Weitere Informationen](https://wiki.creativecommons.org/License_Versions#Modifications_and_adaptations_must_be_marked_as_such).*
 
-*Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}*
+[^kommerziell]: Zitat von [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de#deed-conditions): *Kommerziell ist eine Nutzung dann, wenn sie in erster Linie auf kommerziell relevante Vorteile oder auf eine Vergütung abzielt. [Weitere Informationen](https://wiki.creativecommons.org/Frequently_Asked_Questions#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses.3F).*
+
+### Namensnennung
+
+Solltest du mich als Quelle angeben wollen, so sollte es in der Regel genügen
+einen Link zum Original-Artikel unter Namensnennung von entweder
+**[dominicreich.com][dr]**, **[DOMINICREICH.COM][dr]**, **[DOMINIC REICH][dr]**
+oder **[Dominic Reich][dr]** zu setzen.
+
+[dr]: https://dominicreich.com
+
+*Zuletzt überarbeitet: {{ page.last_modified_at | date: "%B %d, %Y" }}*

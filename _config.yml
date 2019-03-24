@@ -47,7 +47,7 @@ webmention_url: "https://webmention.io/dominicreich.com/webmention"
 # Site owner
 author:
   name: "Dominic Reich"
-  uri: &uri "https://dominicreich.com/ueber-mich/"
+  uri: &uri "https://dominicreich.com/about/"
   url: *uri
   bio: "Elektriker, Schaler, Hobby-Admin, Möchtegernfotograf und -Bergsteiger."
   picture: "/assets/images/dominic-reich-selfie.jpg"
@@ -179,7 +179,7 @@ defaults:
       type: recipes
     values:
       layout: post
-      byline: true
+      byline: false
       read_time: true
       comments: true
       support: false
@@ -236,7 +236,7 @@ defaults:
       type: posts
     values:
       layout: post
-      byline: true
+      byline: false
       read_time: true
       comments: true
       support: true
@@ -258,7 +258,7 @@ defaults:
     values:
       layout: post
       permalink: /portfolio/:categories/:title/
-      byline: true
+      byline: false
       read_time: true
       comments: true
       support: true

@@ -14,6 +14,13 @@ last_modified_at: 2019-01-21T11:14:30+01:00
 toc: true
 ---
 
+Years ago we all played a game called Battlefield 2. The game bound us together
+as a team and family.
+
+{% figure caption:"We had a lot of fun. Thank you all for the good times!" %}
+![wiw site logo sepia](/assets/images/wiw-logo-sepia.jpg)
+{% endfigure %}
+
 {% notice %}
 #### Migration status
 
@@ -23,15 +30,8 @@ This page looks good but I might have forgotten something. Please
 #### Deutsche Version
 
 Es wird **keine deutsche Version** dieser Seite geben. Der Clan sprach englisch,
-und so wird diese Seite publiziert.
+und so wird auch diese Seite publiziert.
 {% endnotice %}
-
-Years ago we all played a game called Battlefield 2. The game bound us together
-as a team and family.
-
-{% figure caption:"We had a lot of fun. Thank you all for the good times!" %}
-![wiw site logo sepia](/assets/images/wiw-logo-sepia.jpg)
-{% endfigure %}
 
 ## I became member
 

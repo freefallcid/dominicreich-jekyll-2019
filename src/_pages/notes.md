@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /notizen/
-# category: notizen
 title: &title Notizen
 alt_title: *title
 modified:

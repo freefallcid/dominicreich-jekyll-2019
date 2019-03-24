@@ -6,38 +6,41 @@ image:
   feature: *image
   width: 1600
   height: 640
-  # caption: [Foto von **geralt** via Pixabay](https://pixabay.com/photo-2794672/)
+  caption: "[Foto von **geralt** via Pixabay](https://pixabay.com/photo-2794672/)"
 date: 2016-08-26
-last_modified_at: 2019-02-16 18:11:56
-excerpt: Preferred methods of sending your questions, inquires, messages, and love letters to me.
+last_modified_at: 2019-03-24T20:10:16+01:00
+excerpt: Bevorzugte Methoden um mit mir Kontakt aufzunehmen.
 ---
 
-Have questions about me, this website, or the things that I publish here?
+Hast du Fragen über mich, diese Webseite oder die Artikel bzw. Beiträge, die ich
+hier veröffentliche?
 
-Use the contact form below to get in contact with me---this is the easiest way for a first contact.
-I will close down the social memberships that I currently maintain---I do not have the time needed for those to manage.
+Benutze das Formular hier um mir eine Email zu senden. Dies ist der einfachste
+Weg mich zu kontaktieren -- ich antworte in der Regel am Abend oder am nächsten
+Tag. Ich bin nicht sehr aktiv in sozialen Netzwerken unterwegs, weshalb dort
+eine Antwort von mir meist länger dauert.
 
 <form id="contact" name="contact" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="POST" novalidate data-netlify-recaptcha="true" data-netlify="true" netlify-honeypot="comment">
   <div>
     <label id="lblName" for="name">Name
-      <input id="name" name="name" type="text" spellcheck="false" maxlength="255" required placeholder="Your name">
+      <input id="name" name="name" type="text" spellcheck="false" maxlength="255" required placeholder="Dein Name">
     </label>
   </div>
   <div>
-    <label id="lblEmail" for="email">Email address <small>(will remain private)</small>
-      <input id="email" name="email" type="email" spellcheck="false" maxlength="255" required placeholder="email@address.com">
+    <label id="lblEmail" for="email">Email-Adresse <small>(wird nicht veröffentlicht)</small>
+      <input id="email" name="email" type="email" spellcheck="false" maxlength="255" required placeholder="email@example.com">
     </label>
   </div>
   <div>
-    <label id="lblHeardOf" for="heard-of">How you'd hear about my site?
-      <input id="heard-of" name="heard-of" type="text" spellcheck="true" maxlength="255" placeholder="e.g. web search or another forum (please name it or address it)">
+    <label id="lblHeardOf" for="heard-of">Wie hast du von meiner Seite erfahren?
+      <input id="heard-of" name="heard-of" type="text" spellcheck="true" maxlength="255" placeholder="z.Bsp.: Web-Forum oder Suche (bitte gib einen Namen oder eine Adresse an)">
     </label>
   </div>
   <div>
-    <label>Message: <textarea name="message" spellcheck="true" rows="10" cols="50" required placeholder="Hi there, I'd like to..."></textarea></label>
+    <label>Nachricht: <textarea name="message" spellcheck="true" rows="10" cols="50" required placeholder="Hallo, ..."></textarea></label>
   </div>
   <div>
-    <label id="lblFile" for="file">Files or photos <small>(if you need to attach)</small>
+    <label id="lblFile" for="file">Dateien (Bilder, Fotos, Screenshots) <small>(falls nötig)</small>
       <input id="file" name="file" type="file" accept="image/*,.pdf" multiple>
     </label>
   </div>
@@ -45,11 +48,11 @@ I will close down the social memberships that I currently maintain---I do not ha
   <div class="g-recaptcha form__group" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
   <script async src="https://www.google.com/recaptcha/api.js"></script>
   <div>
-    <button id="submit" name="submit" type="submit" class="btn">Send message</button>
-    <button id="reset" name="reset" type="reset" class="btn">Reset all input</button>
+    <button id="submit" name="submit" type="submit" class="btn">Nachricht abschicken</button>
+    <button id="reset" name="reset" type="reset" class="btn">Eingaben zurücksetzen</button>
   </div>
   <div class="hidden">
-    <label id="lblComment" for="comment">Do not fill this out
+    <label id="lblComment" for="comment">Nicht ausfüllen
       <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
       <input type="hidden" id="idstamp" name="idstamp" value="WW91J3JlIHdlbGNvbWUhCg==">
     </label>

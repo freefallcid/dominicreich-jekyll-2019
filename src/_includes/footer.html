@@ -1,15 +1,16 @@
 <footer id="footer" class="site__footer">
   <ul class="menu">
-    <!-- <li><a href="{{ '/support/' | relative_url }}">Support me</a></li> -->
+    <li><a href="{{ '/support/' | relative_url }}">Unterstütze mich</a></li>
     <!-- <li><a href="{{ '/faqs/' | relative_url }}">FAQs</a></li> -->
-    <!-- <li><a href="{{ '/terms/' | relative_url }}">Terms &amp; policies</a></li> -->
+    <li><a href="{{ '/terms/' | relative_url }}">Nutzungsbedingungen</a></li>
+    <li><a href="{{ '/Kontakt/' | relative_url }}">Kontakt</a></li>
     <li><a href="{{ '/sitemap/' | relative_url }}">Sitemap</a></li>
     {% if site.author.photogallery %}
       <li><a href="{{ site.author.photogallery }}" rel="me">
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-camera' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
-        <span class="visually-hidden">Photo Gallery</span>
+        <span class="icon__label">Fotogallerie</span>
       </a></li>
     {% endif %}
     {% if site.author.twitter %}
@@ -41,7 +42,7 @@
         <svg class="icon" width="16px" height="16px">
           <use xlink:href="{{ 'icons.svg#icon-android' | prepend: 'assets/icons/' | relative_url }}"></use>
         </svg>
-        <span class="visually-hidden">xda-developers</span>
+        <span class="icon__label">xda-developers</span>
       </a></li>
     {% endif %}
     {% if site.feed.path %}

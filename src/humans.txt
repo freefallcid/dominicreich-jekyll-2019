@@ -7,6 +7,7 @@
                                              relaunched 2019
   Site Owner:   Dominic Reich
   Reddit:       @cid85
+  Twitter:      @freefall0
   Location:     Ötztal, Tirol, Austria
 
   Designer:     Michael Rose
@@ -14,7 +15,8 @@
   Location:     Buffalo, New York USA
 
   Thanks to Michael Rose for creating such a nice theming
-  on his own website <https://mademistakes.com>.
+  on his own website <https://mademistakes.com>. The designer is
+  not related to my website. The design got adopted to fit my personal needs.
 
   Last updated: {{ site.time }}
   Language:     German
