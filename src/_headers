@@ -3,6 +3,7 @@
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: no-referrer
   X-Content-Type-Options: nosniff
-  # Access-Control-Allow-Origin: https://dominicreich.com https://dev.staticman.net
-  Access-Control-Allow-Origin: "*"
-  Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src https://dev.staticman.net https://www.google.com/recaptcha/api.js 'self'; style-src 'self'; font-src 'self';
+  Access-Control-Allow-Origin: https://dominicreich.com
+  # Access-Control-Allow-Origin: https://dominicreich.com https://api.staticman.net
+  # Access-Control-Allow-Origin: "*"
+  # Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src https://api.staticman.net https://www.google.com/recaptcha/api.js 'self'; style-src 'self'; font-src 'self';
