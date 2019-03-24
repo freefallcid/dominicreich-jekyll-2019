@@ -85,7 +85,7 @@ Der Haupt-Feed für alle Artikel und Seiten auf DOMINICREICH.COM.
 
 - Blog-Artikel: [{{ 'artikel.xml' | relative_url }}]({{ 'artikel.xml' | relative_url }})
 - Notizen: [{{ 'notizen.xml' | relative_url }}]({{ 'notizen.xml' | relative_url }})
-- Recipes: [{{ 'rezepte.xml' | relative_url }}]({{ 'rezepte.xml' | relative_url }})
+- Rezepte: [{{ 'rezepte.xml' | relative_url }}]({{ 'rezepte.xml' | relative_url }})
 - Software: [{{ 'software.xml' | relative_url }}]({{ 'software.xml' | relative_url }})
-- Photographs: [{{ 'fotografie.xml' | relative_url }}]({{ 'fotografie.xml' | relative_url }})
-- Timelapse videos: [{{ 'zeitraffer.xml' | relative_url }}]({{ 'zeitraffer.xml' | relative_url }})
+- Fotografie: [{{ 'fotografie.xml' | relative_url }}]({{ 'fotografie.xml' | relative_url }})
+- Zeitraffer-Videos: [{{ 'zeitraffer.xml' | relative_url }}]({{ 'zeitraffer.xml' | relative_url }})
