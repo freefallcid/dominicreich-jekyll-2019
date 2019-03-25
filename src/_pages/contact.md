@@ -44,9 +44,7 @@ eine Antwort von mir meist länger dauert.
       <input id="file" name="file" type="file" accept="image/*,.pdf" multiple>
     </label>
   </div>
-  <!-- <div data-netlify-recaptcha="true"></div> -->
-  <div class="g-recaptcha form__group" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
-  <script async src="https://www.google.com/recaptcha/api.js"></script>
+  <div data-netlify-recaptcha="true"></div>
   <div>
     <button id="submit" name="submit" type="submit" class="btn">Nachricht abschicken</button>
     <button id="reset" name="reset" type="reset" class="btn">Eingaben zurücksetzen</button>
