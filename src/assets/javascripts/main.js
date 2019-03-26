@@ -135,7 +135,7 @@ myToggle.addEventListener(
           .removeClass("danger")
           .addClass("success");
         showAlert(
-          '<strong>Danke für deinen Kommentar!</strong> Es <a href="https://github.com/freefallcid/dominicreich-jekyll-2019/pulls">wurde dem Repository hinzugefüg</a> und wird veröffentlicht, wenn es freigegeben wurde.'
+          '<strong>Danke für deinen Kommentar!</strong> Es <a href="https://github.com/freefallcid/dominicreich-jekyll-2019/pulls">wurde dem Repository hinzugefügt</a> und wird veröffentlicht, wenn es freigegeben wurde.'
         );
       },
       error: function(err) {
