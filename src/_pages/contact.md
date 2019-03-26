@@ -20,7 +20,7 @@ Weg mich zu kontaktieren -- ich antworte in der Regel am Abend oder am nächsten
 Tag. Ich bin nicht sehr aktiv in sozialen Netzwerken unterwegs, weshalb dort
 eine Antwort von mir meist länger dauert.
 
-<form id="contact" name="contact" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="POST" novalidate data-netlify-recaptcha="true" data-netlify="true" netlify-honeypot="comment">
+<form id="contact" name="contact" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="POST" data-netlify-recaptcha="true" data-netlify="true" netlify-honeypot="comment">
   <div>
     <label id="lblName" for="name">Name
       <input id="name" name="name" type="text" spellcheck="false" maxlength="255" required placeholder="Dein Name">
@@ -51,8 +51,7 @@ eine Antwort von mir meist länger dauert.
   </div>
   <div class="hidden">
     <label id="lblComment" for="comment">Nicht ausfüllen
-      <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
-      <input type="hidden" id="idstamp" name="idstamp" value="WW91J3JlIHdlbGNvbWUhCg==">
+      <input name="comment">
     </label>
   </div>
 </form>
