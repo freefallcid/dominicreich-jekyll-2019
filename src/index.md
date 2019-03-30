@@ -13,9 +13,10 @@ section:
       border: 1px solid #eee;">
       Dies ist eine <strong>Vorschau meiner Webseite</strong>. Womöglich sind
       manche Seiten noch in Englisch.</div>
-      Hallo! Mein Name ist Dominic Reich und ich leben im Ötztal. Ich habe ein
-      paar kleine [Programme für Windows](/portfolio/software/) geschrieben und
-      veröffentliche gelegentlich das eine oder andere [Foto](/portfolio/fotografie/)
+      Hallo! Mein Name ist Dominic Reich und ich lebe im Ötztal, einem Seitental
+      im Tiroler Oberland. Ich habe ein paar kleine
+      [Programme für Windows](/portfolio/software/) geschrieben und veröffentliche
+      gelegentlich das eine oder andere [Foto](/portfolio/fotografie/)
       bzw. [Zeitraffer-Video](/portfolio/zeitraffer/).
     actions:
       - label: "mehr über mich →"
