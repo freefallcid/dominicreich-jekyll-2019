@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: Software
-excerpt: Einige Tools, die ich in Visual Basic geschrieben habe.
-#introduction: ""
+excerpt: &excerpt Einige Tools, die ich in Visual Basic geschrieben habe.
+introduction: *excerpt
 image: 
   path: &image /assets/images/coding-924920_1920.jpg
   width: 1920
@@ -16,7 +16,7 @@ last_modified_at: 2019-03-17T19:59:44+01:00
 order: 3
 ---
 
-Einige meiner Tools, die eventuell hilfreich sein könnten :wink:.
+<!-- Einige meiner Tools, die eventuell hilfreich sein könnten :wink:. -->
 
 {% notice %}
 #### Ein paar Infos gleich vorweg

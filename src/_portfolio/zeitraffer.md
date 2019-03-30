@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: Zeitraffer-Videos
-excerpt: Some sweet timelapse videos made out of a shitload of images.
+excerpt: &excerpt Some sweet timelapse videos made out of a shitload of images.
+introduction: *excerpt
 image: 
   path: &image /assets/images/oetz-abend.jpg
   width: 1920

@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: Fotografie
-excerpt: Meine besten Fotos (wie ich finde)
+excerpt: &excerpt Meine besten Fotos (wie ich finde)
+introduction: *excerpt
 image: 
   path: &image /assets/images/soelden-night-feature.jpg
   width: 2200
