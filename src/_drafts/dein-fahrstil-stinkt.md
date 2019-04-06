@@ -61,6 +61,10 @@ Doch sollte man das Fernlicht bei Gegenverkehr ausschalten (das Licht sozusagen
 
 ## Ablenkung
 
+{% figure caption:"Bleib' deinem Fahrstreifen treu -- lass dich nicht ablenken." %}
+![Spurtreue](/assets/images/auto-spurtreue.jpg)
+{% endfigure %}
+
 ### Mobiltelefon
 
 **Telefonieren ohne Freisprecheinrichtung**
