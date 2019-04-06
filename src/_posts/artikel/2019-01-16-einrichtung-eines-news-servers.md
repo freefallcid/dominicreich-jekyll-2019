@@ -9,7 +9,7 @@ image:
   width: 2288
   height: 744
   teaser: /assets/images/howto-news-server-teaser.jpg
-  caption: Auszug aus der Konfiguration
+  # caption: Auszug aus der Konfiguration
 twitter:
   card: summary_large_image
 categories: [artikel]
