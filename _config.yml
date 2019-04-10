@@ -345,6 +345,7 @@ defaults:
       path: _drafts
     values:
       layout: post
+      read_time: true
   - scope:
       path: admin
     values:
