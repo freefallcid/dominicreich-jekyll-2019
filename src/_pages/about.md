@@ -2,7 +2,7 @@
 permalink: /about/
 title: Über Dominic Reich
 date: 2016-08-26
-last_modified_at: 2019-03-24T10:35:56+01:00
+last_modified_at: 2019-04-18 18:03:49
 excerpt: >
   Dominic Reich arbeitet derzeit als Schaler im wunderschönen Ötztal.
   Dominic Reich is a construction worker from Längenfeld.
@@ -61,9 +61,9 @@ Zuhause verwende ich mehrere verschiedene Geräte:
 | Lenovo T420       | FreeBSD STABLE         | [Amazon][t420]     |
 | Lenovo T60        | N/A                    | [Amazon][t60]      |
 | Asus X73SV-TY152V | Windows 7 Pro          | [Amazon][asus]     |
-| iPad mini 4       | iOS 12                 | [Amazon][ipad]     |
-| iPhone 7+         | iOS 12                 | |
-| iPhone X          | iOS 12                 | |
+| iPad mini 4       | iOS                    | [Amazon][ipad]     |
+| iPhone 7+         | iOS                    | |
+| iPhone X          | iOS                    | |
 | Galaxy S5         | Nethunter              | [Amazon][galaxys5] |
 | APU 2C4           | opnSense               | [Hersteller-Info][apu2c4]   |
 | APU 1D4           | opnSense               | [Amazon][apu1d4]   |
