@@ -109,7 +109,7 @@ my own decision to take away some stress that I would probably just make myself
 *Puh, that wording was not good, but I have no idea how to put that together that
 it actually makes sense :laughing:*
 
-## I left the clan
+## I left the clan (not)
 
 I never left the clan officially[^clan] --- but in fact I wasn't that present in
 the clan around the 23<sup>rd</sup> of November 2014.
