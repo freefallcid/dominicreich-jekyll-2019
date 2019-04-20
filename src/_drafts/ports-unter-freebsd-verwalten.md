@@ -2,12 +2,12 @@
 title: Ports unter FreeBSD verwalten
 excerpt: |
   Verwalte installierte Ports unter FreeBSD.
-image:
-  path: &image /assets/images/freebsd.jpg
-  feature: *image
-  width: 1920
-  height: 800
-  caption: "[Foto von **Unbekannt** via Unsplash](https://)"
+# image:
+#   path: &image /assets/images/freebsd.jpg
+#   feature: *image
+#   width: 1920
+#   height: 800
+#   caption: "[Foto von **Unbekannt** via Unsplash](https://)"
 categories: [notizen]
 tags: [freebsd, ports]
 # toc: true
@@ -33,17 +33,15 @@ Dann sehen wir uns kurz an, für welche Ports es neue Pakete gibt:
 
 ``` terminal
 # pkg version -vl\<
-chromium-72.0.3626.121_1           <   needs updating (index has 73.0.3683.103_1)
-de-libreoffice-6.0.7               <   needs updating (index has 6.2.2)
-gnuradio-3.7.13.4_3                <   needs updating (index has 3.8.g20190309_2)
-gqrx-2.11.5_6,1                    <   needs updating (index has 2.11.5_7,1)
-gr-osmosdr-0.1.4.99_4,1            <   needs updating (index has 0.1.4.99_6,1)
-vlc-3.0.6_8,4                      <   needs updating (index has 3.0.6_12,4)
-wsjtx-2.0.0_1                      <   needs updating (index has 2.0.1_1)
-yarn-1.13.0                        <   needs updating (index has 1.15.2)
+de-libreoffice-6.0.7    <   needs updating (index has 6.2.2)
+gqrx-2.11.5_6,1         <   needs updating (index has 2.11.5_7,1)
+vlc-3.0.6_8,4           <   needs updating (index has 3.0.6_12,4)
+yarn-1.13.0             <   needs updating (index has 1.15.2)
 ```
+Wenn man der Spitzklammer keinen Backslasch voranstellen will, kann man den
+Befehl auch anders schreiben[^backslash]: `pkg version -vl"<"`. Jetzt kann das Update starten:
 
-Jetzt kann das Update starten:
+[^backslash]: Da die Spitzklammer normalerweise dazu verwendet wird, Dateien umzuleiten, sollte die Spitzklammer hier entweder in Gänsefüßchen stehen oder ein Backslasch vorangestellt sein, damit die Spitzklammer dem Programm (`pkg`) als Argument übergeben wird.
 
 ``` terminal
 # portupgrade -acDrv
