@@ -1,14 +1,14 @@
 ---
 title: Dein Fahrstil stinkt\!
-excerpt: >
+excerpt: |
   Ich möchte dir hier ein paar Kleinigkeiten zeigen, die du im Straßenverkehr
   tunlichst vermeiden solltest.
-image:
-  path: &image /assets/images/headlights-1150066_1920.jpg
-  feature: *image
-  width: 1920
-  height: 800
-  caption: "[Foto von **Free-Photos** via Pixabay](https://pixabay.com/photos/headlights-roads-night-highways-1150066/)"
+# image:
+#   path: &image /assets/images/headlights-1150066_1920.jpg
+#   feature: *image
+#   width: 1920
+#   height: 800
+#   caption: "[Foto von **Free-Photos** via Pixabay](https://pixabay.com/photos/headlights-roads-night-highways-1150066/)"
 categories: [artikel]
 tags: [auto]
 toc: true

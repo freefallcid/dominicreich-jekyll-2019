@@ -5,14 +5,14 @@ excerpt: >
   and the Zoraki 917 by [Atak Arms](http://atakarms.com/default.html?l=lang1).
   They are blank guns and allowed for self-defense in Austria. You may carry
   them concealed if you are over 18 years old and reliable.
-image:
-  path: &image /assets/images/blank-guns.jpg
-  feature: *image
-  width: 1920
-  height: 800
-  # caption: [Photo by **unbekannt** on Unsplash](#)
+# image:
+#   path: &image /assets/images/blank-guns.jpg
+#   feature: *image
+#   width: 1920
+#   height: 800
+#   caption: [Photo by **unbekannt** on Unsplash](#)
 categories: [artikel]
-tags: [blank guns, röhm, zoraki]
+tags: [ssw, röhm, zoraki]
 toc: true
 #support: false
 #comments: true
