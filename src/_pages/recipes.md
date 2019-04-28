@@ -8,7 +8,7 @@ excerpt: >
 # last_modified_at: 
 ---
 
-{% assign recipes = site.recipes |  sort: "date" | reverse %}
+{% assign recipes = site.rezepte |  sort: "date" | reverse %}
 
 {{ page.excerpt | markdownify }}
 

@@ -2,7 +2,7 @@
 layout: post
 title: Scharfe Honig-Sauce
 excerpt: &excerpt |
-  Eine scharfe Sauce fürs Barbecue -- oder generell zu Fleischspeisen.
+  Eine scharfe Sauce fürs Barbecue oder zur "gewöhnlichen" Fleischspeise.
 introduction: *excerpt
 # image: 
 #   path: &image /assets/images/weisses-muas.jpg
