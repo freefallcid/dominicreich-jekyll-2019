@@ -12,6 +12,7 @@ introduction: *excerpt
 #   caption: >
 #     Foto von mir
 tags: []
+date: 2019-04-28
 # work: Visual Artwork
 # last_modified_at: 
 # order: 1
