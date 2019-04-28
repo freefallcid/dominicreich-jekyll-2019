@@ -3,8 +3,8 @@ layout: page
 permalink: /rezepte/
 title: &title Rezepte
 excerpt: >
-  Eine nette Ansammlung toller Rezepte (die ich besser nicht vergessen sollte).
-date: 2016-08-26
+  Eine nette Ansammlung toller Rezepte (die ich nicht vergessen möchte).
+# date: 
 # last_modified_at: 
 ---
 

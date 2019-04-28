@@ -182,7 +182,7 @@ defaults:
     values:
       layout: post
       byline: false
-      read_time: true
+      read_time: false
       comments: true
       support: false
       breadcrumbs:
