@@ -25,7 +25,7 @@ as a team and family.
 #### Migration status
 
 This page looks good but I might have forgotten something. Please
-[**report errors or bugs**](/contact/) to me. Thank you!
+[**report errors or bugs**](/kontakt/) to me. Thank you!
 
 #### Deutsche Version
 
@@ -156,7 +156,7 @@ a shitload of topics.
 [^clan]: But I tried xD --- I announced to not have enough time to participate in clan management and clan life as a whole. Nowadays (a few years later) I realized that many (if not all) people in the clan went AWOL. Some people pop by from time to time. And some I haven't seen for ages.
 
 {% notice %}
-#### Update
+#### Future plans
 
 A new version is planned. But it's not on top of my priority list.
 {% endnotice %}
