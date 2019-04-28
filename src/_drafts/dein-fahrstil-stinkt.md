@@ -128,7 +128,7 @@ Traktor und die nachfolgende Kolonne mit eventuell unerfahrenen Autofahrern ins
 Tal hinein. In dieser Konstellation gibt es nicht viele Möglichkeiten vorbeizufahren.
 Ein Autofahrer wird sich das Überholmanöver auch zweimal überlegen. Dazu kommt
 dann noch meistens, dass die Menschen viel zu wenig Abstand zueinander halten.
-Das mach ein Überholen dann meist unmöglich.
+Das macht ein Überholen von einzelnen Autos dann auch meist unmöglich.
 
 ## Mobiltelefon
 
