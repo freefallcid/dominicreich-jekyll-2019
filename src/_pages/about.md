@@ -92,7 +92,7 @@ V 360°-Kamera, eine Canon IXUS Kompaktkamera sowie mein Telefon für etwaige
 Schnappschüsse. Nachfolgend siehst du eine kleine Übersicht über die Objektive, die
 ich mit meiner 80D verwende.
 
-| Jahr | Marke   | Modell                           | Kaufen?     |
+| Seit | Marke   | Modell                           | Kaufen?     |
 | :-   | :-      | :-                               | :-          |
 | 2008 | Canon   | 70--200mm 1:2,8 EF IS USM        | [Amazon][1] |
 | 2009 | Sigma   | 10--20mm 1:4-5,6 EX DC HSM       | [Amazon][2] |
