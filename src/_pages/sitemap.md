@@ -4,7 +4,7 @@ permalink: /sitemap/
 title: Sitemap
 excerpt: Eine Auflistung aller verfügbaren Seiten auf dominicreich.com
 date: 2016-08-26
-last_modified_at: 2019-03-24T10:35:48+01:00
+last_modified_at: 2019-05-05T19:41:47+02:00
 toc: true
 ---
 
