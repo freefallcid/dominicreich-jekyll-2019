@@ -87,7 +87,7 @@ var pageDimensions = [
 //   into /_includes/critical-archive.css
 gulp.task("styles:critical:archive", () => {
   return gulp
-    .src(paths.tempDir + paths.siteDir + "articles/index.html")
+    .src(paths.tempDir + paths.siteDir + "artikel/index.html")
     .pipe(
       critical({
         base: paths.tempDir,
@@ -107,7 +107,7 @@ gulp.task("styles:critical:archive", () => {
 //   into /_includes/critical-post.css
 gulp.task("styles:critical:post", () => {
   return gulp
-    .src(paths.tempDir + paths.siteDir + "articles/insanity-on-stage/index.html")
+    .src(paths.tempDir + paths.siteDir + "artikel/insanity-on-stage/index.html")
     .pipe(
       critical({
         base: paths.tempDir,
