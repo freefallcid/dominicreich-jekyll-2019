@@ -185,6 +185,7 @@ defaults:
       read_time: false
       comments: true
       support: false
+      toc: true
       breadcrumbs:
         - label: "Rezepte"
           url: /rezepte/

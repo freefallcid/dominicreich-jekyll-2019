@@ -3,7 +3,10 @@ layout: page
 permalink: /rezepte/
 title: &title Rezepte
 excerpt: >
-  Eine nette Ansammlung toller Rezepte (die ich nicht vergessen möchte).
+  Eine kleine Sammlung toller Rezepte. Die Rezepte sind in der Regel (auch wenn
+  die Quellenangabe eventuell fehlt) nicht von mir -- du findest hier lediglich
+  tolle Rezepte, die ich selbst verwende und toll finde.
+
 # date: 
 # last_modified_at: 
 ---
