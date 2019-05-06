@@ -22,15 +22,6 @@ I try to keep this file up to date but I cannot guarantee anything.
 `feature` images will be converted into various sizes to be responsively served 
 by browsers that support the [`srcset` attribute](https://responsiveimages.org/).
 
-For cover images with text overlay add `cover: true` to the `image` object:
-
-```yaml
-image:
-  path: /assets/images/your-image.jpg
-  cover: true
-  ...
-```
-
 ### Content helpers
 
 #### Notices
