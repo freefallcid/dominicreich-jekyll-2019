@@ -304,8 +304,8 @@ defaults:
   #     seo:
   #       type: "CreativeWork"
   - scope:
-      path: _work
-      type: work
+      path: _portfolio
+      type: portfolio
     values:
       layout: work
       category: portfolio
