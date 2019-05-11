@@ -82,8 +82,9 @@ bzw. auf andere Gebiete ausgedehnt. Darunter fällt zum Beispiel die
 **digitale Fotografie** als auch der **Amateurfunk**. Fotos veröffentliche ich
 mittlerweile nur mehr über meinen Netzwerkspeicher. Der Link zu
 [meiner Fotogallerie](https://drtom0.myds.me/photo/#!Albums) befindet sich im
-Footer. Gelegentlich erstelle ich auch Zeitraffer-Videos -- dem nötigen
-Zeitaufwand zu verdanken fallen diese jedoch noch rarer aus als meine Fotos.
+Footer dieser Webseite. Gelegentlich erstelle ich auch Zeitraffer-Videos -- dem
+nötigen Zeitaufwand zu verdanken fallen diese jedoch noch rarer aus als meine
+Fotos.
 
 ## Fotografie-Equipment
 

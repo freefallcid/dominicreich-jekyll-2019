@@ -145,6 +145,11 @@ und nicht sonderlich schnell zu fahren.
 Das Tippen von Nachrichten sollte überhaupt nur im Stand geschehen. Man sieht
 häufig Autofahrer, die andeuten am Straßenrand hinauszufahren und dann plötzlich
 das Auto wieder zurück in die Spur reißen. Das Tippen am Touch-Screen bedarf
-meiner Ansich nach mehr Aufmerksamkeit und Konzentration als ein Telefongespräch.
+meiner Ansich nach mehr Aufmerksamkeit und Konzentration als ein
+Telefongespräch.
 
 ## Sonstige Ablenkung
+
+Lass dich nicht ablenken. Fahre konzentriert und aufmerksam. Schau weit genug
+nach vorne, sodass du vorausschauend fahren kannst. Bremse nicht unnötig und
+behindere keine anderen Verkehrsteilnehmer.

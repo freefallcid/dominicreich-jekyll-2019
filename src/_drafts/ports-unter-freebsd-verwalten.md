@@ -28,12 +28,12 @@ In der Regel installiere ich neue Ports im klassischen Stil: ich öffne ein
 Terminal und wechsle zum Verzeichnis `/usr/ports`. Von dort aus lassen sich alle
 Ports ganz schnell durchsuchen, etwa mit `make search` oder über
 `echo */$portname`. Wenn der benötigte Port gefunden wurde wechsle ich in dessen
-Verzeichnis und starte meistens ein `make config-recursive`. Danach kann auch
-schon mit `make install clean` installiert werden.
+Verzeichnis und starte meistens ein `make config-recursive`. Danach kann der
+Port auch schon mit `make install clean` installiert werden.
 
 ## Ports aktualisieren
 
-Es gibt viele Ports, die einem das Management mit den Ports vereinfachen. Ich
+Es gibt viele Tools, die einem das Management mit den Ports vereinfachen. Ich
 habe bislang nur wenige davon getestet. Vorweg genommen sei, dass portmaster als
 Bash-Skript kommt und portupgrade ruby-Abhängigkeiten hat.
 
