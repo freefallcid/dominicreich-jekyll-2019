@@ -49,6 +49,23 @@ Falls du das Abblendlicht automatisch steuern lassen kannst solltest du trotzdem
 das momentan geregelte Licht kontrollieren, denn auch die Automatik kann manchmal
 falsch liegen.
 
+## Überholen
+
+Überhole nur, wenn du dir sicher bist, dass du a) ausreichend Zeit und Strecke
+zur Verfügung hast (mind. 20km/h schneller als das zu überholende Fahrzeug) und
+b) niemanden gefährdest.
+
+Im folgenden Video siehst du, wie ich gemäßigt auf jemanden vor mir aufschließe.
+Der Fahrer hinter mir entschließt sich zum Überholen und überholt (Gott sei Dank)
+nur mit etwas schnellerer Geschwindigkeit als ich mich fortbewege. Das Auto vor
+mir möchte links abbiegen (der gesetzte Blinker lässt darauf schließen). Es
+kommt zum Glück zu keinem Zusammenstoß und beide Fahrzeuge können ihre Fahrt
+ohne Schaden fortsetzen -- wenn auch mit Schrecken.
+
+{% youtube wDa2RIKVAwc %}
+
+Bei Kreuzungen ist es durchaus ratsam nicht zu überholen.
+
 ## Abblendlicht und Fernlicht
 
 Wenn man nachts unterwegs ist, fährt man gerne mit eingeschaltetem Fernlicht.
