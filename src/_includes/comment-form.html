@@ -1,7 +1,10 @@
 {% unless page.comments_locked == true %}
   <!-- Start comment form -->
   <div id="respond" class="comment__form">
-    <h2 class="title">Hinterlasse einen Kommentar <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | relative_url }}#respond" style="display:none;">Antworten abbrechen</a></small></h2>
+    <h2 class="title">Hinterlasse einen Kommentar <small><a
+          rel="nofollow" id="cancel-comment-reply-link" href="{{
+          page.url | relative_url }}#respond"
+    style="display:none;">Antworten abbrechen</a></small></h2>
     <form id="comment-form" class="js-form" method="post" action="https://api.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
       <div class="form__group">
         <label for="comment-form-name">Name
