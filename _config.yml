@@ -2,7 +2,7 @@
 source: .tmp/src
 destination: .tmp/dist
 
-title: "DOMINIC REICH"
+title: "dominicreich.com"
 description: "Persönliche Webseite von Dominic Reich."
 logo: &logo "/assets/images/android-chrome-384x384.png"
 locale: "de_AT"
