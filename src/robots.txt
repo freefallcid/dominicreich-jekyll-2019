@@ -2,4 +2,5 @@
 ---
 User-agent: *
 Disallow:
+Disallow: /_rezepte/
 Sitemap: {{ site.url }}/sitemap.xml

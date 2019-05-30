@@ -96,7 +96,6 @@ include:
   - _pages
   - _redirects
   - _headers
-  - _rezepte
 exclude:
   - .asset-cache
   - .bundle
