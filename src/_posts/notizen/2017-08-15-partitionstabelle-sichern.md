@@ -1,5 +1,5 @@
 ---
-title: Partitiontabelle sichern
+title: Partitionstabelle sichern
 excerpt: >
   Erstelle eine exakte Kopie der Partitiontabelle und kopiere diese auf eine
   weitere (gleich große) Festplatte.
