@@ -1,22 +1,17 @@
 ---
-layout: page
+layout: archive
 permalink: /rezepte/
 title: &title Rezepte
-excerpt: >
+alt_title: *title
+excerpt: &excerpt >
   Eine kleine Sammlung toller Rezepte. Die Rezepte sind in der Regel (auch wenn
   die Quellenangabe eventuell fehlt) nicht von mir -- du findest hier lediglich
   tolle Rezepte, die ich selbst verwende und toll finde.
-
-# date: 
-# last_modified_at: 
+introduction: *excerpt
+pagination: 
+  enabled: true
+  category: rezepte
+date: 2016-08-26
 ---
 
-{% assign recipes = site.rezepte |  sort: "date" | reverse %}
-
-{{ page.excerpt | markdownify }}
-
-<div class="gallery">
-  {% for post in recipes %}
-    {% include entry.html class="gallery-item" %}
-  {% endfor %}
-</div>
+{% include popular-topics.html %}

@@ -146,10 +146,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     title: Portfolio
-  rezepte:
-    output: true
-    permalink: /:collection/:path/
-    title: Rezepte
+  # rezepte:
+  #   output: true
+  #   permalink: /:collection/:path/
+  #   title: Rezepte
   components:
     output: false
   colors:
@@ -163,6 +163,7 @@ defaults:
       type: posts
     values:
       layout: post
+      categories: [artikel]
       byline: true
       read_time: true
       comments: true
@@ -177,10 +178,11 @@ defaults:
         card: summary
   # Recipes
   - scope:
-      path: _rezepte
-      type: rezepte
+      path: _posts/rezepte
+      type: posts
     values:
       layout: post
+      categories: [rezepte]
       byline: false
       read_time: false
       comments: true
@@ -194,12 +196,31 @@ defaults:
         twitter: *logo
       twitter:
         card: summary
+  # - scope:
+  #     path: _rezepte
+  #     type: rezepte
+  #   values:
+  #     layout: post
+  #     byline: false
+  #     read_time: false
+  #     comments: true
+  #     support: false
+  #     toc: true
+  #     breadcrumbs:
+  #       - label: "Rezepte"
+  #         url: /rezepte/
+  #     image:
+  #       facebook: *logo
+  #       twitter: *logo
+  #     twitter:
+  #       card: summary
   # Mastering Paper
   - scope:
       path: _posts/fotografie
       type: posts
     values:
       layout: post
+      categories: [fotografie]
       byline: true
       read_time: true
       comments: true
@@ -221,6 +242,7 @@ defaults:
       type: posts
     values:
       layout: post
+      categories: [notizen]
       byline: true
       read_time: true
       comments: true
@@ -239,6 +261,7 @@ defaults:
       type: posts
     values:
       layout: post
+      categories: [zeitraffer]
       byline: false
       read_time: true
       comments: true
@@ -260,6 +283,7 @@ defaults:
       type: posts
     values:
       layout: post
+      categories: [software]
       permalink: /portfolio/:categories/:title/
       byline: false
       read_time: true

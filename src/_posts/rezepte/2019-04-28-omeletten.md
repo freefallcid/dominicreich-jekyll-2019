@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Omeletten
-excerpt: &excerpt Omeletten, wie sie mir am besten schmecken.
-introduction: *excerpt
+excerpt: Omeletten, wie sie mir am besten schmecken.
 # image: 
 #   path: &image /assets/images/weisses-muas.jpg
 #   width: 2200
@@ -11,10 +10,8 @@ introduction: *excerpt
 #   caption: >
 #     Foto von mir
 tags: []
-date: 2019-04-28
-# work: Visual Artwork
 # last_modified_at: 
-# order: 1
+# comments_locked: true
 ---
 
 ## Zutaten
