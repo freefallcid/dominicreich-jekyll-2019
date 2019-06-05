@@ -10,7 +10,7 @@ excerpt: Weißes Muas, wie ich es von Zuhause kenne.
 #   caption: >
 #     Foto von mir
 tags: [tiroler essen]
-# last_modified_at: 
+# last_modified_at: 2019-06-05 21:08:49
 # comments_locked: true
 ---
 
@@ -26,4 +26,5 @@ tags: [tiroler essen]
 
 Etwas Butter in die Pfanne geben, die kalte Milch, Salz und Zucker dazugeben.
 Gleich abschmecken und nachwürzen. Aufkochen und ständig rühren. Wenn die Milch
-zu blubbern beginnt auf minimale Stufe zurückschalten und weiter rühren.
+zu blubbern beginnt auf minimale Stufe zurückschalten und weiter rühren bis das
+Muas fertig ist.
