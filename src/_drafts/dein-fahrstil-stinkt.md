@@ -62,7 +62,11 @@ mir möchte links abbiegen (der gesetzte Blinker lässt darauf schließen). Es
 kommt zum Glück zu keinem Zusammenstoß und beide Fahrzeuge können ihre Fahrt
 ohne Schaden fortsetzen -- wenn auch mit Schrecken.
 
+{% figure caption:"Der junge Herr im weißen Auto hat sich also dazu entschlossen
+uns zu überholen. Auf einer Strecke im Überhol-Verbot sowie mit entgegenkommendem
+Verkehr (als Motorradfahrer)." %}
 {% youtube wDa2RIKVAwc %}
+{% endfigure %}
 
 Bei Kreuzungen ist es durchaus ratsam nicht zu überholen.
 
@@ -124,14 +128,26 @@ Bedrängnis bringen, falls dieser sich an deinem Fahrverhalten erschreckt.
 ![Spurtreue](/assets/images/auto-spurtreue.jpg)
 {% endfigure %}
 
+{% comment %}
+TODO: Finde ein besseres Foto fürs Zeigen einer schlechten Fahrspurwahl. z.Bsp.
+ein Auto, das auf meiner Spur mir entgegenfährt.
+{% endcomment %}
+
 ## Parken
 
 Parke möglichst so, dass du andere Verkehrsteilnehmer dadurch nicht behinderst.
 Das hört sich im Grunde nicht schwer an, doch sieht man schlecht geparkte Autos
-leider viel zu oft.
+leider viel zu oft. Nimm dir die Zeit und setze dein Auto nochmals zurück, um
+danach schön parallel zu den Linien einzuparken. Wenn es sich dann auch noch
+einrichten lässt, dass ein geparktes Auto nur einen Stellplatz in Anspruch nimmt,
+dann wäre das etwas ganz Hervorragendes.
 
-{% figure caption:"Etwas mehr Abstand im Baumarkt wäre toll. Dann könnte ich
-auch meinen Kofferraum öffnen. Arschloch." %}
+Auch
+toll ist es, wenn ein Auto nur einen Parkplatz verwendet und nicht schräg über
+zwei Stellplätze geparkt wird.
+
+{% figure caption:"Man sieht, dass sich mein Kofferraum nur sehr schlecht
+öffnen lässt." %}
 ![Autobahn: Regenwetter](/assets/images/auto-parken.jpg)
 {% endfigure %}
 
@@ -155,7 +171,9 @@ Leute, die während der Autofahrt telefonieren (egal ob mit oder ohne
 Freisprecheinrichtung) fahren meist langsamer und träger, aber vor allem
 tendieren sie dazu, Gelegenheiten zum Überholen nicht wahrzunehmen. Bei Autos
 mit Schaltgetriebe sind diese meist dazu geneigt, die Geschwindigkeit zu halten
-und nicht sonderlich schnell zu fahren.
+und nicht sonderlich schnell zu fahren. Dies kann sich negativ auf den gesamten
+Verkehrsfluss auswirken. Wenn diese dann auch noch zu knapp auffahren kann auch
+ein Überholen für das nachfolgende Fahrzeug ein Problem werden.
 
 **Messenger - das Tippen von Textnachrichten**
 
