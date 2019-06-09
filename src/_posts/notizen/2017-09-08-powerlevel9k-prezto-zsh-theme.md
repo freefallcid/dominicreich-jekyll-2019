@@ -3,7 +3,7 @@ title: 'Das ultimative ZSH-Theme für prezto: Powerlevel9k'
 excerpt: >
   Ein sehr gelungenes Theme falls du zsh und prezto in deinem Terminal verwendest.
 tags: [macos, zsh, terminal, til]
-last_modified_at: 2019-04-18 17:58:42
+last_modified_at: 2019-06-09T12:03:55+02:00
 categories: [notizen]
 toc: true
 repo: prezto
@@ -85,3 +85,12 @@ verschiedene Methoden für die korrekte Anzeige dieser Symbole.
 
 Du solltest das Terminal eventuell schließen und erneut öffnen, denn die
 Schriftarten werden im aktuell geöffneten Terminal in der Regel nicht übernommen.
+
+## Off-Topic: Installation via Oh-My-ZSH
+
+Ich habe neulich ein tolles Video auf YouTube gesehen und dachte, dass das
+eventuell für mehr Leute interessant sein könnte. Seht selbst.
+
+{% figure caption:"Das Video ist von [baby WOGUE auf YouTube](https://www.youtube.com/channel/UCZWadyLVO4ZnMgLrRVtS6VA)." %}
+{% youtube wM1uNqj71Ko %}
+{% endfigure %}
