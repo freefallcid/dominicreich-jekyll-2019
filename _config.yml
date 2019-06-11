@@ -2,8 +2,8 @@
 source: .tmp/src
 destination: .tmp/dist
 
-title: "dominicreich.com"
-description: "Persönliche Webseite von Dominic Reich."
+title: "DOMINICREICH.COM"
+description: "Hold me, thrill me, kiss me, kill me."
 logo: &logo "/assets/images/android-chrome-384x384.png"
 locale: "de_AT"
 words_per_minute: 200
