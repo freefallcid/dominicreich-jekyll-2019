@@ -30,11 +30,15 @@ So schoben sich die Gemeinde Längenfeld als auch
 [die Wildbach](https://www.bmnt.gv.at/forst/wildbach-lawinenverbauung.html)
 gegenseitig die Zuständigkeit in die Schuhe.
 
-Wir hatten bereits vor der Einreichung eine
+<!-- Wir hatten bereits vor der Einreichung eine
 [Zustimmungserklärung](/files/2015-01-31-raffl-bruno.pdf)[^raffl] unseres
+Nachbars Bruno RAFFL, Ehrenbürger der Gemeinde Längenfeld, eingeholt. -->
+
+Wir hatten bereits vor der Einreichung eine
+[Zustimmungserklärung](/assets/images/hausbau/2015-01-31-raffl-bruno.jpg)[^raffl] unseres
 Nachbars Bruno RAFFL, Ehrenbürger der Gemeinde Längenfeld, eingeholt.
 
-[^raffl]: Eine Zustimmung im Sinne des §6 der TBO.<br><br>**§6 (3):** Für die Ausstattung von oberirdischen baulichen Anlagen mit begehbaren Dächern über 1,5m vom anschließenden Gelände.<br><br>**§6 (6):** Zur Verbauung von mehr als der Hälfte der gemeinsamen Grundgrenze.
+[^raffl]: Eine Zustimmung im Sinne des §6 der TBO.<br><br>**§6 (3):** Für die Ausstattung von oberirdischen baulichen Anlagen mit begehbaren Dächern über 1,5m vom anschließenden Gelände.<br><br>**§6 (6):** Zur Verbauung von mehr als der Hälfte der gemeinsamen Grundgrenze.<br><br>[Als PDF ansehen](/files/2015-01-31-raffl-bruno.pdf)
 
 *[TBO]: Tiroler Bau-Ordnung
 
@@ -167,13 +171,13 @@ Balkonen selbst aufgetragen werden.
   ![Ansicht Rohbau vom Kran](/assets/images/hausbau/23_ansicht-vom-kran+gefaellebeton-th.jpg)
 {% endfigure %}
 
-## Innenbereich
+## Innenbereich und Fassade
 
 Die erste Treppe (Keller-Erdgeschoß) wurde noch mit dem Dach betoniert (wenn
-ich mich nicht irre), während die zweite Treppe (vom Erdgeschoß ins 1. Obergeschoß)
-später betoniert wurde. Die Treppe vom 1. Obergeschoß ins 2. Obergeschoß wurde
-überhaupt viel später betoniert. Hierfür war etwas mehr aufwand notwendig, da
-wir die Seite der Treppe erst mit Schaltafeln in den Raum stellen mussten.
+ich mich nicht irre), während die zweite und dritte Treppe (EG-OG1 sowie OG1-OG2)
+später betoniert wurden. Letztere zwei Treppen wurde im Jänner mit Beton von der
+Ötzer Firma Thurner Franz betoniert, da der Betonlieferant Scheiber im Jänner
+geschlossen hatte.
 
 {% figure caption:"Die Kellertreppe wurde von mir geschalt, während Daniel am Ötzerberg blieb, um sich von seiner Erkältung zu erholen." %}
   ![Treppe ins EG](/assets/images/hausbau/18_treppe-keller-eg.jpg)
@@ -181,6 +185,12 @@ wir die Seite der Treppe erst mit Schaltafeln in den Raum stellen mussten.
 
 {% figure caption:"Mein Bruder Daniel schalte die aufwändigere Treppe vom Erdgeschoß ins 1. Obergeschoß." %}
   ![Treppe ins 1. OG](/assets/images/hausbau/24_treppe-eg-og1.jpg)
+{% endfigure %}
+
+{% figure class:"gallery-3-col" caption:"Die dritte Treppe war etwas aufwändiger zu schalen. Kann sich aber sehen lassen :wink:" %}
+  ![](/assets/images/hausbau/30_treppe-og1-og2-th.jpg)
+  ![](/assets/images/hausbau/31_treppe-og1-og2-th.jpg)
+  ![](/assets/images/hausbau/32_treppe-og1-og2-betoniert-th.jpg)
 {% endfigure %}
 
 Weiter ging es mit den Innenwänden sowie den einzelnen Gewerken wie dem
@@ -192,7 +202,76 @@ Installateur oder dem Elektriker.
   ![Badewanne Dominic](/assets/images/hausbau/25_bad-dominic-th.jpg)
 {% endfigure %}
 
-## Der Sturm gab seinen Beitrag
+{% figure class:"gallery-2-col" caption:"Installateur und Elektriker am Werk." %}
+  ![](/assets/images/hausbau/33_installateur-th.jpg)
+  ![](/assets/images/hausbau/34_elektro-th.jpg)
+{% endfigure %}
+
+{% figure caption:"Im Innenbereich wurden die Rigipsdecke und die Spots montiert. Natürlich alles Marke Eigenbau." %}
+  ![](/assets/images/hausbau/39_rigipsdecke-spots.jpg)
+{% endfigure %}
+
+{% figure class:"gallery-3-col" caption:"Anschließend wurden die Räume feingeputzt sowie die Innentüren gesetzt. Im Anschluss bekam die Fassade ihre Isolation." %}
+  ![](/assets/images/hausbau/40_feinputz-th.jpg)
+  ![](/assets/images/hausbau/41_feinputz-innentueren-th.jpg)
+  ![](/assets/images/hausbau/42_fassade-isolation-th.jpg)
+{% endfigure %}
+
+{% figure class:"gallery-2-col" caption:"Daniel bekam seine Küche eingebaut." %}
+  ![](/assets/images/hausbau/43_kueche-daniel-th.jpg)
+  ![](/assets/images/hausbau/44_kueche-esstisch-daniel-th.jpg)
+{% endfigure %}
+
+{% figure class:"gallery-2-col" caption:"Und ich bekam meine." %}
+  ![](/assets/images/hausbau/45_kueche-dominic-th.jpg)
+  ![](/assets/images/hausbau/46_kueche-dominic-th.jpg)
+{% endfigure %}
+
+Jetzt musste noch [der Elektroverteiler](/assets/images/hausbau/47_elektroverteiler.jpg)
+fertig gestellt werden. Zumindest: fast fertig.
+
+Die Fensterbalken ließen wir von der Firma SteinTec fertigen, mit dem Ergebnis
+waren wir allerdings nicht ganz zufrieden.
+
+{% figure caption:"Die Fensterbalken wurden weder in Gehrung geschnitten, noch das übliche Gefälle beim Montieren mitkalkuliert. Ebenso wurden die Tropfnasen nicht umschließend eingefräst." %}
+  ![](/assets/images/hausbau/48_steintec-murks.jpg)
+{% endfigure %}
+
+Die Isolation am Dach wurde fast zur Gänze von Daniel und seiner Freundin Ursula
+verlegt, ich half später beim "Kiesen"[^kies].
+
+[^kies]: Beim Verteilen des Kies-Materials.
+
+{% figure caption:"Das Verlegen der Dämmplatten war nicht immer leicht. Der Wind und die Kälte gaben zudem ihr Bestes." %}
+  ![](/assets/images/hausbau/49_dach-isolation.jpg)
+{% endfigure %}
+
+Weiter ging es im Innenbereich um die Installation der Raumthermostate und der
+zugehörigen Steuerung in den Fußbodenheizungsverteilerkästen.
+
+{% figure class:"gallery-2-col" caption:"Die Raumthermostate wurden kontrolliert und wenn nötig kalibriert. Die Thermostate mussten mit den richtigen Motoren zusammengeschlossen werden." %}
+  ![](/assets/images/hausbau/50_elektro-raumthermostate-th.jpg)
+  ![](/assets/images/hausbau/51_fussbodenheizungsverteiler-th.jpg)
+{% endfigure %}
+
+Die erste Einrichtung in meinem Keller waren die
+[Halterungen für meine Autoreifen](/assets/images/hausbau/52_keller-autoreifen.jpg).
+
+{% figure class:"gallery-2-col" caption:"Bad und WC wurde gefliest. Danach fuhr ich mit der Montage des Spiegelschrankes und des Waschbeckens fort." %}
+  ![](/assets/images/hausbau/53_fliesen-bad-th.jpg)
+  ![](/assets/images/hausbau/54_montage-spiegelschrank-th.jpg)
+{% endfigure %}
+
+Während ich meine Sanitärräume fliesen lassen musste, versuchte sich Daniel selbst
+an diesem Gewerk -- und hat es nicht schlecht hinbekommen.
+
+{% figure caption:"Das Türschließsystem von Daniel ist ein bisschen komplizierter aufgebaut als üblich, dafür aber um eine Ecke sicherer in dessen Anwendung." %}
+  ![](/assets/images/hausbau/55_tuerschliesssystem-daniel.jpg)
+{% endfigure %}
+
+
+
+## Stürmische Tage
 
 Leider hatten wir auch mit der einen oder anderen Panne zu kämpfen. Eine davon
 war sicherlich der Absturz eines Jalousiekastens während in Tirol der starke
@@ -202,11 +281,24 @@ Wind sein Unwesen trieb.
   ![](/assets/images/hausbau/29_jalousiesturz.jpg)
 {% endfigure %}
 
-## Der Außenbereich
+## Die Außenanlage
 
-Der Außenbereich wurde später auch verfeinert. 
+Als wir dann bereits eingezogen waren widmeten wir uns der Außenanlage.
 
-<!-- die mauer bei dominic,  -->
+{% figure class:"gallery-2-col" caption:"Die Fundamente sowie Abwasserrohre bzw. Elektroleitungen mussten noch gesetzt bzw. verlegt werden." %}
+  ![](/assets/images/hausbau/36_fundament-haustuer-daniel.jpg)
+  ![](/assets/images/hausbau/38_fundament-haustuer-dominic.jpg)
+{% endfigure %}
+
+Weiters war eine kleine Stürzmauer im Garten geplant.
+
+{% figure class:"gallery-2-col" caption:"Das Fundament für die Gartenmauer wird ausgehoben. Im zweiten Bild wurde bereits die Hälfte betoniert." %}
+  ![](/assets/images/hausbau/35_einfriedung-th.jpg)
+  ![](/assets/images/hausbau/37_einfriedung-gartenmauer-th.jpg)
+{% endfigure %}
+
+
+
 
 
 {% comment %}
