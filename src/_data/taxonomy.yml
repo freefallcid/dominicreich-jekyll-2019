@@ -8,3 +8,7 @@ jekyll:
 til:
   title: "Today I learned"
   description: "Learnings captured for educational purposes and posterity."
+
+prezto:
+  title: "Prezto - Instantly Awesome Zsh"
+  description: "Eine Art Modul-Manager für die Z-Shell. Zusammen mit Powerlevel9k bzw. neuerdings Powerlevel10k unschlagbar!"
