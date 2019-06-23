@@ -4,7 +4,7 @@ excerpt: >
   Das Theme (in meinem Fall für prezto) sieht genauso aus wie Powerlevel9k,
   ist jedoch um ein Vielfaches schneller.
 tags: [macos, freebsd, zsh, terminal, til, prezto]
-last_modified_at: 2019-06-23T08:06:19+02:00
+last_modified_at: 2019-06-23T11:56:16+02:00
 categories: [notizen]
 toc: true
 repo: prezto
@@ -39,6 +39,9 @@ Uhrzeit angezeigt.
 ![Beispiel Powerlevel10k (MacOS)](/assets/images/prezto-powerlevel10k-macos.jpg)
 {: .browser-frame}
 
+Für die Installation von Pure Power lese einfach weiter. Weiter unten gib's dann
+einen Copy&Paste-Befehl :wink: (oder [direkt zum Absatz](#pure-power))
+
 ## Installation
 
 Generell solltest du dir das
@@ -68,6 +71,28 @@ $ cd ~/.zprezto
 $ git pull
 $ git submodule update --init --recursive
 ```
+
+### Pure Power
+
+Pure Power (`.purepower`) ist eine Konfigurationsdatei für das Powerlevel10k-Theme.
+Es sorgt dafür, dass dein Prompt schnell und effizient arbeitet. Ein kurzer Auszug
+aus der Datei:
+
+> This file defines configuration options for Powerlevel10k ZSH theme that will make your prompt
+> lightweight and sleek, unlike the default bulky look. You can also use it with Powerlevel9k -- a
+> great choice if you need an excuse to have a cup of coffee after every command you type.
+
+Um `.purepower` ins Heimverzeichnis zu installieren führe folgenden Befehl aus:
+
+```terminal
+$ ( cd && curl -fsSLO https://raw.githubusercontent.com/romkatv/dotfiles-public/master/.purepower )
+$ echo 'source ~/.purepower' >>! ~/.zshrc
+```
+
+Die zweite Zeile sorgt dafür, dass die Datei am Ende der `.zshrc`-Datei
+"gesourced"[^sourced] wird.
+
+[^sourced]: Wenn eine Datei "gesourced" wird, wird sie geladen bzw. "ausgeführt".
 
 ## Fazit
 
