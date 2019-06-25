@@ -9,7 +9,7 @@ image:
   height: 958
   caption: Foto von **Dominic Reich**
 categories: [artikel]
-tags: [klamm, hochbau, tiefbau]
+tags: [klamm]
 toc: true
 support: true
 # comments: true
@@ -36,21 +36,21 @@ Nachbars Bruno RAFFL, Ehrenbürger der Gemeinde Längenfeld, eingeholt. -->
 
 Wir hatten bereits vor der Einreichung eine
 [Zustimmungserklärung](/assets/images/hausbau/2015-01-31-raffl-bruno.jpg)[^raffl] unseres
-Nachbars Bruno RAFFL, Ehrenbürger der Gemeinde Längenfeld, eingeholt.
+Nachbars, einem Ehrenbürger der Gemeinde Längenfeld, eingeholt.
 
 [^raffl]: Eine Zustimmung im Sinne des §6 der TBO.<br><br>**§6 (3):** Für die Ausstattung von oberirdischen baulichen Anlagen mit begehbaren Dächern über 1,5m vom anschließenden Gelände.<br><br>**§6 (6):** Zur Verbauung von mehr als der Hälfte der gemeinsamen Grundgrenze.<br><br>[Als PDF ansehen](/files/2015-01-31-raffl-bruno.pdf)
 
 *[TBO]: Tiroler Bau-Ordnung
 
-Lustig war allerdings, dass Hr. Raffl das Grundstück daraufhin an seine Enkelin
-übergeben (vererbt) hat. Diese wiederum beteuerte später[^spaeter], dass Sie von all dem nichts
-wusste, obwohl der Erblasser (ihr Großvater) sie eigentlich auf eventuell
-bestehende Belastungen hätte hinweisen müssen.
+Lustig war allerdings, dass Herr R. das Grundstück daraufhin an seine Enkelin
+übergeben (vererbt) hat. Diese wiederum beteuerte später[^spaeter], dass Sie von
+all dem nichts wusste, obwohl der Erblasser (ihr Großvater) sie eigentlich auf
+eventuell bestehende Belastungen hätte hinweisen müssen.
 
 [^spaeter]: Später ist gut, eigentlich kurz vor der angesetzten Bauverhandlung, sodass mein Bruder Daniel über Nacht einen neuen, abgeänderten Einreichplan gezeichnet hat.
 
-Nach dieser ersten Hürde wollte unser zugereister Nachbar Hanspeter LAMPERT aus
-der Schweiz mit seinem deutschen Kompagnon Stefan FISCHER uns weitere Steine in
+Nach dieser ersten Hürde wollte unser zugereister Nachbar Herr L. aus
+der Schweiz mit seinem deutschen Kompagnon Herr F. uns weitere Steine in
 den Weg legen. Die beiden verstanden es, den Bauvortschritt in der Planungsphase
 hinauszuzögern. Da wir in unserem ersten Entwurf auf eine Unterschrift des
 Nachbarn angewiesen waren, mussten wir auf dessen angeblichen Rechtsanwalt warten,
@@ -61,7 +61,7 @@ Mit dem neuen Bürgermeister bekamen wir bereits nach zwei Wochen unsere lang
 ersehnte Bauverhandlung.
 
 Doch bevor dieser Artikel zu sehr über unsere freundlichen Nachbarn abschweift
-widmen wir uns wieder dem eigentlichen Projekt: unserem Haus in der Klamm.
+widmen wir uns wieder dem eigentlichen Projekt: _unserem Haus in der Klamm_.
 
 ## Die Bodenplatte
 
@@ -230,7 +230,7 @@ Installateur oder dem Elektriker.
 Jetzt musste noch [der Elektroverteiler](/assets/images/hausbau/47_elektroverteiler.jpg)
 fertig gestellt werden. Zumindest: fast fertig.
 
-Die Fensterbalken ließen wir von der Firma SteinTec fertigen, mit dem Ergebnis
+Die Fensterbalken ließen wir von einem lokalen Steinmetz fertigen, mit dem Ergebnis
 waren wir allerdings nicht ganz zufrieden.
 
 {% figure caption:"Die Fensterbalken wurden weder in Gehrung geschnitten, noch das übliche Gefälle beim Montieren mitkalkuliert. Ebenso wurden die Tropfnasen nicht umschließend eingefräst." %}
