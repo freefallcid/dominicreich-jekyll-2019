@@ -32,7 +32,7 @@ gibt es eine [XML-Version](/sitemap.xml).
 ## [Rezepte](/rezepte/)
 
 <ul>
-  {% for post in site.rezepte %}
+  {% for post in site.categories.rezepte %}
     {% include post-list.html %}
   {% endfor %}
 </ul>
