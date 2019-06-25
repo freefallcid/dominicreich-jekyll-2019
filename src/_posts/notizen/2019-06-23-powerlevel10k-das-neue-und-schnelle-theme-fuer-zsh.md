@@ -3,8 +3,8 @@ title: 'Powerlevel9k ➔ Powerlevel10k'
 excerpt: >
   Das Theme (in meinem Fall für prezto) sieht genauso aus wie Powerlevel9k,
   ist jedoch um ein Vielfaches schneller.
-tags: [macos, freebsd, zsh, terminal, til, prezto]
-last_modified_at: 2019-06-23T11:56:16+02:00
+tags: [macos, freebsd, linux, terminal, prezto, zsh]
+last_modified_at: 2019-06-25T21:16:12+02:00
 categories: [notizen]
 toc: true
 repo: prezto

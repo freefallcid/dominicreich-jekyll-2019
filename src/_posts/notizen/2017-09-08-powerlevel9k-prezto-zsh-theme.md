@@ -3,7 +3,7 @@ title: 'Das ultimative ZSH-Theme für prezto: Powerlevel9k'
 excerpt: >
   Ein sehr gelungenes Theme falls du zsh und prezto in deinem Terminal
   verwendest. Oder Oh-My-ZSH. Ach, sieh' es dir an, du wirst es nicht bereuen!
-tags: [macos, zsh, terminal, til, prezto]
+tags: [macos, freebsd, linux, terminal, prezto, zsh]
 last_modified_at: 2019-06-21 23:20:54
 categories: [notizen]
 toc: true
