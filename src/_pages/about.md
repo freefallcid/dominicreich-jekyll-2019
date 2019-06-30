@@ -2,7 +2,7 @@
 permalink: /about/
 title: Über Dominic Reich
 date: 2016-08-26
-last_modified_at: 2019-04-18 18:03:49
+last_modified_at: 2019-06-30T13:32:50+02:00
 excerpt: >
   Dominic Reich arbeitet derzeit als Schaler im wunderschönen Ötztal.
   Dominic Reich is a construction worker from Längenfeld.
@@ -55,27 +55,18 @@ veröffentlicht.
 
 Zuhause verwende ich mehrere verschiedene Geräte:
 
-| Gerät             | Betriebssystem         | Kaufen?            |
-| :---------------- | :--------------------- | :-                 |
-| Macbook Pro       | MacOS Mojave           | [Amazon][macbook]  |
-| Lenovo T420       | FreeBSD STABLE         | [Amazon][t420]     |
-| Lenovo T60        | N/A                    | [Amazon][t60]      |
-| Asus X73SV-TY152V | Windows 7 Pro          | [Amazon][asus]     |
-| iPad mini 4       | iOS                    | [Amazon][ipad]     |
-| iPhone 7+         | iOS                    | |
-| iPhone X          | iOS                    | |
-| Galaxy S5         | Nethunter              | [Amazon][galaxys5] |
-| APU 2C4           | opnSense               | [Hersteller-Info][apu2c4]   |
-| APU 1D4           | opnSense               | [Amazon][apu1d4]   |
-
-[macbook]: https://www.amazon.de/gp/product/B00XXAEZAK/
-[t420]: https://www.amazon.de/gp/product/B01N07RIZO/
-[t60]: https://www.amazon.de/gp/product/B00ADLWOSM/
-[asus]: https://www.amazon.de/gp/product/B004XG4HBK/
-[ipad]: https://www.amazon.de/gp/product/B00G50ILJ6/
-[galaxys5]: https://www.amazon.de/gp/product/B00JR6JG1W/
-[apu2c4]: https://www.pcengines.ch/apu2c4.htm
-[apu1d4]: https://www.amazon.de/gp/product/B00NXU4XW0/
+| Gerät                                                             | Betriebssystem         |
+| :----------------                                                 | :--------------------- |
+| [Macbook Pro](https://www.amazon.de/gp/product/B00XXAEZAK/)       | MacOS Mojave           |
+| [Lenovo T420](https://www.amazon.de/gp/product/B01N07RIZO/)       | FreeBSD STABLE         |
+| [Lenovo T60](https://www.amazon.de/gp/product/B00ADLWOSM/)        | Gentoo Linux           |
+| [Asus X73SV-TY152V](https://www.amazon.de/gp/product/B004XG4HBK/) | Windows 7 Pro          |
+| [iPad mini 4](https://www.amazon.de/gp/product/B00G50ILJ6/)       | iOS                    |
+| [iPhone 7+]()                                                     | iOS                    |
+| [iPhone X]()                                                      | iOS                    |
+| [Galaxy S5](https://www.amazon.de/gp/product/B00JR6JG1W/)         | Nethunter              |
+| [APU 2C4](https://www.pcengines.ch/apu2c4.htm)                    | opnSense               |
+| [APU 1D4](https://www.amazon.de/gp/product/B00NXU4XW0/)           | opnSense               |
 
 Mittlerweile hat sich mein Interesse an der technischen Entwicklung etwas gelegt
 bzw. auf andere Gebiete ausgedehnt. Darunter fällt zum Beispiel die
@@ -93,14 +84,14 @@ V 360°-Kamera, eine Canon IXUS Kompaktkamera sowie mein Telefon für etwaige
 Schnappschüsse. Nachfolgend siehst du eine kleine Übersicht über die Objektive, die
 ich mit meiner 80D verwende.
 
-| Seit | Marke   | Modell                           | Kaufen?     |
-| :-   | :-      | :-                               | :-          |
-| 2008 | Canon   | 70--200mm 1:2,8 EF IS USM        | [Amazon][1] |
-| 2009 | Sigma   | 10--20mm 1:4-5,6 EX DC HSM       | [Amazon][2] |
-| 2010 | Sigma   | 150mm 1:2,8 EX APO DG Macro HSM  | [Amazon][3] |
-| 2017 | Canon   | 50mm 1:1,8 EF STM                | [Amazon][4] |
-| 2017 | Canon   | 24mm 1:2,8 EF-S STM              | [Amazon][5] |
-| 2017 | Samyang | 8mm 1:3,5 MC CS II Fisheye       | [Amazon][6] |
+| Seit | Marke   | Modell                                                                           |
+| :-   | :-      | :-                                                                               |
+| 2008 | Canon   | [70--200mm 1:2,8 EF IS USM](https://www.amazon.de/dp/product/B0033567D8/)        |
+| 2009 | Sigma   | [10--20mm 1:4-5,6 EX DC HSM](https://www.amazon.de/gp/product/B0007U00X0/)       |
+| 2010 | Sigma   | [150mm 1:2,8 EX APO DG Macro HSM](https://www.amazon.de/gp/product/B00063KO52/)  |
+| 2017 | Canon   | [50mm 1:1,8 EF STM](https://www.amazon.de/gp/product/B00XKSBMQA/)                |
+| 2017 | Canon   | [24mm 1:2,8 EF-S STM](https://www.amazon.de/gp/product/B00NLBGD1A/)              |
+| 2017 | Samyang | [8mm 1:3,5 MC CS II Fisheye](https://www.amazon.de/gp/product/B009YTQFF2/)       |
 
 [1]: https://www.amazon.de/dp/product/B0033567D8/
 [2]: https://www.amazon.de/gp/product/B0007U00X0/
