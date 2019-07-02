@@ -47,7 +47,6 @@ eine Antwort von mir meist länger dauert.
   <div data-netlify-recaptcha="true"></div>
   <div>
     <button id="submit" name="submit" type="submit" class="btn">Nachricht abschicken</button>
-    <button id="reset" name="reset" type="reset" class="btn">Eingaben zurücksetzen</button>
   </div>
   <div class="hidden">
     <label id="lblComment" for="comment">Nicht ausfüllen
