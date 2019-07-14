@@ -163,6 +163,29 @@ Ein Autofahrer wird sich das Überholmanöver auch zweimal überlegen. Dazu komm
 dann noch meistens, dass die Menschen viel zu wenig Abstand zueinander halten.
 Das macht ein Überholen von einzelnen Autos dann auch meist unmöglich.
 
+## Motorradfahrer
+
+Es sieht beinahe so aus, als würden immer mehr Leute mit dem Motorrad fahren.
+Leider bedeutet das nicht automatisch, dass sie das auch können. Im Grunde
+begegnet man zwei Arten von Motorradfahrern:
+
+1. typisch durchgeknallter Psychopathen
+2. Anfänger
+
+Folgendes ist mir im Laufe der Zeit aufgefallen:
+
+* Man überholt selber weniger, weil man Motorradfahrer bereits im Rückspiegel
+auf sehr große Entfernung sieht, jedoch meist nur sehr schlecht seine
+Geschwindigkeit abschätzen kann (zumal diese auch sehr schnell beschleunigen
+können). Somit führt die eigene Fahrt eher zur Frustration.
+* Motorradfahrer fahren mir meist hinterher und überholen nicht. Es sei denn, es
+ist eine Kurve voraus, dann besteht eine 98%-ige Chance, dass der Motorradfahrer
+überholt (und somit andere Verkehrsteilnehmer gefährdet).
+* Motorradfahrer fahren bei Kolonnen vorbei und stellen sich dann meist auf den
+vom Autofahrer freigelassenen Platz (zum Beispiel an Kreuzungen oder
+Zebrastreifen). Auch auf Gehsteigen habe ich diese des öfteren Absteigen und
+warten sehen.
+
 ## Mobiltelefon
 
 **Telefonieren ohne Freisprecheinrichtung**
