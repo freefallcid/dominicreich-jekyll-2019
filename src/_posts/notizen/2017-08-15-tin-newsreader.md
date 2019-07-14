@@ -2,7 +2,6 @@
 title: So kompiliere ich den Newsreader tin
 excerpt: Meine Konfiguration des Newsreaders [tin](http://www.tin.org/).
 tags: [macos, terminal, til]
-# last_modified_at: 2018-02-01T20:07:25+01:00
 categories: [notizen]
 ---
 

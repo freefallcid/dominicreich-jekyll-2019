@@ -1,20 +1,9 @@
 ---
 title: YAML-Frontmatter
 excerpt: Eine Seite mit aktuell gehaltenen Frontmatter-Informationen.
-# image:
-#   path: &image /assets/images/.jpg
-#   feature: *image
-#   width: 1920
-#   height: 800
-#   caption: "[Foto von **Unbekannt** via Unsplash](https://)"
 categories: [notizen]
 tags: [yaml]
 toc: true
-# support: true
-# comments: true
-# comments_locked: true
-# published: false
-# last_modified_at: 
 ---
 
 Ich möchte hier Informationen zu den verschiedenen Möglichkeiten in Jekyll zum

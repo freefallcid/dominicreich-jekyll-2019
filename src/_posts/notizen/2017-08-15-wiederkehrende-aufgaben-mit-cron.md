@@ -2,7 +2,6 @@
 title: Wiederkehrende Aufgaben mit cron ausführen
 excerpt: Führe ein Skript am ersten Samstag in jedem zweiten Monat aus.
 tags: [linux, macos, cron, til]
-# last_modified_at: 2018-02-01T23:12:06+01:00
 categories: [notizen]
 repo: staubsauger-erinnerung
 ---

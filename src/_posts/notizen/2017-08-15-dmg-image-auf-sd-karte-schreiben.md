@@ -2,7 +2,6 @@
 title: Schreibe ein `dmg`-Image auf eine SD-Karte
 excerpt: Ein `dmg`-Image soll auf eine SD-Karte geschrieben werden.
 tags: [macos, terminal, til]
-# last_modified_at: 2018-01-30T21:15:35+01:00
 categories: [notizen]
 ---
 

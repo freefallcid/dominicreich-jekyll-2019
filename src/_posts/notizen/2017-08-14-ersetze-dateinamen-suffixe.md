@@ -2,7 +2,6 @@
 title: Ersetze mehrere Dateinamen-Suffixe auf einmal
 excerpt: Ändere alle Dateinamen-Suffixe in einem Verzeichnis in der Konsole.
 tags: [linux, macos, terminal, til]
-# last_modified_at: 2018-01-30T20:30:24+01:00
 categories: [notizen]
 ---
 

@@ -4,7 +4,6 @@ excerpt: >
   Erzeuge schnell einen 100%-igen 300&times;300-Crop aus der Mitte eines Bildes.
   Verwendet ImageMagick.
 tags: [linux, macos, terminal, photography, til]
-# last_modified_at: 2018-01-30T00:16:55+01:00
 categories: [notizen]
 ---
 

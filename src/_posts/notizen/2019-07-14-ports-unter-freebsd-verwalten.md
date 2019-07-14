@@ -2,25 +2,11 @@
 title: Ports unter FreeBSD verwalten
 excerpt: |
   Verwalte installierte Ports unter FreeBSD.
-# image:
-#   path: &image /assets/images/freebsd.jpg
-#   feature: *image
-#   width: 1920
-#   height: 800
-#   caption: "[Foto von **Unbekannt** via Unsplash](https://)"
 categories: [notizen]
 tags: [freebsd, ports]
 toc: true
 support: true
-# comments: true
-# comments_locked: true
-# published: false
-# last_modified_at: 
 ---
-
-{% notice info %}
-Diese Notiz wird von Zeit zu Zeit aktualisiert.
-{% endnotice %}
 
 ## Neue Ports installieren
 
