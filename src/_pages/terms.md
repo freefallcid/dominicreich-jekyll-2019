@@ -118,7 +118,7 @@ Just like this website, my disclosure policy is a work in progress. As the reven
 
 ## Lizenz
 
-Der Inhalt auf DOMINICREICH.COM (wie etwa Blor-Artikel, Notizen, Software,
+Der Inhalt auf DOMINICREICH.COM (wie etwa Blog-Artikel, Notizen, Software,
 Zeichnungen, Fotos, usw.) wird unter der
 [Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International][cc]
 -Lizenz veröffentlicht -- außer es wird auf eine andere Lizenz verwiesen.
