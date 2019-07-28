@@ -3,7 +3,7 @@ title: Welcher Prozess lauscht auf einem bestimmten Port?
 excerpt: >
   Du willst herausfinden welcher Prozess auf einem bestimmten Port lauscht?
 categories: [notizen]
-tags: [linux, command line]
+tags: [linux, terminal]
 # toc: true
 # support: true
 # comments: true
