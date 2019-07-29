@@ -153,11 +153,11 @@ newgroup:admin@tmsn.at:dominicreich.*:doit
 rmgroup:admin@tmsn.at:dominicreich.*:doit
 ```
 
-{% notice warning %}
-**Watch out!** There is no verification yet implemented. A fake message from
-`admin@tmsn.at` would add or delete groups. If you plan to use your newsserver
-on a production environment you should probably think about a good implementation
-of any kind of user verification.
+{% notice danger %}
+**Achtung!** Es gibt hier keine Garantie, dass der Absender auch stimmt. Der
+Absender der Nachricht könnte theoretisch gefälscht werden und die Nachricht
+würde vom Newsserver angenommen werden. Im produktiven Einsatz sollte hier eine
+vernünftige Benutzerverifikation eingebaut werden!
 {% endnotice %}
 
 Wir sollten womöglich eine Verifizierung mit einbauen, sodass diese auch
