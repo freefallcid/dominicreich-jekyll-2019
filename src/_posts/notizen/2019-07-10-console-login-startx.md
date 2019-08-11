@@ -23,3 +23,9 @@ fi
 heißen diese zum Beispiel `tty1`, `tty2` und so weiter. Unter FreeBSD heißen
 diese (glaub' ich) `ttyv0`, `ttyv1` etc.
 {% endnotice %}
+
+### Weitere Informationen
+
+- <https://www.howtoforge.de/anleitung/linux-tty-befehl/>
+- <https://askubuntu.com/questions/66195/what-is-a-tty-and-how-do-i-access-a-tty#answers>
+- <https://www.freebsd.org/doc/de_DE.ISO8859-1/books/handbook/consoles.html>
