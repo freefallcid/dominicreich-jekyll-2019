@@ -3,7 +3,7 @@ title: X direkt nach Konsolenlogin starten
 excerpt: >
   Starte X gleich nach dem Login auf einer virtuellen Konsole (vtty, tty).
 categories: [notizen]
-tags: [X11, linux, freebsd]
+tags: [X11, zsh, linux, freebsd]
 ---
 
 Nach dem Login auf einer vorher definierten (siehe unten) virtuellen Konsole
@@ -12,16 +12,14 @@ selbst bestimmen.
 
 Inhalt der Datei `.zlogin` im Heimverzeichnis:
 
-```
-if [[ -z ${DISPLAY} && ${TTY} == "/dev/ttyv0" ]]; then
+``` bash
+if [[ -z ${DISPLAY} && ${TTY} == "/dev/tty1" ]]; then
   exec startx -- vt1
 fi
 ```
 
-`/dev/ttyv0` ist dabei das Terminal, auf dem die Anmeldung erfolgen soll. Nach
-erfolgreichem Login wird auf `vt1` ein X-Server gestartet.
-
 {% notice info %}
-**Info:** Der Name der virtuellen Konsolen kann dabei variieren. Unter Kali Linux
-heißen diese zum Beispiel `tty1`, `tty2` und so weiter...
+**Info:** Die Namen der Terminals können dabei variieren. Unter Gentoo Linux
+heißen diese zum Beispiel `tty1`, `tty2` und so weiter. Unter FreeBSD heißen
+diese (glaub' ich) `ttyv0`, `ttyv1` etc.
 {% endnotice %}
