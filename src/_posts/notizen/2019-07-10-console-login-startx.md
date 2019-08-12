@@ -22,6 +22,9 @@ fi
 **Info:** Die Namen der Terminals können dabei variieren. Unter Gentoo Linux
 heißen diese zum Beispiel `tty1`, `tty2` und so weiter. Unter FreeBSD heißen
 diese (glaub' ich) `ttyv0`, `ttyv1` etc.
+
+Den Namen des aktuell verwendeten Terminals kannst du mit dem Befehl `tty`
+anzeigen. Auf einem XTerm (oder ähnlich) heißt das dann meist `/dev/pts/0`.
 {% endnotice %}
 
 ### Weitere Informationen
