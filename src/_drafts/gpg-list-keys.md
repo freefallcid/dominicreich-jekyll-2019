@@ -2,6 +2,7 @@
 title: Kurze Key-IDs in GnuPG anzeigen lassen
 excerpt: >
   Selbst entscheiden, welches `keyid-format` für die Anzeige verwendet werden soll.
+date: 2019-08-11
 categories: [notizen]
 tags: []
 # toc: true
