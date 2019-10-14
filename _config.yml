@@ -9,7 +9,8 @@ locale: "de_AT"
 words_per_minute: 200
 
 repository: "freefallcid/dominicreich-jekyll-2019"
-url: "https://dominicreich.com"
+#url: "https://dominicreich.com"
+url: "https://dominicreich-old.netlify.com"
 
 social:
   name: "Dominic Reich"
