@@ -168,6 +168,7 @@ defaults:
       byline: true
       read_time: true
       comments: true
+      comments_locked: true
       support: true
       breadcrumbs:
         - label: "Blog Artikel"
@@ -187,6 +188,7 @@ defaults:
       byline: false
       read_time: false
       comments: true
+      comments_locked: true
       support: false
       toc: true
       breadcrumbs:
@@ -225,6 +227,7 @@ defaults:
       byline: true
       read_time: true
       comments: true
+      comments_locked: true
       support: true
       breadcrumbs:
         - label: "Fotografie"
@@ -247,6 +250,7 @@ defaults:
       byline: true
       read_time: true
       comments: true
+      comments_locked: true
       support: false
       breadcrumbs:
         - label: "Notizen"
@@ -266,6 +270,7 @@ defaults:
       byline: false
       read_time: true
       comments: true
+      comments_locked: true
       support: true
       breadcrumbs:
         - label: "Zeitraffer-Videos"
@@ -289,6 +294,7 @@ defaults:
       byline: false
       read_time: true
       comments: true
+      comments_locked: true
       support: true
       breadcrumbs:
         - label: "Portfolio"
@@ -346,6 +352,7 @@ defaults:
       byline: false
       read_time: true
       comments: true
+      comments_locked: true
       support: false
       breadcrumbs:
         - label: "Häufig gestellte Fragen"
